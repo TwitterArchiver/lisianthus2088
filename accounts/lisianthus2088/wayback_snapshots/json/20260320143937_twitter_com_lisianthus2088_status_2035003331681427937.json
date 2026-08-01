@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035003331681427937",
+    "created_at": "2026-03-20T14:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035003331681427937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035003331681427937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感冒两周了，吃药吃吐了也不见有好转。感觉生活看我最近过太好了就会让我生病，就像是在提醒我你就这烂命。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035003331681427937",
+        "created_at": "2026-03-20T14:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035003331681427937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035003331681427937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感冒两周了，吃药吃吐了也不见有好转。感觉生活看我最近过太好了就会让我生病，就像是在提醒我你就这烂命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "还不太会用这边，互po聊天请找我",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 21,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2044717867007189047",
+    "created_at": "2026-04-16T10:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044727439159660948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016817355968638976",
+          "start": 0,
+          "username": "yueming937134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044727439159660948",
+    "in_reply_to_user_id": "2016817355968638976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044721094209462308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueming937134 都不银翼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2044717867007189047",
+        "created_at": "2026-04-16T10:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044727439159660948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016817355968638976",
+              "start": 0,
+              "username": "yueming937134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044727439159660948",
+        "in_reply_to_user_id": "2016817355968638976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044721094209462308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueming937134 都不银翼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016817355968638976",
+        "conversation_id": "2044717867007189047",
+        "created_at": "2026-04-16T10:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044721094209462308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044721094209462308",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044717867007189047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 蒜鸟蒜鸟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 失踪就是梯子掉了         提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 120,
+          "like_count": 2910,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T10:15:13.000Z",
+        "description": "哈基米（因为不想发朋友圈，就用这个发了）\n｜直男｜喜欢小猫小狗｜不聊骚不约",
+        "id": "2016817355968638976",
+        "location": "不+v",
+        "name": "曾有风眠于雪",
+        "pinned_tweet_id": "2037484988573298946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040847308431224832/5x680Xvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 42,
+          "like_count": 1361,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 663
+        },
+        "username": "yueming937134",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T10:15:13.000Z",
+        "description": "哈基米（因为不想发朋友圈，就用这个发了）\n｜直男｜喜欢小猫小狗｜不聊骚不约",
+        "id": "2016817355968638976",
+        "location": "不+v",
+        "name": "曾有风眠于雪",
+        "pinned_tweet_id": "2037484988573298946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040847308431224832/5x680Xvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 42,
+          "like_count": 1361,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "yueming937134",
+        "verified": false
+      }
+    ]
+  }
+}

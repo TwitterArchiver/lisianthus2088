@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037175723249852441",
+    "created_at": "2026-03-27T13:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037526759240016109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037526759240016109",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037523787873452100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037175723249852441",
+        "created_at": "2026-03-27T13:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037526759240016109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037526759240016109",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037523787873452100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594653039109230598",
+        "conversation_id": "2037175723249852441",
+        "created_at": "2026-03-27T13:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037523787873452100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037523787873452100",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037519456151433577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 是啊…感情有时候真的变化得很快。\n不过我还没有经历过像你这样的情况，但作为人我多少还是能理解一点。\n希望你一切都好吧👍🏼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 89,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 451
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "just a man with all his imperfections",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/regaforz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/regaforz",
+                "start": 0,
+                "url": "https://t.co/Wsj86GGAPr"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "name": "Rega",
+        "pinned_tweet_id": "2034810749126943127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125758074982401/rV1USe1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 972,
+          "like_count": 5003,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/Wsj86GGAPr",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2046847542688698379",
+    "created_at": "2026-04-22T12:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046922869666677111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046922869666677111",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046847542688698379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 死男的支持凌迟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046847462871126016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfc7D3X0AAJClP.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046847462875275264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfc7D4XIAAQgi5.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046847462871072768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfc7D3XAAALHZ8.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046847462871105536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfc7D3XgAAbGC3.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2046847542688698379",
+        "created_at": "2026-04-22T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046922869666677111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046922869666677111",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046847542688698379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 死男的支持凌迟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046847462871126016",
+            "3_2046847462875275264",
+            "3_2046847462871072768",
+            "3_2046847462871105536"
+          ]
+        },
+        "author_id": "1926589725189476352",
+        "conversation_id": "2046847542688698379",
+        "created_at": "2026-04-22T07:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046847542688698379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChThtScEF7",
+              "end": 40,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2046847542688698379/photo/1",
+              "media_key": "3_2046847462871126016",
+              "start": 17,
+              "url": "https://t.co/ChThtScEF7"
+            },
+            {
+              "display_url": "pic.x.com/ChThtScEF7",
+              "end": 40,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2046847542688698379/photo/1",
+              "media_key": "3_2046847462875275264",
+              "start": 17,
+              "url": "https://t.co/ChThtScEF7"
+            },
+            {
+              "display_url": "pic.x.com/ChThtScEF7",
+              "end": 40,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2046847542688698379/photo/1",
+              "media_key": "3_2046847462871072768",
+              "start": 17,
+              "url": "https://t.co/ChThtScEF7"
+            },
+            {
+              "display_url": "pic.x.com/ChThtScEF7",
+              "end": 40,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2046847542688698379/photo/1",
+              "media_key": "3_2046847462871105536",
+              "start": 17,
+              "url": "https://t.co/ChThtScEF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046847542688698379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我操畜生啊…这个男的就该下地狱。\n肯定会有人说什么裤子不是自动掉的，这个女孩子确实也有错她真的不该相信这个男的。。但是这个女孩子才15岁啊，且不说是男的诱导她，她就算是自己提出来也要拒绝要保护她啊。第一次性行为用15个套，撕裂了还要让她做，这么小的孩子吃5颗避孕药，要打胎要经历这么多的痛。。\n\n我要是15岁碰上这些我连说的勇气都没有了，我会跳楼的。这个女孩子能够说出来真的很坚强。她的前途一片光明。\n\n性教育真的是不容忽视啊。无论为了什么，都不应该过早发生性行为，18岁都未必发育成熟，更何况15岁这么小啊。且不说是这种贱货虚假的爱，真爱也不能这么小就做这些。\n\n这个男的什么时候下地狱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 45252,
+          "like_count": 295,
+          "quote_count": 13,
+          "reply_count": 90,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我操畜生啊…这个男的就该下地狱。 https://t.co/ChThtScEF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 104,
+          "like_count": 3196,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜🇨🇦｜叫我M豆或者豆就好｜Bisexual｜infp｜有主人/老公/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdINC"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2044582265523454025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 370,
+          "like_count": 2650,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/AcyHhjdINC",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

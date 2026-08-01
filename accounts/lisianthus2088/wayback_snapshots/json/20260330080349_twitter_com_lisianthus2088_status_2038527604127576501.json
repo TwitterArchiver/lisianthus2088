@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038267583536013355",
+    "created_at": "2026-03-30T08:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038527604127576501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1707765270125920256",
+          "start": 0,
+          "username": "XL1106199122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038527604127576501",
+    "in_reply_to_user_id": "1707765270125920256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038524535281176959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XL1106199122 老大🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-30T08:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038527604127576501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707765270125920256",
+              "start": 0,
+              "username": "XL1106199122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038527604127576501",
+        "in_reply_to_user_id": "1707765270125920256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038524535281176959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XL1106199122 老大🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707765270125920256",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-30T07:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038524535281176959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038524535281176959",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038267583536013355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 可爱捏☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 104,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 631
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T14:32:35.000Z",
+        "description": "我去galgame里不是这样的为什么没人来攻略我",
+        "id": "1707765270125920256",
+        "name": "锡零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020055457084370951/gBCSJ7xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "XL1106199122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042969299053359363",
+    "created_at": "2026-04-11T18:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043032774123360427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026249075126112256",
+          "start": 0,
+          "username": "z79707540891045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043032774123360427",
+    "in_reply_to_user_id": "2026249075126112256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043030585850106138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z79707540891045 啊啊啊啊啊我要跟你玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042969299053359363",
+        "created_at": "2026-04-11T18:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043032774123360427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026249075126112256",
+              "start": 0,
+              "username": "z79707540891045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043032774123360427",
+        "in_reply_to_user_id": "2026249075126112256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043030585850106138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z79707540891045 啊啊啊啊啊我要跟你玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026249075126112256",
+        "conversation_id": "2042969299053359363",
+        "created_at": "2026-04-11T18:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043030585850106138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043030585850106138",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042969299053359363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 啊你好萌啊！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 119,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1238
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T10:53:53.000Z",
+        "description": "我只是胡言乱语罢了不要当真\n喜欢一些薄肌帅哥😋",
+        "id": "2026249075126112256",
+        "name": "角落的微生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026249313400377345/zQ7q8FP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 110
+        },
+        "username": "z79707540891045",
+        "verified": false
+      }
+    ]
+  }
+}

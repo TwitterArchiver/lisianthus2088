@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2067781951621333449",
+    "created_at": "2026-06-19T01:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067781951621333449"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067781951621333449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上学的时候如果听说“你们学校有个人做了XX坏事”。大家只会疯狂吃瓜完全不会觉得用自己学校指称一个人有什么问题。但是如果说“一个男的做了XX坏事”就会有无数男的群起而护之，说以男性代称这是男女对立。无法理解这种行为。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2067781951621333449",
+        "created_at": "2026-06-19T01:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067781951621333449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067781951621333449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学的时候如果听说“你们学校有个人做了XX坏事”。大家只会疯狂吃瓜完全不会觉得用自己学校指称一个人有什么问题。但是如果说“一个男的做了XX坏事”就会有无数男的群起而护之，说以男性代称这是男女对立。无法理解这种行为。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 86,
+          "like_count": 4388,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1970
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

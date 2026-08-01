@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042596594814718394",
+    "created_at": "2026-04-10T15:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042629491466637658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026572990901792769",
+          "start": 0,
+          "username": "Jasmine__rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042629491466637658",
+    "in_reply_to_user_id": "2026572990901792769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042627205491233165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasmine__rain 我去！什么！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042596594814718394",
+        "created_at": "2026-04-10T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042629491466637658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026572990901792769",
+              "start": 0,
+              "username": "Jasmine__rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042629491466637658",
+        "in_reply_to_user_id": "2026572990901792769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042627205491233165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasmine__rain 我去！什么！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026572990901792769",
+        "conversation_id": "2042596594814718394",
+        "created_at": "2026-04-10T15:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042627205491233165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042627205491233165",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596594814718394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我去老婆 那我白天心动其实也是要猝死了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 117,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1173
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T08:21:00.000Z",
+        "description": "天秤 switch 纯绿🚪888 不陪聊 不接定制 不出原味 喜欢我可以给我打钱\nhttps://t.co/NoQ8pwsyCL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jasmine__rain",
+                "end": 64,
+                "expanded_url": "https://ngl.link/jasmine__rain",
+                "start": 41,
+                "url": "https://t.co/NoQ8pwsyCL"
+              }
+            ]
+          }
+        },
+        "id": "2026572990901792769",
+        "name": "我是一个焦焦的煎蛋",
+        "pinned_tweet_id": "2029520717788967027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040497418421301248/O6G5NX65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 149,
+          "like_count": 4651,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1043
+        },
+        "username": "Jasmine__rain",
+        "verified": false
+      }
+    ]
+  }
+}

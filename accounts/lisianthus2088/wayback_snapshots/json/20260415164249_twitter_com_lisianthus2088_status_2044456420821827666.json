@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2044420478954315798",
+    "created_at": "2026-04-15T16:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044456420821827666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044456420821827666",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044420478954315798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044420434184339456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF89jZcbgAAZZoR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2044420478954315798",
+        "created_at": "2026-04-15T16:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044456420821827666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044456420821827666",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044420478954315798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044420434184339456"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2044420478954315798",
+        "created_at": "2026-04-15T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044420478954315798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSF4SUwj0u",
+              "end": 33,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2044420478954315798/photo/1",
+              "media_key": "3_2044420434184339456",
+              "start": 10,
+              "url": "https://t.co/RSF4SUwj0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044420478954315798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1776,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一直在一起吧^ ^ https://t.co/RSF4SUwj0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 120,
+          "like_count": 2883,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1341
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv",
+        "id": "1985353024244793345",
+        "location": "好友位288",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2028806063185911906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 330,
+          "like_count": 21081,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 2214
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

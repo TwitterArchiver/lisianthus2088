@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2061052022909211012",
+    "created_at": "2026-05-31T11:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061052022909211012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1363431990490357760",
+          "start": 3,
+          "username": "xiaogtg521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061052022909211012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060950339634004319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaogtg521: 没人觉得妻子睡着是件很可怕的事情吗，这意味着她突然就抛下你去到了一个完全不对你开放的隐秘的封闭的个人空间，谁知道她在里面有没有想过要离婚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2061052022909211012",
+        "created_at": "2026-05-31T11:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061052022909211012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1363431990490357760",
+              "start": 3,
+              "username": "xiaogtg521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061052022909211012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060950339634004319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaogtg521: 没人觉得妻子睡着是件很可怕的事情吗，这意味着她突然就抛下你去到了一个完全不对你开放的隐秘的封闭的个人空间，谁知道她在里面有没有想过要离婚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363431990490357760",
+        "conversation_id": "2060950339634004319",
+        "created_at": "2026-05-31T05:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060950339634004319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060950339634004319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 34696,
+          "like_count": 766,
+          "quote_count": 13,
+          "reply_count": 89,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得妻子睡着是件很可怕的事情吗，这意味着她突然就抛下你去到了一个完全不对你开放的隐秘的封闭的个人空间，谁知道她在里面有没有想过要离婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2982,
+          "following_count": 84,
+          "like_count": 4104,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:15:05.000Z",
+        "description": "睡觉了。",
+        "id": "1363431990490357760",
+        "name": "次犬",
+        "pinned_tweet_id": "2058830421543321956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059793309040869376/RlBypy9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3787,
+          "following_count": 360,
+          "like_count": 1929,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 1291
+        },
+        "username": "xiaogtg521",
+        "verified": false
+      }
+    ]
+  }
+}

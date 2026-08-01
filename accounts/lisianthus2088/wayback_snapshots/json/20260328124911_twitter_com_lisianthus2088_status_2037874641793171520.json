@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037777830973710629",
+    "created_at": "2026-03-28T12:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T13:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037874641793171520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1488307757547622403",
+          "start": 0,
+          "username": "Puppy_Brat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037874641793171520",
+    "in_reply_to_user_id": "1488307757547622403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037874191492682163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puppy_Brat 爱你ᗜ 𖥦 ᗜ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037777830973710629",
+        "created_at": "2026-03-28T12:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037874641793171520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1488307757547622403",
+              "start": 0,
+              "username": "Puppy_Brat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037874641793171520",
+        "in_reply_to_user_id": "1488307757547622403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037874191492682163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy_Brat 爱你ᗜ 𖥦 ᗜ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488307757547622403",
+        "conversation_id": "2037777830973710629",
+        "created_at": "2026-03-28T12:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037874191492682163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037874191492682163",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "cs",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037777830973710629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 hug me(｡･ω･｡)ﾉ♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 93,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 516
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T00:26:51.000Z",
+        "description": "乱发",
+        "id": "1488307757547622403",
+        "location": "外太空",
+        "name": "乖",
+        "pinned_tweet_id": "1989924637036482852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035392057469272064/6c6Sw8xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 47,
+          "like_count": 4178,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 364
+        },
+        "username": "Puppy_Brat",
+        "verified": false
+      }
+    ]
+  }
+}

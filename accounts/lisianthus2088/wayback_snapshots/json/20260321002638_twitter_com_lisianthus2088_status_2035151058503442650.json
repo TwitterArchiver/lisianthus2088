@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-21T00:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T01:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035151058503442650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816091925348495360",
+          "start": 0,
+          "username": "amakuratkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035151058503442650",
+    "in_reply_to_user_id": "1816091925348495360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035139134113948083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amakuratkm 看懂的都哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-21T00:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035151058503442650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816091925348495360",
+              "start": 0,
+              "username": "amakuratkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035151058503442650",
+        "in_reply_to_user_id": "1816091925348495360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035139134113948083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amakuratkm 看懂的都哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816091925348495360",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-20T23:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T00:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035139134113948083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035139134113948083",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859090422505758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 别骂了别骂了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "07  互po聊天请找我 只聊绿",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 24,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T12:44:19.000Z",
+        "description": "",
+        "id": "1816091925348495360",
+        "name": "肘纸派",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035138831348113409/iq7Xx0Of_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "amakuratkm",
+        "verified": false
+      }
+    ]
+  }
+}

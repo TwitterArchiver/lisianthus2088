@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035354933101482135",
+    "created_at": "2026-03-21T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035354933101482135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/janny061015/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/janny061015/status/2034628820431765623",
+          "start": 16,
+          "url": "https://t.co/5AOXzoFSm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035354933101482135",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034628820431765623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想被虐待但是我受不了精神侮辱 https://t.co/5AOXzoFSm8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035354933101482135",
+        "created_at": "2026-03-21T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035354933101482135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/janny061015/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/janny061015/status/2034628820431765623",
+              "start": 16,
+              "url": "https://t.co/5AOXzoFSm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035354933101482135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034628820431765623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想被虐待但是我受不了精神侮辱 https://t.co/5AOXzoFSm8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680294741764894720",
+        "conversation_id": "2034628820431765623",
+        "created_at": "2026-03-19T13:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034628820431765623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034628820431765623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 379471,
+          "like_count": 3568,
+          "quote_count": 81,
+          "reply_count": 249,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂在精神心理上想当s，但是肉体上想当m的感觉吗，我真的不知道怎么和人形容了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 43,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 130
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:14:26.000Z",
+        "description": "随时消失/不设门槛不加任何联系方式，一切止于推/纯理论选手，没开张过别再问了😇\n欢迎礼貌留言💌：https://t.co/BbbRvxLZu4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/janny061015",
+                "end": 71,
+                "expanded_url": "https://ngl.link/janny061015",
+                "start": 48,
+                "url": "https://t.co/BbbRvxLZu4"
+              }
+            ]
+          }
+        },
+        "id": "1680294741764894720",
+        "name": "零点时分",
+        "pinned_tweet_id": "1973678758889750683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814919233840766976/XM448GKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32384,
+          "following_count": 37,
+          "like_count": 388,
+          "listed_count": 120,
+          "media_count": 293,
+          "tweet_count": 1788
+        },
+        "username": "janny061015",
+        "verified": false
+      }
+    ]
+  }
+}

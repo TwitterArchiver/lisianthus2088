@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2064357276941746237",
+    "created_at": "2026-06-09T14:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064357276941746237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064357276941746237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人们往往会对涉及到过自己个人利益的事情发声。作为一个成年人我真的并不觉得提高性同意年龄对我有什么影响。那些反对 跳脚的人在暴露着很恶心很明显的对于未成年的目的性。自称正义，自称维护未成年性权利，实际是想要对自己过往行为和想要做出的行为进行免责。这种自己骗自己的人比我想的要多的多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2064357276941746237",
+        "created_at": "2026-06-09T14:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064357276941746237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064357276941746237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们往往会对涉及到过自己个人利益的事情发声。作为一个成年人我真的并不觉得提高性同意年龄对我有什么影响。那些反对 跳脚的人在暴露着很恶心很明显的对于未成年的目的性。自称正义，自称维护未成年性权利，实际是想要对自己过往行为和想要做出的行为进行免责。这种自己骗自己的人比我想的要多的多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2040057979488366718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3008,
+          "following_count": 85,
+          "like_count": 4124,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

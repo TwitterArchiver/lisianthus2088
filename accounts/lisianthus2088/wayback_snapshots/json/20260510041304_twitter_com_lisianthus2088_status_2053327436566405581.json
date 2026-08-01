@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2053267492559372431",
+    "created_at": "2026-05-10T04:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053327436566405581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053327436566405581",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053267492559372431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 好搞笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2053267492559372431",
+        "created_at": "2026-05-10T04:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053327436566405581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053327436566405581",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053267492559372431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 好搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2053267492559372431",
+        "created_at": "2026-05-10T00:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053267492559372431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053267492559372431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骚扰我之前有没有仔细观察过我的性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 86,
+          "like_count": 3764,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 84,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 280
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

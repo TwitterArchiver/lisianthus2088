@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2043906387290505575",
+    "created_at": "2026-04-14T04:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043916000996012291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043916000996012291",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043915329450193380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 好算你网速快！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2043906387290505575",
+        "created_at": "2026-04-14T04:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043916000996012291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043916000996012291",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043915329450193380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 好算你网速快！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997511338453876736",
+        "conversation_id": "2043906387290505575",
+        "created_at": "2026-04-14T04:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043915329450193380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043915329450193380",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043906387290505575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 国际生已经在做了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 120,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1318
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 负能 不od对药有心理阴影  偶尔自残发疯这样  其余时候很正常  不会对你恶语相向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "阴间",
+        "name": "小殇（互fo私）",
+        "pinned_tweet_id": "2042972670304899542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041808862957989891/2gPQdjpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 17,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

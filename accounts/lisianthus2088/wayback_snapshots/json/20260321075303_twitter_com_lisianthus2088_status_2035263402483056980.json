@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034866404353290673",
+    "created_at": "2026-03-21T07:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035263402483056980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2034750876649496576",
+          "start": 0,
+          "username": "yueyosn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035263402483056980",
+    "in_reply_to_user_id": "2034750876649496576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034866404353290673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyosn 就是先这样再那样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034866404353290673",
+        "created_at": "2026-03-21T07:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035263402483056980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2034750876649496576",
+              "start": 0,
+              "username": "yueyosn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035263402483056980",
+        "in_reply_to_user_id": "2034750876649496576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034866404353290673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyosn 就是先这样再那样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034750876649496576",
+        "conversation_id": "2034866404353290673",
+        "created_at": "2026-03-20T05:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034866404353290673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034866404353290673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们刷推特都是咋社交的呀？我就纯刷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ/\n纯绿纯绿纯绿/单fo=我想找你玩但是不好意思/想互fo可以私，其余看眼缘/没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 35,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 99
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T21:57:07.000Z",
+        "description": "",
+        "id": "2034750876649496576",
+        "name": "LUCIFER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034751327310684162/TJu20ubM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "yueyosn",
+        "verified": false
+      }
+    ]
+  }
+}

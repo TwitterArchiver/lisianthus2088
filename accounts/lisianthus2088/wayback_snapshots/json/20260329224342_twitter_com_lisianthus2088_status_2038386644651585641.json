@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038267583536013355",
+    "created_at": "2026-03-29T22:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T23:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038386644651585641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1384908940828282882",
+          "start": 0,
+          "username": "18W9yGmeKxmLpJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038386644651585641",
+    "in_reply_to_user_id": "1384908940828282882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038300857377439772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18W9yGmeKxmLpJ9 老大！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-29T22:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T23:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038386644651585641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1384908940828282882",
+              "start": 0,
+              "username": "18W9yGmeKxmLpJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038386644651585641",
+        "in_reply_to_user_id": "1384908940828282882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038300857377439772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18W9yGmeKxmLpJ9 老大！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384908940828282882",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-29T17:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038300857377439772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038300857377439772",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038267583536013355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 宝子，你生下来就是应该当公主的，感觉超适合这种发型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 105,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 577
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T16:36:45.000Z",
+        "description": "开始观察世界",
+        "id": "1384908940828282882",
+        "name": "阿缘缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385990131962712064/rdtP2ASj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 552,
+          "like_count": 2102,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "username": "18W9yGmeKxmLpJ9",
+        "verified": false
+      }
+    ]
+  }
+}

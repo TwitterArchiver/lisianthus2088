@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038267583536013355",
+    "created_at": "2026-05-13T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054566863510872115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2020440471215161344",
+          "start": 0,
+          "username": "kqiuer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054566863510872115",
+    "in_reply_to_user_id": "2020440471215161344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054566303025987877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kqiuer 卷之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-05-13T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054566863510872115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2020440471215161344",
+              "start": 0,
+              "username": "kqiuer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054566863510872115",
+        "in_reply_to_user_id": "2020440471215161344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054566303025987877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kqiuer 卷之"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020440471215161344",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-05-13T14:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054566303025987877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054566303025987877",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038267583536013355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 好爽的刘海，我也想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 85,
+          "like_count": 3904,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T10:12:12.000Z",
+        "description": "妮厨｜数竞爱好者（明年可以让我国一保送么^^）",
+        "id": "2020440471215161344",
+        "name": "邱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020440754905399296/3MVv3oAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "kqiuer",
+        "verified": false
+      }
+    ]
+  }
+}

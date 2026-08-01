@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034285066558607741",
+    "created_at": "2026-03-19T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034635009936802059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506652982527787011",
+          "start": 0,
+          "username": "wwong_ook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034635009936802059",
+    "in_reply_to_user_id": "1506652982527787011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034634185357639984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwong_ook 看不到诶，好奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034285066558607741",
+        "created_at": "2026-03-19T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034635009936802059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506652982527787011",
+              "start": 0,
+              "username": "wwong_ook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034635009936802059",
+        "in_reply_to_user_id": "1506652982527787011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034634185357639984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwong_ook 看不到诶，好奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506652982527787011",
+        "conversation_id": "2034285066558607741",
+        "created_at": "2026-03-19T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034634185357639984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034634185357639984",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034632588439204105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我给你发了，你能收到不你看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T15:24:12.000Z",
+        "description": "",
+        "id": "1506652982527787011",
+        "name": "wwong_ook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765681350621974528/u_9AO6jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "wwong_ook",
+        "verified": false
+      }
+    ]
+  }
+}

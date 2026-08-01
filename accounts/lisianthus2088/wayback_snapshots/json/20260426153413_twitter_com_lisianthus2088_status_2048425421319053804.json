@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048380955195560026",
+    "created_at": "2026-04-26T15:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048425421319053804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041083391055945728",
+          "start": 0,
+          "username": "omzlmanbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048425421319053804",
+    "in_reply_to_user_id": "2041083391055945728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048398486941671448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omzlmanbo 中国人好好学习刻在骨子里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048380955195560026",
+        "created_at": "2026-04-26T15:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048425421319053804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041083391055945728",
+              "start": 0,
+              "username": "omzlmanbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048425421319053804",
+        "in_reply_to_user_id": "2041083391055945728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048398486941671448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omzlmanbo 中国人好好学习刻在骨子里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041083391055945728",
+        "conversation_id": "2048380955195560026",
+        "created_at": "2026-04-26T13:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048398486941671448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048398486941671448",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048380955195560026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 中式浪漫:两个人一起考清华\n令人崩溃的是我真的觉得挺浪漫的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 99,
+          "like_count": 3315,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T09:20:34.000Z",
+        "description": "05男大学生 为了在互联网留下痕迹苦心经营推特，性格温良，不想惹任何人，喜欢美少女，欢迎找我聊天",
+        "id": "2041083391055945728",
+        "name": "季",
+        "pinned_tweet_id": "2047898937877835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044088600720224259/2Jh1ALoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 137
+        },
+        "username": "omzlmanbo",
+        "verified": false
+      }
+    ]
+  }
+}

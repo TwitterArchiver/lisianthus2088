@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036439808780996979",
+    "created_at": "2026-03-24T13:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036442238595768440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032976991495004160",
+          "start": 0,
+          "username": "BuFang67297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036442238595768440",
+    "in_reply_to_user_id": "2032976991495004160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036441731739078660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuFang67297 嗯对主播今天又亏一千"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036439808780996979",
+        "created_at": "2026-03-24T13:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036442238595768440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032976991495004160",
+              "start": 0,
+              "username": "BuFang67297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036442238595768440",
+        "in_reply_to_user_id": "2032976991495004160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036441731739078660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuFang67297 嗯对主播今天又亏一千"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032976991495004160",
+        "conversation_id": "2036439808780996979",
+        "created_at": "2026-03-24T13:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036441731739078660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036441731739078660",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036439808780996979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞感兴趣的人 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 74,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 329
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T00:27:56.000Z",
+        "description": "我大号被封了，这是第三次转生",
+        "id": "2032976991495004160",
+        "name": "大音希希2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032978831347183616/sbqP9eAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 289,
+          "like_count": 1657,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 542
+        },
+        "username": "BuFang67297",
+        "verified": false
+      }
+    ]
+  }
+}

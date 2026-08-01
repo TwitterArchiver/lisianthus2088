@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035597825258750290",
+    "created_at": "2026-03-23T10:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036032092472254692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1440647978453127176",
+          "start": 0,
+          "username": "tiaojiao0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036032092472254692",
+    "in_reply_to_user_id": "1440647978453127176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036025533528735994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiaojiao0707 没有入圈的义务！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035597825258750290",
+        "created_at": "2026-03-23T10:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036032092472254692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1440647978453127176",
+              "start": 0,
+              "username": "tiaojiao0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036032092472254692",
+        "in_reply_to_user_id": "1440647978453127176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036025533528735994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiaojiao0707 没有入圈的义务！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440647978453127176",
+        "conversation_id": "2035597825258750290",
+        "created_at": "2026-03-23T10:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036025533528735994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036025533528735994",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035597825258750290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 hhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 单fo/连赞=我想找你玩但是不好意思 || 看眼缘互fo，小女孩也可以直接找我互ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 68,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 236
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T12:03:52.000Z",
+        "description": "坐标0773 正在练习催眠 调教\n不回无礼貌私信 感谢关注 祝你开心",
+        "id": "1440647978453127176",
+        "location": "某不知名但欢乐温暖的字母圈小群",
+        "name": "那谁",
+        "pinned_tweet_id": "1563102956106711040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558931616940322817/SKmwRF4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 688,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 186
+        },
+        "username": "tiaojiao0707",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037162925635535052",
+    "created_at": "2026-03-26T14:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037173693580009925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841838953613426693",
+          "start": 0,
+          "username": "AnCeng73817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037173693580009925",
+    "in_reply_to_user_id": "1841838953613426693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037173179735826910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnCeng73817 严肃学习！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037162925635535052",
+        "created_at": "2026-03-26T14:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037173693580009925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841838953613426693",
+              "start": 0,
+              "username": "AnCeng73817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037173693580009925",
+        "in_reply_to_user_id": "1841838953613426693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037173179735826910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnCeng73817 严肃学习！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841838953613426693",
+        "conversation_id": "2037162925635535052",
+        "created_at": "2026-03-26T14:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037173179735826910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037173179735826910",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037165429890965701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 已严肃下载且通过新手教学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 95,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 413
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T13:53:34.000Z",
+        "description": "20⬆️ | 🐼 | 一般无业游民 | 日本語勉強中 | ひとりごと | 百无禁忌 万般皆可",
+        "id": "1841838953613426693",
+        "name": "Mia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031340520618995719/2mPILfMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 115,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 86
+        },
+        "username": "AnCeng73817",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2060343927375606127",
+    "created_at": "2026-05-30T06:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060605710468325597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962816925022683136",
+          "start": 0,
+          "username": "Gomilan35220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060605710468325597",
+    "in_reply_to_user_id": "1962816925022683136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060560205688246640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gomilan35220 我感觉可顺手了可能因为我的小克偏学术，都是搞代码用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2060343927375606127",
+        "created_at": "2026-05-30T06:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060605710468325597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962816925022683136",
+              "start": 0,
+              "username": "Gomilan35220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060605710468325597",
+        "in_reply_to_user_id": "1962816925022683136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060560205688246640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gomilan35220 我感觉可顺手了可能因为我的小克偏学术，都是搞代码用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962816925022683136",
+        "conversation_id": "2060343927375606127",
+        "created_at": "2026-05-30T03:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060560205688246640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060560205688246640",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060343927375606127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 克劳德有时候用起来好不顺手，正说着话呢突然就一定要说某个他想聊的，想让他扮演温柔类的形象也特别生硬啊啊啊。不过还是好用爱用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 86,
+          "like_count": 4102,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T09:56:47.000Z",
+        "description": "爱碎碎念，会玩透特塔罗，wuwa玩家，诈尸式上号腹泻式更新，网络人设是自认为温暖且思想有深度的爹味说教人，其实骂人也是挺急的。理想是成为自由作家😇",
+        "id": "1962816925022683136",
+        "name": "追寻候鸟的雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962817172713152512/W5VbmJDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 86,
+          "like_count": 2085,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 262
+        },
+        "username": "Gomilan35220",
+        "verified": false
+      }
+    ]
+  }
+}

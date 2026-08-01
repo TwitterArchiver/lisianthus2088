@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036011484074172498",
+    "created_at": "2026-03-24T05:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036319657301586382"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036319657301586382",
+    "in_reply_to_user_id": "1992095465559715840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036011484074172498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主播粉也是没涨，还被限流了谁能心疼一下主播，有没有人看了我的表情包突然想关注我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2036011478558666752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFdpwobcAAy_m0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036011484074172498",
+        "created_at": "2026-03-24T05:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036319657301586382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036319657301586382",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036011484074172498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主播粉也是没涨，还被限流了谁能心疼一下主播，有没有人看了我的表情包突然想关注我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036011478558666752"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036011484074172498",
+        "created_at": "2026-03-23T09:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036011484074172498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfAhh82ovD",
+              "end": 34,
+              "expanded_url": "https://x.com/lisianthus2088/status/2036011484074172498/photo/1",
+              "media_key": "3_2036011478558666752",
+              "start": 11,
+              "url": "https://t.co/UfAhh82ovD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036011484074172498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 52272,
+          "like_count": 2518,
+          "quote_count": 18,
+          "reply_count": 19,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢的人三秒没回我： https://t.co/UfAhh82ovD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 单fo/连赞=我想找你玩但是不好意思 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 313
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2055482871264289006",
+    "created_at": "2026-05-16T05:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055514500712075278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845367454178082816",
+          "start": 0,
+          "username": "zhaomeimingsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055514500712075278",
+    "in_reply_to_user_id": "1845367454178082816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055502605133230360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomeimingsama 一群人莫名其妙的就涌上来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2055482871264289006",
+        "created_at": "2026-05-16T05:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055514500712075278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845367454178082816",
+              "start": 0,
+              "username": "zhaomeimingsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055514500712075278",
+        "in_reply_to_user_id": "1845367454178082816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055502605133230360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomeimingsama 一群人莫名其妙的就涌上来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845367454178082816",
+        "conversation_id": "2055482871264289006",
+        "created_at": "2026-05-16T04:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055502605133230360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055502605133230360",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055482871264289006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 有些人到底什么时候才能明白，你对别人感兴趣是你的事，那个人没有任何义务服务你帮助你和持续性回复你....更何况她还没收你🚪..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 87,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T07:34:41.000Z",
+        "description": "我只是个时不时爱发疯的小女孩.\n不必私信我我不爱看私信，除口令外 看到了也不会回没兴趣的人。",
+        "id": "1845367454178082816",
+        "name": "照美冥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055508025038000128/H9BcRIVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5192,
+          "following_count": 21,
+          "like_count": 79,
+          "listed_count": 10,
+          "media_count": 41,
+          "tweet_count": 318
+        },
+        "username": "zhaomeimingsama",
+        "verified": false
+      }
+    ]
+  }
+}

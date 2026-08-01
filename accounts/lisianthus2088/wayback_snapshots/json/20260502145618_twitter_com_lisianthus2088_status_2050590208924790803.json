@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2050554462033621005",
+    "created_at": "2026-05-02T14:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050590208924790803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976980616030662656",
+          "start": 0,
+          "username": "xiaohansex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050590208924790803",
+    "in_reply_to_user_id": "1976980616030662656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050586066059726949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohansex 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2050554462033621005",
+        "created_at": "2026-05-02T14:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050590208924790803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976980616030662656",
+              "start": 0,
+              "username": "xiaohansex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050590208924790803",
+        "in_reply_to_user_id": "1976980616030662656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050586066059726949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohansex 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976980616030662656",
+        "conversation_id": "2050554462033621005",
+        "created_at": "2026-05-02T14:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050586066059726949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050586066059726949",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050554462033621005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 99,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:58:24.000Z",
+        "description": "好想抱抱",
+        "id": "1976980616030662656",
+        "location": "杜王町",
+        "name": "郁涵",
+        "pinned_tweet_id": "2048938736772346000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047426507069358081/fVwFMA5h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 17,
+          "like_count": 3757,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2767
+        },
+        "username": "xiaohansex",
+        "verified": false
+      }
+    ]
+  }
+}

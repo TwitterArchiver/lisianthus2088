@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2062019975989309719",
+    "created_at": "2026-06-04T00:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062331097237905681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1070904859119955969",
+          "start": 0,
+          "username": "uiuiui54985364"
+        },
+        {
+          "end": 29,
+          "id": "1777373512904454145",
+          "start": 16,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062331097237905681",
+    "in_reply_to_user_id": "1070904859119955969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062202017205084519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uiuiui54985364 @zhaominizhao 这是转载"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2062019975989309719",
+        "created_at": "2026-06-04T00:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062331097237905681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1070904859119955969",
+              "start": 0,
+              "username": "uiuiui54985364"
+            },
+            {
+              "end": 29,
+              "id": "1777373512904454145",
+              "start": 16,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062331097237905681",
+        "in_reply_to_user_id": "1070904859119955969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202017205084519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uiuiui54985364 @zhaominizhao 这是转载"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070904859119955969",
+        "conversation_id": "2062019975989309719",
+        "created_at": "2026-06-03T15:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062202017205084519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            },
+            {
+              "end": 29,
+              "id": "1777373512904454145",
+              "start": 16,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062202017205084519",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062019975989309719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 @zhaominizhao 写得好好，好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 84,
+          "like_count": 4075,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T04:56:29.000Z",
+        "description": "INFP｜缺爱｜最近在看《德米安》｜喜欢交朋友｜",
+        "id": "1070904859119955969",
+        "location": "Tokyo-to, Japan",
+        "name": "UU（互关版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342443084567564294/XtZIBXXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 749,
+          "like_count": 13855,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 3395
+        },
+        "username": "uiuiui54985364",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "喜欢碎碎念的小女子(^⁃⩊⁃^)੭｜心情小记",
+        "id": "1777373512904454145",
+        "location": "叔叔我们不约",
+        "name": "mini昭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049295405507395584/4pWad1t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3202,
+          "following_count": 107,
+          "like_count": 8620,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 6064
+        },
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

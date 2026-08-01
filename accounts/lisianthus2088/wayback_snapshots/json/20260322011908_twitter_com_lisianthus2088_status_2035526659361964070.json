@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034999537975402578",
+    "created_at": "2026-03-22T01:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035526659361964070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977625766079905792",
+          "start": 0,
+          "username": "ddqsmma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035526659361964070",
+    "in_reply_to_user_id": "1977625766079905792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035526088819126488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddqsmma 什么，我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034999537975402578",
+        "created_at": "2026-03-22T01:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035526659361964070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977625766079905792",
+              "start": 0,
+              "username": "ddqsmma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035526659361964070",
+        "in_reply_to_user_id": "1977625766079905792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035526088819126488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddqsmma 什么，我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977625766079905792",
+        "conversation_id": "2034999537975402578",
+        "created_at": "2026-03-22T01:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035526088819126488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035526088819126488",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034999537975402578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我没私信你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 47,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T06:41:49.000Z",
+        "description": "I can’t happy",
+        "id": "1977625766079905792",
+        "name": "H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977625998272409602/SDAyv1Cz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "username": "ddqsmma",
+        "verified": false
+      }
+    ]
+  }
+}

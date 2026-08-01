@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065981683535683940",
+    "created_at": "2026-06-14T06:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066045357013000602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1531491891702689792",
+          "start": 0,
+          "username": "Joker_Xu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066045357013000602",
+    "in_reply_to_user_id": "1531491891702689792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066016052484706612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joker_Xu_ 来你告诉我这话哪里跟男女有关了来，打拳狗，努力发声想换得男人宠幸实则无人在意，可怜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T06:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066045357013000602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1531491891702689792",
+              "start": 0,
+              "username": "Joker_Xu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066045357013000602",
+        "in_reply_to_user_id": "1531491891702689792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066016052484706612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joker_Xu_ 来你告诉我这话哪里跟男女有关了来，打拳狗，努力发声想换得男人宠幸实则无人在意，可怜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531491891702689792",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T04:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066016052484706612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066016052484706612",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065981683535683940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 女人对男人的一大误解 就是男人来者不拒 因为女人自己是肮脏的 所以不相信男人也会拒绝自己不喜欢的 以为谁都像她一样为了躲避空窗期 回收垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 84,
+          "like_count": 4320,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T04:25:15.000Z",
+        "description": "爱女男拳博主",
+        "id": "1531491891702689792",
+        "name": "Joker~Xu",
+        "pinned_tweet_id": "2062111761768313195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624433065367068673/iBWYORyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 38,
+          "like_count": 2241,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1137
+        },
+        "username": "Joker_Xu_",
+        "verified": true
+      }
+    ]
+  }
+}

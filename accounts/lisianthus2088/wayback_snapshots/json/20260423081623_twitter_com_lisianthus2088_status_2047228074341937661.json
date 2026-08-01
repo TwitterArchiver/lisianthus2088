@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2046947651770617867",
+    "created_at": "2026-04-23T08:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047228074341937661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893030061848305665",
+          "start": 0,
+          "username": "Xyyyy_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047228074341937661",
+    "in_reply_to_user_id": "1893030061848305665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046947651770617867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xyyyy_0324 哇不理解这种问题，都无感了我理你干甚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046947644380176384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg4CZEaYAAHATr.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2046947651770617867",
+        "created_at": "2026-04-23T08:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047228074341937661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893030061848305665",
+              "start": 0,
+              "username": "Xyyyy_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047228074341937661",
+        "in_reply_to_user_id": "1893030061848305665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046947651770617867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyyyy_0324 哇不理解这种问题，都无感了我理你干甚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046947644380176384"
+          ]
+        },
+        "author_id": "1893030061848305665",
+        "conversation_id": "2046947651770617867",
+        "created_at": "2026-04-22T13:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046947651770617867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSKFcSeMGN",
+              "end": 23,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2046947651770617867/photo/1",
+              "media_key": "3_2046947644380176384",
+              "start": 0,
+              "url": "https://t.co/jSKFcSeMGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046947651770617867",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1416,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jSKFcSeMGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 104,
+          "like_count": 3207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "可以叫我小氧^^我有恋哥癖。无🚪只加互关！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 100,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 77,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 284,
+          "like_count": 6578,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 2538
+        },
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}

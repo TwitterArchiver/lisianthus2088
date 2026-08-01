@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038967242029965473",
+    "created_at": "2026-04-01T04:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039194265994363308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831110944711495680",
+          "start": 0,
+          "username": "haojiu999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039194265994363308",
+    "in_reply_to_user_id": "1831110944711495680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039192564826591325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haojiu999 什！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038967242029965473",
+        "created_at": "2026-04-01T04:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039194265994363308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831110944711495680",
+              "start": 0,
+              "username": "haojiu999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039194265994363308",
+        "in_reply_to_user_id": "1831110944711495680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039192564826591325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haojiu999 什！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831110944711495680",
+        "conversation_id": "2038967242029965473",
+        "created_at": "2026-04-01T04:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039192564826591325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192564826591325",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038967242029965473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 ？你是说天天在推上和我说没有人喜欢的，居然是一个如此的建模怪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 113,
+          "like_count": 1863,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 767
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T23:24:26.000Z",
+        "description": "线下查无此人！一切发疯发言都止于推！\n只在网络发疯发表自己想说的",
+        "id": "1831110944711495680",
+        "location": "棋盘世界♟️Disboard",
+        "name": "浩鸠ꦿyo",
+        "pinned_tweet_id": "1847637795608940734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831111484073738240/4XLR9w-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 88,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 189
+        },
+        "username": "haojiu999",
+        "verified": false
+      }
+    ]
+  }
+}

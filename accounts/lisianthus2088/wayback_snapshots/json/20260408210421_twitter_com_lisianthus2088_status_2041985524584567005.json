@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2041697240381833578",
+    "created_at": "2026-04-08T21:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041985524584567005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "tired_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041985524584567005",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041968477272265214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tired_8964 那你棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2041697240381833578",
+        "created_at": "2026-04-08T21:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041985524584567005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041985524584567005",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041968477272265214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 那你棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "2041697240381833578",
+        "created_at": "2026-04-08T19:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041968477272265214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041968477272265214",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041697240381833578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 哦哦哦反正我不用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 114,
+          "like_count": 2342,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 990
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我很脆弱。梦到啥说啥。匿名问答：https://t.co/NBYABtLQB8。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 39,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 16,
+                "url": "https://t.co/NBYABtLQB8"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1999365860356759785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 318,
+          "like_count": 7505,
+          "listed_count": 4,
+          "media_count": 306,
+          "tweet_count": 3669
+        },
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042229087436189792",
+    "created_at": "2026-04-09T16:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042279543852204114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "735684539922534400",
+          "start": 0,
+          "username": "BlPromise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042279543852204114",
+    "in_reply_to_user_id": "735684539922534400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278458664104120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlPromise 哈梅尔哈梅尔哈梅尔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042229087436189792",
+        "created_at": "2026-04-09T16:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042279543852204114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "735684539922534400",
+              "start": 0,
+              "username": "BlPromise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042279543852204114",
+        "in_reply_to_user_id": "735684539922534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278458664104120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlPromise 哈梅尔哈梅尔哈梅尔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "735684539922534400",
+        "conversation_id": "2042229087436189792",
+        "created_at": "2026-04-09T16:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042278458664104120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042278458664104120",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042229087436189792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 老大，让我们起舞吧～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 120,
+          "like_count": 2555,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1106
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-26T04:10:37.000Z",
+        "description": "一個普普通通的 （普 通 市 民 ）",
+        "id": "735684539922534400",
+        "location": "日本",
+        "name": "Stellar （无限版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825226912807137280/Bz-0HnW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 1336,
+          "like_count": 2424,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 542
+        },
+        "username": "BlPromise",
+        "verified": false
+      }
+    ]
+  }
+}

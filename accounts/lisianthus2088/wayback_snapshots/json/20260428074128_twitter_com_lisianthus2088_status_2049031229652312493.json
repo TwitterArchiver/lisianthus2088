@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048962329862111725",
+    "created_at": "2026-04-28T07:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049031229652312493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587633987840872450",
+          "start": 0,
+          "username": "yigetangxindan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049031229652312493",
+    "in_reply_to_user_id": "1587633987840872450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048962329862111725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yigetangxindan 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1899,
+        "media_key": "3_2048962324846059520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9gYOqboAAdTkF.jpg",
+        "width": 1069
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048962324866957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9gYOvagAA8fnA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048962329862111725",
+        "created_at": "2026-04-28T07:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049031229652312493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587633987840872450",
+              "start": 0,
+              "username": "yigetangxindan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049031229652312493",
+        "in_reply_to_user_id": "1587633987840872450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048962329862111725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigetangxindan 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048962324846059520",
+            "3_2048962324866957312"
+          ]
+        },
+        "author_id": "1587633987840872450",
+        "conversation_id": "2048962329862111725",
+        "created_at": "2026-04-28T03:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048962329862111725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNtdE2eBp9",
+              "end": 34,
+              "expanded_url": "https://x.com/yigetangxindan/status/2048962329862111725/photo/1",
+              "media_key": "3_2048962324846059520",
+              "start": 11,
+              "url": "https://t.co/DNtdE2eBp9"
+            },
+            {
+              "display_url": "pic.x.com/DNtdE2eBp9",
+              "end": 34,
+              "expanded_url": "https://x.com/yigetangxindan/status/2048962329862111725/photo/1",
+              "media_key": "3_2048962324866957312",
+              "start": 11,
+              "url": "https://t.co/DNtdE2eBp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048962329862111725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2757,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发红的罂粟数着骨节。 https://t.co/DNtdE2eBp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 99,
+          "like_count": 3345,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T02:33:58.000Z",
+        "description": "推止于推｜被盗图骗别找我｜最爱吃溏心蛋拌炒饭｜文黄图绿号，我啥都敢说😋｜有🩸图请你屏蔽我谢谢｜给我发吊的都枪毙｜如果我管住嘴一定是世界上最富的人🍳|不约不实践不闲聊｜https://t.co/id8JwD8uWt ⬅️阿瑟请问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yigetangxindan",
+                "end": 106,
+                "expanded_url": "https://ngl.link/yigetangxindan",
+                "start": 83,
+                "url": "https://t.co/id8JwD8uWt"
+              }
+            ]
+          }
+        },
+        "id": "1587633987840872450",
+        "location": "不是🚪姐 打赏随意",
+        "name": "溏心蛋",
+        "pinned_tweet_id": "2047910162225119390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035918636268072960/xxUz8HPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 123,
+          "like_count": 15706,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 5318
+        },
+        "username": "yigetangxindan",
+        "verified": false
+      }
+    ]
+  }
+}

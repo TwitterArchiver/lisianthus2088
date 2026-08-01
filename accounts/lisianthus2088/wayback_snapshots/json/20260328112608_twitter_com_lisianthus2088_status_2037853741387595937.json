@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037844721486397828",
+    "created_at": "2026-03-28T11:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037853741387595937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037853741387595937",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037853124493455594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz 哇塞，我看你有的时候中文有的时候英文，我以为你只是喜欢用英文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037844721486397828",
+        "created_at": "2026-03-28T11:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037853741387595937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037853741387595937",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037853124493455594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz 哇塞，我看你有的时候中文有的时候英文，我以为你只是喜欢用英文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594653039109230598",
+        "conversation_id": "2037844721486397828",
+        "created_at": "2026-03-28T11:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037853124493455594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037853124493455594",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037850166754173401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 啊不好意思！！我以为你一开始就注意到了😅 我其实不是中国人\n对了，推特的翻译对你来说准确吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 91,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 503
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "just a man with all his imperfections",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/regaforz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/regaforz",
+                "start": 0,
+                "url": "https://t.co/Wsj86GGAPr"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "name": "Rega",
+        "pinned_tweet_id": "2034810749126943127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125758074982401/rV1USe1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 986,
+          "like_count": 5247,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/Wsj86GGAPr",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

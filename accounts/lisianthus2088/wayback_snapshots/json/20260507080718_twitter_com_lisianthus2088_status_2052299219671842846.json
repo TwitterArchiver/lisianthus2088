@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052299219671842846",
+    "created_at": "2026-05-07T08:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052299219671842846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1722890300757291008",
+          "start": 3,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052299219671842846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051528879953867131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baisechenyi: 有什么钱都冲我来 事就算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052299219671842846",
+        "created_at": "2026-05-07T08:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052299219671842846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722890300757291008",
+              "start": 3,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052299219671842846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051528879953867131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baisechenyi: 有什么钱都冲我来 事就算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722890300757291008",
+        "conversation_id": "2051528879953867131",
+        "created_at": "2026-05-05T05:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051528879953867131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051528879953867131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 31971,
+          "like_count": 919,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "有什么钱都冲我来 事就算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 97,
+          "like_count": 3603,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水| 06 |177 | enfp | 喜欢发碎碎念和自拍| 私信只回礼貌的 | 不礼貌回关 只关注喜欢的 | 不是4i/s 不聊骚",
+        "id": "1722890300757291008",
+        "location": "🚪188",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042955556135276547/5pp_ss3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13013,
+          "following_count": 504,
+          "like_count": 25449,
+          "listed_count": 18,
+          "media_count": 231,
+          "tweet_count": 7775
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

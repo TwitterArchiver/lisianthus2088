@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2063936345333223702",
+    "created_at": "2026-06-08T14:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063999289924497864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063999289924497864",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063936345333223702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 鸡看见你都得捂着屁股走"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063936333010325505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSTKOAaUAErjaB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2063936345333223702",
+        "created_at": "2026-06-08T14:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063999289924497864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063999289924497864",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063936345333223702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 鸡看见你都得捂着屁股走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063936333010325505"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063936345333223702",
+        "created_at": "2026-06-08T10:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063936345333223702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjsCtTfnXS",
+              "end": 37,
+              "expanded_url": "https://x.com/xxNANAml/status/2063936345333223702/photo/1",
+              "media_key": "3_2063936333010325505",
+              "start": 14,
+              "url": "https://t.co/XjsCtTfnXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063936345333223702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2562,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋蛋人蛋蛋魂蛋蛋都是人上人 https://t.co/XjsCtTfnXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2040057979488366718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 83,
+          "like_count": 4084,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1910
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059561525682286592/nx12v6TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3267,
+          "following_count": 209,
+          "like_count": 33743,
+          "listed_count": 8,
+          "media_count": 555,
+          "tweet_count": 7007
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

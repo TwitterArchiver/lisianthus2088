@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2043335893835239567",
+    "created_at": "2026-04-13T03:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043537562036531484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1241902723491958784",
+          "start": 0,
+          "username": "tobeahero4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043537562036531484",
+    "in_reply_to_user_id": "1241902723491958784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043373442024734749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tobeahero4 唉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2043335893835239567",
+        "created_at": "2026-04-13T03:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043537562036531484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1241902723491958784",
+              "start": 0,
+              "username": "tobeahero4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043537562036531484",
+        "in_reply_to_user_id": "1241902723491958784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043373442024734749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobeahero4 唉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241902723491958784",
+        "conversation_id": "2043335893835239567",
+        "created_at": "2026-04-12T16:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043373442024734749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043373442024734749",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043335893835239567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 玩cf的时候太久加载不出来，我就会和电脑赌气“我根本没那么想玩，我待会就要关掉你的电源”什么的。感情上也是呢，明明超在意也装作一副不感兴趣的臭屁莲脸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 121,
+          "like_count": 2778,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1280
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T01:41:12.000Z",
+        "description": "阿哈",
+        "id": "1241902723491958784",
+        "location": "wuhan",
+        "name": "坂田銀時",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797233820086996993/cCL8pHYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 862,
+          "like_count": 4098,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 545
+        },
+        "username": "tobeahero4",
+        "verified": false
+      }
+    ]
+  }
+}

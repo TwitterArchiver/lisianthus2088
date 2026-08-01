@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2056311498025427234",
+    "created_at": "2026-05-18T13:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056369788314845480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056369788314845480",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056324139976397257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 一辈子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2056311498025427234",
+        "created_at": "2026-05-18T13:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056369788314845480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056369788314845480",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056324139976397257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 一辈子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883157644711796736",
+        "conversation_id": "2056311498025427234",
+        "created_at": "2026-05-18T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056324139976397257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056324139976397257",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056311498025427234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 一辈子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 85,
+          "like_count": 4040,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "命运此起彼伏",
+        "id": "1883157644711796736",
+        "location": "无门槛不认识不闲聊不要骚扰我",
+        "name": "怎么了又怪我",
+        "pinned_tweet_id": "2022324932739486012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056277514134433792/WHyTv6Zy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 94,
+          "like_count": 9324,
+          "listed_count": 19,
+          "media_count": 132,
+          "tweet_count": 4346
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

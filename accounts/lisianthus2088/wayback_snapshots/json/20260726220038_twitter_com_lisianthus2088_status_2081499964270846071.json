@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2081499964270846071",
+    "created_at": "2026-07-26T22:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T23:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081499964270846071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SagerRgyalpo/s…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/SagerRgyalpo/status/2081100156016234694",
+          "start": 38,
+          "url": "https://t.co/ACnecd4liv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081499964270846071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081100156016234694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我赞成了，父母誰有出息跟谁姓好吗，托举起来多方便。哦对了 托举不了的别生。 https://t.co/ACnecd4liv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2081100150207053824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGNj3sagAAq7Mq.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2081499964270846071",
+        "created_at": "2026-07-26T22:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081499964270846071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SagerRgyalpo/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/SagerRgyalpo/status/2081100156016234694",
+              "start": 38,
+              "url": "https://t.co/ACnecd4liv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081499964270846071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081100156016234694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我赞成了，父母誰有出息跟谁姓好吗，托举起来多方便。哦对了 托举不了的别生。 https://t.co/ACnecd4liv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081100150207053824"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2081100156016234694",
+        "created_at": "2026-07-25T19:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081100156016234694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9x8oMLzZXI",
+              "end": 90,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2081100156016234694/photo/1",
+              "media_key": "3_2081100150207053824",
+              "start": 67,
+              "url": "https://t.co/9x8oMLzZXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081100156016234694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 391286,
+          "like_count": 1140,
+          "quote_count": 7,
+          "reply_count": 128,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "邓煜在2014年表示希望孩子跟他姓，因为他的姓氏以字母D开头，数学领域合著论文通常以作者姓氏字母排序，这样他的孩子大概率排第一作者。 https://t.co/9x8oMLzZXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 88,
+          "like_count": 4482,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10906,
+          "following_count": 923,
+          "like_count": 1556,
+          "listed_count": 47,
+          "media_count": 2712,
+          "tweet_count": 5505
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

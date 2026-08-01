@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042495911188971625",
+    "created_at": "2026-04-10T06:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042495911188971625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miaw/status/20…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Miaw/status/2042261250906771909",
+          "start": 15,
+          "url": "https://t.co/NuSLHutefr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042495911188971625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042261250906771909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我生气的时候别人扒拉我就这样 https://t.co/NuSLHutefr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13994,
+        "height": 676,
+        "media_key": "13_2042223174792986624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042223174792986624/img/hA0H71JOFw2taGqu.jpg",
+        "public_metrics": {
+          "view_count": 119190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042223174792986624/vid/avc1/430x270/G75f6top8nGz2kdR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042223174792986624/vid/avc1/574x360/T4JlKgQPe1uPVhMQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042223174792986624/vid/avc1/1080x676/Yru0MoifEJCLds5c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042223174792986624/pl/VF9WPUE4v5sx3cDN.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042495911188971625",
+        "created_at": "2026-04-10T06:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042495911188971625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miaw/status/20…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Miaw/status/2042261250906771909",
+              "start": 15,
+              "url": "https://t.co/NuSLHutefr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042495911188971625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042261250906771909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我生气的时候别人扒拉我就这样 https://t.co/NuSLHutefr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042223174792986624"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2042261250906771909",
+        "created_at": "2026-04-09T15:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042261250906771909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nd5bPkAxtL",
+              "end": 43,
+              "expanded_url": "https://x.com/Miaw/status/2042261250906771909/video/1",
+              "media_key": "13_2042223174792986624",
+              "start": 20,
+              "url": "https://t.co/nd5bPkAxtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261250906771909",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1334,
+          "impression_count": 344149,
+          "like_count": 12047,
+          "quote_count": 215,
+          "reply_count": 62,
+          "retweet_count": 1697
+        },
+        "reply_settings": "everyone",
+        "text": "Who broke his heart https://t.co/nd5bPkAxtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 122,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1133
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107147,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 261,
+          "media_count": 2631,
+          "tweet_count": 2659
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

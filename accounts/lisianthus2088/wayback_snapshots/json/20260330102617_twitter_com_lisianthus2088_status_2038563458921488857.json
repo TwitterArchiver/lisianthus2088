@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038539802870763821",
+    "created_at": "2026-03-30T10:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038563458921488857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1876134798110199808",
+          "start": 0,
+          "username": "DieQiu88550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038563458921488857",
+    "in_reply_to_user_id": "1876134798110199808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038554248166986119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DieQiu88550 ᗜ 𖥦 ᗜ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T10:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038563458921488857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1876134798110199808",
+              "start": 0,
+              "username": "DieQiu88550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038563458921488857",
+        "in_reply_to_user_id": "1876134798110199808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038554248166986119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DieQiu88550 ᗜ 𖥦 ᗜ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876134798110199808",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T09:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038554248166986119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038554248166986119",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038552781846712538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 啊，不对 师尊请出题！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 106,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 665
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T05:13:07.000Z",
+        "description": "愿和平与我们同在🕊️\n愿每个灵魂都能被温柔守护\n我是萌/甜妹控+粉色控\n风堇激推！\n爱好是国际象棋，写生，烘焙，排球\n我很喜欢吃甜品⌯˃̶ᗜ˂̶⌯\n很高兴认识你！今天也继续加油吧- ̗̀(๑ᵔ⌔ᵔ๑)",
+        "id": "1876134798110199808",
+        "name": "虹彩",
+        "pinned_tweet_id": "2038503435860127996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038112729257705472/loVx8b8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 53
+        },
+        "username": "DieQiu88550",
+        "verified": false
+      }
+    ]
+  }
+}

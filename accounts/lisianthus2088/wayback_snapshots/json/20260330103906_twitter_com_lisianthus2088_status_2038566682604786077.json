@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038539802870763821",
+    "created_at": "2026-03-30T10:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038566682604786077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1978299667873189888",
+          "start": 0,
+          "username": "changshengsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038566682604786077",
+    "in_reply_to_user_id": "1978299667873189888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038566099693035872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changshengsa 收关门弟子，只教关门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T10:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038566682604786077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978299667873189888",
+              "start": 0,
+              "username": "changshengsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038566682604786077",
+        "in_reply_to_user_id": "1978299667873189888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038566099693035872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changshengsa 收关门弟子，只教关门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978299667873189888",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T10:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038566099693035872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038566099693035872",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038539802870763821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 大物和jave可以教吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 107,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 671
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T03:19:45.000Z",
+        "description": "QvQ",
+        "id": "1978299667873189888",
+        "name": "长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978300308146323456/FWf1zwp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 182
+        },
+        "username": "changshengsa",
+        "verified": false
+      }
+    ]
+  }
+}

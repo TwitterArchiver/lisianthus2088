@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995850906710282240"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "1995850914620665886",
+    "created_at": "2025-12-02T13:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995850914620665886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tmRJyIIJrr",
+          "end": 28,
+          "expanded_url": "https://x.com/lisianthus2088/status/1995850914620665886/photo/1",
+          "media_key": "3_1995850906710282240",
+          "start": 5,
+          "url": "https://t.co/tmRJyIIJrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995850914620665886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很萌一套 https://t.co/tmRJyIIJrr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1995850906710282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Kv0z8bkAAjmvP.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995850906710282240"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "1995850914620665886",
+        "created_at": "2025-12-02T13:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995850914620665886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmRJyIIJrr",
+              "end": 28,
+              "expanded_url": "https://x.com/lisianthus2088/status/1995850914620665886/photo/1",
+              "media_key": "3_1995850906710282240",
+              "start": 5,
+              "url": "https://t.co/tmRJyIIJrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995850914620665886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很萌一套 https://t.co/tmRJyIIJrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "",
+        "id": "1992095465559715840",
+        "name": "lisianthus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992095706535141376/5L9BYiAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035756889884225559",
+    "created_at": "2026-03-22T16:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035756889884225559"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035756889884225559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么都觉得主播是文科生，其实我是理工女来的。明天要上一天数学有人心疼我一下吗。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035756889884225559",
+        "created_at": "2026-03-22T16:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035756889884225559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035756889884225559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么都觉得主播是文科生，其实我是理工女来的。明天要上一天数学有人心疼我一下吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ | 可以找我聊天 ᐝ  | 单fo/连赞=我想找你玩但是不好意思 | 看眼缘互fo，小女孩也可以直接找我互！ | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 58,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 224
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

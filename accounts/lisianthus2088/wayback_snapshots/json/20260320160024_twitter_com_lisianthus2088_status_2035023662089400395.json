@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035023662089400395",
+    "created_at": "2026-03-20T16:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035023662089400395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035023662089400395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老天爷，我不要桃花，我要钱花。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035023662089400395",
+        "created_at": "2026-03-20T16:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035023662089400395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035023662089400395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷，我不要桃花，我要钱花。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "07  互po聊天请找我 只聊绿",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 24,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2043371126295015653",
+    "created_at": "2026-04-13T09:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043620755905347707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2011902876894052353",
+          "start": 0,
+          "username": "Shuaikp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043620755905347707",
+    "in_reply_to_user_id": "2011902876894052353",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043393787603329493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuaikp dnm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2043371126295015653",
+        "created_at": "2026-04-13T09:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043620755905347707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2011902876894052353",
+              "start": 0,
+              "username": "Shuaikp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043620755905347707",
+        "in_reply_to_user_id": "2011902876894052353",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043393787603329493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuaikp dnm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011902876894052353",
+        "conversation_id": "2043371126295015653",
+        "created_at": "2026-04-12T18:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043393787603329493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043393787603329493",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043371126295015653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 cpdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 120,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1285
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T20:48:11.000Z",
+        "description": "",
+        "id": "2011902876894052353",
+        "name": "Shuai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011909904697536512/jJey0WKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 481
+        },
+        "username": "Shuaikp",
+        "verified": false
+      }
+    ]
+  }
+}

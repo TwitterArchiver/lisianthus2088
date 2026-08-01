@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036774992764125533",
+    "created_at": "2026-03-25T23:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036953767657300108"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036953767657300108",
+    "in_reply_to_user_id": "1992095465559715840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036774992764125533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不玩了截了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_2036774986883678208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQUDyyaQAA14MB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036774992764125533",
+        "created_at": "2026-03-25T23:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036953767657300108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036953767657300108",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036774992764125533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不玩了截了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036774986883678208"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036774992764125533",
+        "created_at": "2026-03-25T11:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036774992764125533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0okDcFq7v",
+              "end": 82,
+              "expanded_url": "https://x.com/lisianthus2088/status/2036774992764125533/photo/1",
+              "media_key": "3_2036774986883678208",
+              "start": 59,
+              "url": "https://t.co/F0okDcFq7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036774992764125533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3612,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我想找女宝宝互fo/交友，有没有人宠我一下，女生除了黄推私信我都会回的，如果没回可能是因为猜错性别了可以敲敲我orz https://t.co/F0okDcFq7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036811258469736450/CzMWpFdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 93,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 387
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

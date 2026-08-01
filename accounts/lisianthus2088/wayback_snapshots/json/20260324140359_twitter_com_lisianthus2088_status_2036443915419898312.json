@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036439808780996979",
+    "created_at": "2026-03-24T14:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036443915419898312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921889756788719616",
+          "start": 0,
+          "username": "sumo2113144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036443915419898312",
+    "in_reply_to_user_id": "1921889756788719616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036441448531501504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumo2113144 我知道大盘在涨但是我的在跌，可能因为我是买股天才吧嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036439808780996979",
+        "created_at": "2026-03-24T14:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036443915419898312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921889756788719616",
+              "start": 0,
+              "username": "sumo2113144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036443915419898312",
+        "in_reply_to_user_id": "1921889756788719616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036441448531501504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumo2113144 我知道大盘在涨但是我的在跌，可能因为我是买股天才吧嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921889756788719616",
+        "conversation_id": "2036439808780996979",
+        "created_at": "2026-03-24T13:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036441448531501504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036441448531501504",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036439808780996979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 今天的吗，今天不是都在涨吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞感兴趣的人 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 74,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 331
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T11:26:49.000Z",
+        "description": "le，03/0.3，168，intp",
+        "id": "1921889756788719616",
+        "location": "重庆",
+        "name": "树叶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922072762593554432/9SpxcLMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 36,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "username": "sumo2113144",
+        "verified": false
+      }
+    ]
+  }
+}

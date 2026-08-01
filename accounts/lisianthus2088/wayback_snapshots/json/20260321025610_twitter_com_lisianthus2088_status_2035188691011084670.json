@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-21T02:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T03:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035188691011084670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708073934208593920",
+          "start": 0,
+          "username": "linqian3333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035188691011084670",
+    "in_reply_to_user_id": "1708073934208593920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035186415835983981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linqian3333 好呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-21T02:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T03:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035188691011084670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708073934208593920",
+              "start": 0,
+              "username": "linqian3333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035188691011084670",
+        "in_reply_to_user_id": "1708073934208593920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035186415835983981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linqian3333 好呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708073934208593920",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-21T02:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T03:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035186415835983981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035186415835983981",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859090422505758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我鸟你我鸟你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "07  互po聊天请找我 只聊绿",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 29,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T10:59:25.000Z",
+        "description": "05 | 関東 | 🌈 | DM◎ | 男✕ | \n中国から、日本語を勉強したいです。",
+        "id": "1708073934208593920",
+        "name": "Valerie",
+        "pinned_tweet_id": "1875385396198338630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032214534048673792/d95VLp7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 67,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "linqian3333",
+        "verified": false
+      }
+    ]
+  }
+}

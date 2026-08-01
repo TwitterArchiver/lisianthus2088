@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052988800859808224",
+    "created_at": "2026-05-09T05:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052988800859808224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0kada_Mi0/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/0kada_Mi0/status/2052978475510727120",
+          "start": 33,
+          "url": "https://t.co/Q1oiwgiJbA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052988800859808224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052978475510727120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私信被问爆了，统一回复一下，520和521那天微信钱包还有位置。 https://t.co/Q1oiwgiJbA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052988800859808224",
+        "created_at": "2026-05-09T05:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052988800859808224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0kada_Mi0/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/0kada_Mi0/status/2052978475510727120",
+              "start": 33,
+              "url": "https://t.co/Q1oiwgiJbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052988800859808224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052978475510727120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私信被问爆了，统一回复一下，520和521那天微信钱包还有位置。 https://t.co/Q1oiwgiJbA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944679199358570496",
+        "conversation_id": "2052978475510727120",
+        "created_at": "2026-05-09T05:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052978475510727120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2052966000522666267",
+              "start": 33,
+              "url": "https://t.co/2Xe0XYYjqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052978475510727120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052966000522666267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "私信被问爆了，统一回复一下，520和521那天微信钱包还有位置。 https://t.co/2Xe0XYYjqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 98,
+          "like_count": 3688,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物\n06/碎碎念/brat/自伤od/高p",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "location": "好友位88",
+        "name": "ミオ没睡醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 236,
+          "like_count": 19464,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

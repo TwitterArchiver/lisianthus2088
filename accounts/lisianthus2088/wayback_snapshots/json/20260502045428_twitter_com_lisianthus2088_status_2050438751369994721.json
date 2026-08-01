@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2050413272403427404",
+    "created_at": "2026-05-02T04:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050438751369994721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026572990901792769",
+          "start": 0,
+          "username": "Jasmine__rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050438751369994721",
+    "in_reply_to_user_id": "2026572990901792769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050427727451476398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasmine__rain 煎蛋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2050413272403427404",
+        "created_at": "2026-05-02T04:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050438751369994721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026572990901792769",
+              "start": 0,
+              "username": "Jasmine__rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050438751369994721",
+        "in_reply_to_user_id": "2026572990901792769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050427727451476398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasmine__rain 煎蛋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026572990901792769",
+        "conversation_id": "2050413272403427404",
+        "created_at": "2026-05-02T04:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050427727451476398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050427727451476398",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050413272403427404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 美神降临！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 98,
+          "like_count": 3438,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T08:21:00.000Z",
+        "description": "天秤 switch 不陪聊 不接定制 不出原味 喜欢我可以给我打钱\nhttps://t.co/NoQ8pwsyCL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jasmine__rain",
+                "end": 57,
+                "expanded_url": "https://ngl.link/jasmine__rain",
+                "start": 34,
+                "url": "https://t.co/NoQ8pwsyCL"
+              }
+            ]
+          }
+        },
+        "id": "2026572990901792769",
+        "name": "我是一个焦焦的煎蛋",
+        "pinned_tweet_id": "2029520717788967027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040497418421301248/O6G5NX65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 182,
+          "like_count": 6059,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1363
+        },
+        "username": "Jasmine__rain",
+        "verified": false
+      }
+    ]
+  }
+}

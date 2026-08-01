@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034616884180717902",
+    "created_at": "2026-03-19T13:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034616884180717902"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "sp"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "绳结"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034616884180717902",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想玩sp…… #sp #绳结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034616884180717902",
+        "created_at": "2026-03-19T13:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034616884180717902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "sp"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "绳结"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034616884180717902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩sp…… #sp #绳结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

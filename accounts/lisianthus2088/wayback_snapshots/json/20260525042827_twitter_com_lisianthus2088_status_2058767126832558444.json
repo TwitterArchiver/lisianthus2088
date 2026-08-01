@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058767126832558444",
+    "created_at": "2026-05-25T04:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058767126832558444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1839111867446472705",
+          "start": 3,
+          "username": "qingjiaowoljl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058767126832558444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058241052373647433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @qingjiaowoljl: 半夜刷推特突然悟了，为啥老有人说这上面没有真人女生，更有甚者会被皮下男骗。因为这里的女生会发小作文，会分享日常，会和恶臭男对喷，会宣传女性主义，就是不会说扣1互看、免费破处、哥哥操我……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058767126832558444",
+        "created_at": "2026-05-25T04:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058767126832558444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1839111867446472705",
+              "start": 3,
+              "username": "qingjiaowoljl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058767126832558444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058241052373647433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @qingjiaowoljl: 半夜刷推特突然悟了，为啥老有人说这上面没有真人女生，更有甚者会被皮下男骗。因为这里的女生会发小作文，会分享日常，会和恶臭男对喷，会宣传女性主义，就是不会说扣1互看、免费破处、哥哥操我……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839111867446472705",
+        "conversation_id": "2058241052373647433",
+        "created_at": "2026-05-23T17:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058241052373647433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058241052373647433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 89224,
+          "like_count": 2568,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 54
+        },
+        "reply_settings": "following",
+        "text": "半夜刷推特突然悟了，为啥老有人说这上面没有真人女生，更有甚者会被皮下男骗。因为这里的女生会发小作文，会分享日常，会和恶臭男对喷，会宣传女性主义，就是不会说扣1互看、免费破处、哥哥操我……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 87,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T01:17:04.000Z",
+        "description": "我希望我们都能过的开开心心的。",
+        "id": "1839111867446472705",
+        "location": "我没有梦想",
+        "name": "请叫我蓝精灵",
+        "pinned_tweet_id": "1991469795712323990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015859518241177602/EmaWHhFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 54,
+          "like_count": 508,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 2077
+        },
+        "username": "qingjiaowoljl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2064537967948153265",
+    "created_at": "2026-06-10T02:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064537967948153265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822519694307540992",
+          "start": 3,
+          "username": "zoye946660"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064537967948153265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064284997000003625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @zoye946660: br0来回就那句“小男孩就不需要保护吗？”“你为什么不讨论男孩？”😅br0们如果真的关心小男孩受害者，为什么总在女性发声的时候才出现？女性在讨论安全问题和自身处境与规避风险时，不需要经过“那男性呢”的考核和左右☝🏻还是太温和了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2064537967948153265",
+        "created_at": "2026-06-10T02:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064537967948153265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822519694307540992",
+              "start": 3,
+              "username": "zoye946660"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064537967948153265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064284997000003625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @zoye946660: br0来回就那句“小男孩就不需要保护吗？”“你为什么不讨论男孩？”😅br0们如果真的关心小男孩受害者，为什么总在女性发声的时候才出现？女性在讨论安全问题和自身处境与规避风险时，不需要经过“那男性呢”的考核和左右☝🏻还是太温和了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822519694307540992",
+        "conversation_id": "2064284997000003625",
+        "created_at": "2026-06-09T09:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064284997000003625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064284997000003625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18288,
+          "like_count": 1053,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "reply_settings": "following",
+        "text": "br0来回就那句“小男孩就不需要保护吗？”“你为什么不讨论男孩？”😅br0们如果真的关心小男孩受害者，为什么总在女性发声的时候才出现？女性在讨论安全问题和自身处境与规避风险时，不需要经过“那男性呢”的考核和左右☝🏻还是太温和了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 85,
+          "like_count": 4138,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T06:25:45.000Z",
+        "description": "厌蝻是天性使然，是生物本能。\n和妹崽恬淡同居中⬮¨･❩🩶❨･''⬮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zoyepurple89go…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zoyepurple89go641",
+                "start": 0,
+                "url": "https://t.co/8c9PDxN5pW"
+              }
+            ]
+          }
+        },
+        "id": "1822519694307540992",
+        "location": "匿名箱➡️",
+        "name": "紫色床单",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822535764280008704/hNOpz2O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45328,
+          "following_count": 59,
+          "like_count": 5880,
+          "listed_count": 35,
+          "media_count": 614,
+          "tweet_count": 3400
+        },
+        "url": "https://t.co/8c9PDxN5pW",
+        "username": "zoye946660",
+        "verified": false
+      }
+    ]
+  }
+}

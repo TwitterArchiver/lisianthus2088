@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035387644855963957",
+    "created_at": "2026-03-21T16:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T17:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035387644855963957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035387644855963957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我就像一个溺水了很久的人 已经溺水到漂浮起来达成了一种微妙的平衡 我不知道我会去哪 害怕一挣扎就会呛水 只是静静的等待死亡 如果有人想把我救上去我会像抓住救命稻草一样把ta当做活下去的唯一理由 但是这样往往会把救我的人吓跑或者拉下水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035387644855963957",
+        "created_at": "2026-03-21T16:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T17:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035387644855963957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035387644855963957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我就像一个溺水了很久的人 已经溺水到漂浮起来达成了一种微妙的平衡 我不知道我会去哪 害怕一挣扎就会呛水 只是静静的等待死亡 如果有人想把我救上去我会像抓住救命稻草一样把ta当做活下去的唯一理由 但是这样往往会把救我的人吓跑或者拉下水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 46,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 146
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042084752560418939",
+    "created_at": "2026-04-09T21:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042354754597372136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864863315757010948",
+          "start": 0,
+          "username": "xx3495210246392"
+        },
+        {
+          "end": 25,
+          "id": "1840695204271247360",
+          "start": 17,
+          "username": "yshidhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042354754597372136",
+    "in_reply_to_user_id": "1864863315757010948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042313850637431065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx3495210246392 @yshidhe 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042084752560418939",
+        "created_at": "2026-04-09T21:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042354754597372136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864863315757010948",
+              "start": 0,
+              "username": "xx3495210246392"
+            },
+            {
+              "end": 25,
+              "id": "1840695204271247360",
+              "start": 17,
+              "username": "yshidhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042354754597372136",
+        "in_reply_to_user_id": "1864863315757010948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042313850637431065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx3495210246392 @yshidhe 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864863315757010948",
+        "conversation_id": "2042084752560418939",
+        "created_at": "2026-04-09T18:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042313850637431065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            },
+            {
+              "end": 24,
+              "id": "1840695204271247360",
+              "start": 16,
+              "username": "yshidhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042313850637431065",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042092780298920412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 @yshidhe 老大抓到你了笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 119,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1112
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T02:44:26.000Z",
+        "description": "",
+        "id": "1864863315757010948",
+        "name": "三轮优幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864863443838439424/rED5-80p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 76,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "username": "xx3495210246392",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡\n\n日本人みんな、交流しよ～♡ 英語で話しかけてくれると嬉しいな（私の日本語ほんとに下手くそだから…(´；ω；)",
+        "id": "1840695204271247360",
+        "name": "ゆうく;壞掉了♡",
+        "pinned_tweet_id": "2035327812085895543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 76,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 725
+        },
+        "username": "yshidhe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053482135038951424"
+      ],
+      "media_source_tweet_id": [
+        "2053482490518728995"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2053635063007568252",
+    "created_at": "2026-05-11T00:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053635063007568252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897829731992805376",
+          "start": 3,
+          "username": "TongZi14905"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4XzIr8r4C",
+          "end": 50,
+          "expanded_url": "https://x.com/TongZi14905/status/2053482490518728995/photo/1",
+          "media_key": "3_2053482135038951424",
+          "start": 27,
+          "url": "https://t.co/j4XzIr8r4C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053635063007568252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053482490518728995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TongZi14905: 我不想谈恋爱的原因 https://t.co/j4XzIr8r4C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2053482135038951424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9vHzubgAAeJF6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053482135038951424"
+          ],
+          "media_source_tweet_id": [
+            "2053482490518728995"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2053635063007568252",
+        "created_at": "2026-05-11T00:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053635063007568252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897829731992805376",
+              "start": 3,
+              "username": "TongZi14905"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4XzIr8r4C",
+              "end": 50,
+              "expanded_url": "https://x.com/TongZi14905/status/2053482490518728995/photo/1",
+              "media_key": "3_2053482135038951424",
+              "start": 27,
+              "url": "https://t.co/j4XzIr8r4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053635063007568252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053482490518728995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TongZi14905: 我不想谈恋爱的原因 https://t.co/j4XzIr8r4C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053482135038951424"
+          ]
+        },
+        "author_id": "1897829731992805376",
+        "conversation_id": "2053482490518728995",
+        "created_at": "2026-05-10T14:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053482490518728995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4XzIr8r4C",
+              "end": 33,
+              "expanded_url": "https://x.com/TongZi14905/status/2053482490518728995/photo/1",
+              "media_key": "3_2053482135038951424",
+              "start": 10,
+              "url": "https://t.co/j4XzIr8r4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053482490518728995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9685,
+          "like_count": 323,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "我不想谈恋爱的原因 https://t.co/j4XzIr8r4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 87,
+          "like_count": 3786,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T02:01:11.000Z",
+        "description": "小猫流口水导致局部暴雨",
+        "id": "1897829731992805376",
+        "location": "猫猫",
+        "name": "桐原介子",
+        "pinned_tweet_id": "2032967091481952491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004463156383326208/YJ2DY8Nw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268,
+          "following_count": 592,
+          "like_count": 29925,
+          "listed_count": 9,
+          "media_count": 261,
+          "tweet_count": 2686
+        },
+        "username": "TongZi14905",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2049031307381084184",
+    "created_at": "2026-04-28T07:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049031307381084184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802057772806320128",
+          "start": 3,
+          "username": "zhzh717171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049031307381084184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048666071624982881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhzh717171: 其实我很讨厌稍微对喜欢的人热情了一点就把自己叫做舔狗或者被朋友说这种行为是舔狗 你喜欢人家不得付出点代价 钱 情绪价值 总得有一样吧 反正我挺鄙视啥都没付出就装深情装可怜的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2049031307381084184",
+        "created_at": "2026-04-28T07:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049031307381084184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802057772806320128",
+              "start": 3,
+              "username": "zhzh717171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049031307381084184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048666071624982881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhzh717171: 其实我很讨厌稍微对喜欢的人热情了一点就把自己叫做舔狗或者被朋友说这种行为是舔狗 你喜欢人家不得付出点代价 钱 情绪价值 总得有一样吧 反正我挺鄙视啥都没付出就装深情装可怜的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802057772806320128",
+        "conversation_id": "2048666071624982881",
+        "created_at": "2026-04-27T07:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048666071624982881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048666071624982881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很讨厌稍微对喜欢的人热情了一点就把自己叫做舔狗或者被朋友说这种行为是舔狗 你喜欢人家不得付出点代价 钱 情绪价值 总得有一样吧 反正我挺鄙视啥都没付出就装深情装可怜的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 99,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T19:17:25.000Z",
+        "description": "",
+        "id": "1802057772806320128",
+        "location": "不开私信不加联系方式",
+        "name": "你要逼死我吗",
+        "pinned_tweet_id": "2003509210290749788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005836193460801536/qO2m8H9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 39,
+          "like_count": 28396,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 368
+        },
+        "username": "zhzh717171",
+        "verified": false
+      }
+    ]
+  }
+}

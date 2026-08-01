@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2050554462033621005",
+    "created_at": "2026-05-02T15:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050604367796109381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984997071435489280",
+          "start": 0,
+          "username": "NianKui59953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050604367796109381",
+    "in_reply_to_user_id": "1984997071435489280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050593431228129297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NianKui59953 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2050554462033621005",
+        "created_at": "2026-05-02T15:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050604367796109381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984997071435489280",
+              "start": 0,
+              "username": "NianKui59953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050604367796109381",
+        "in_reply_to_user_id": "1984997071435489280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050593431228129297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NianKui59953 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984997071435489280",
+        "conversation_id": "2050554462033621005",
+        "created_at": "2026-05-02T15:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050593431228129297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050593431228129297",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050554462033621005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 99,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T14:52:51.000Z",
+        "description": "mtf🏳️‍⚧️（无证无糖）|179cm/47kg|社恐&表达障碍（不怎么会说话...）|永远14岁|互fo欢迎|可交朋友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikuzuy",
+                "end": 23,
+                "expanded_url": "http://t.me/mikuzuy",
+                "start": 0,
+                "url": "https://t.co/aLPRrkCTSF"
+              }
+            ]
+          }
+        },
+        "id": "1984997071435489280",
+        "name": "葉落風隨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018571020467392512/c8dZJopO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1085,
+          "like_count": 6201,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/aLPRrkCTSF",
+        "username": "NianKui59953",
+        "verified": false
+      }
+    ]
+  }
+}

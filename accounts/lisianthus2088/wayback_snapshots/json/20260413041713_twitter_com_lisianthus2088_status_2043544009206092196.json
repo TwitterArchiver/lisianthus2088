@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2043542496547045573",
+    "created_at": "2026-04-13T04:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043544009206092196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043544009206092196",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043542496547045573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 有无小女孩一起瞎聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2043542496547045573",
+        "created_at": "2026-04-13T04:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043544009206092196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043544009206092196",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043542496547045573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 有无小女孩一起瞎聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291988176496545792",
+        "conversation_id": "2043542496547045573",
+        "created_at": "2026-04-13T04:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043542496547045573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043542496547045573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "交友贴来了 大家想认识什么类型的评论区留言："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 120,
+          "like_count": 2799,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1282
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/不做任何验证/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289070,
+          "following_count": 527,
+          "like_count": 479,
+          "listed_count": 332,
+          "media_count": 11776,
+          "tweet_count": 16991
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

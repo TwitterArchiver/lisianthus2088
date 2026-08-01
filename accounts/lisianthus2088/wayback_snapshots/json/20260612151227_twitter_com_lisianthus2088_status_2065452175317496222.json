@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065135748148519136",
+    "created_at": "2026-06-12T15:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065452175317496222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1466780156475764741",
+          "start": 0,
+          "username": "sansan293295671"
+        },
+        {
+          "end": 27,
+          "id": "1577351281106100224",
+          "start": 17,
+          "username": "LikXic0oe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065452175317496222",
+    "in_reply_to_user_id": "1466780156475764741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065326203549126761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sansan293295671 @LikXic0oe 放不下不是骚扰的理由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065135748148519136",
+        "created_at": "2026-06-12T15:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065452175317496222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1466780156475764741",
+              "start": 0,
+              "username": "sansan293295671"
+            },
+            {
+              "end": 27,
+              "id": "1577351281106100224",
+              "start": 17,
+              "username": "LikXic0oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065452175317496222",
+        "in_reply_to_user_id": "1466780156475764741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065326203549126761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sansan293295671 @LikXic0oe 放不下不是骚扰的理由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466780156475764741",
+        "conversation_id": "2065135748148519136",
+        "created_at": "2026-06-12T06:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065326203549126761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577351281106100224",
+              "start": 0,
+              "username": "LikXic0oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065326203549126761",
+        "in_reply_to_user_id": "1577351281106100224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065135748148519136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LikXic0oe 现代社会真想联系怎么可能联系不上呢？。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 84,
+          "like_count": 4244,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T14:43:43.000Z",
+        "description": "垃圾话。平平无奇的冲浪选手。发图片纯属自恋/莫名其妙点上菜的你脑子没问题吧？/不加任何人。",
+        "id": "1466780156475764741",
+        "name": "三三",
+        "pinned_tweet_id": "2007089450736824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036083511455834112/_ESLf4hW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1041,
+          "like_count": 3974,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2205
+        },
+        "username": "sansan293295671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T17:34:03.000Z",
+        "description": "to live with freedom",
+        "id": "1577351281106100224",
+        "location": "Australia",
+        "name": "cc",
+        "pinned_tweet_id": "1974152026784424309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920171651570049024/LuXCSYbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5819,
+          "following_count": 657,
+          "like_count": 905,
+          "listed_count": 25,
+          "media_count": 255,
+          "tweet_count": 3887
+        },
+        "username": "LikXic0oe",
+        "verified": false
+      }
+    ]
+  }
+}

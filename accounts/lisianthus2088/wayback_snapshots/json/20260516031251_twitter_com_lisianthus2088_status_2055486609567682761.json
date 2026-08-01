@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2055482871264289006",
+    "created_at": "2026-05-16T03:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055486609567682761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1300841451379503105",
+          "start": 0,
+          "username": "great_gream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055486609567682761",
+    "in_reply_to_user_id": "1300841451379503105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055484262149951905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@great_gream 真的吧！而且不能快速分辨对方是人还是吊，很费时费力的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2055482871264289006",
+        "created_at": "2026-05-16T03:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055486609567682761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1300841451379503105",
+              "start": 0,
+              "username": "great_gream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055486609567682761",
+        "in_reply_to_user_id": "1300841451379503105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055484262149951905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@great_gream 真的吧！而且不能快速分辨对方是人还是吊，很费时费力的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300841451379503105",
+        "conversation_id": "2055482871264289006",
+        "created_at": "2026-05-16T03:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055484262149951905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055484262149951905",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055482871264289006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 说真的回私信挺累的，和一个人单独聊的场景强行调用大脑资源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 87,
+          "like_count": 3993,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T17:02:37.000Z",
+        "description": "发泄+观点记录",
+        "id": "1300841451379503105",
+        "name": "Arthur Doghe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992664620377739265/rw-3sOee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 307,
+          "like_count": 48320,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1946
+        },
+        "username": "great_gream",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2041861430455259342",
+    "created_at": "2026-04-09T13:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042231095526293875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1631919249068552194",
+          "start": 0,
+          "username": "pureb1ue2heart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042231095526293875",
+    "in_reply_to_user_id": "1631919249068552194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041861430455259342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pureb1ue2heart 天呢太漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041861419520684038",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYmJI8a8AYK7Tr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2041861430455259342",
+        "created_at": "2026-04-09T13:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042231095526293875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1631919249068552194",
+              "start": 0,
+              "username": "pureb1ue2heart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042231095526293875",
+        "in_reply_to_user_id": "1631919249068552194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041861430455259342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pureb1ue2heart 天呢太漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041861419520684038"
+          ]
+        },
+        "author_id": "1631919249068552194",
+        "conversation_id": "2041861430455259342",
+        "created_at": "2026-04-08T12:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041861430455259342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyoPJtaMAf",
+              "end": 28,
+              "expanded_url": "https://x.com/pureb1ue2heart/status/2041861430455259342/photo/1",
+              "media_key": "3_2041861419520684038",
+              "start": 5,
+              "url": "https://t.co/oyoPJtaMAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041861430455259342",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1164,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LOV3 https://t.co/oyoPJtaMAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 118,
+          "like_count": 2497,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1018
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T07:27:31.000Z",
+        "description": "我有严重的公主脾气(-᷅_-᷄)｜我素藍藍/小藍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/forever1oving",
+                "end": 23,
+                "expanded_url": "https://ngl.link/forever1oving",
+                "start": 0,
+                "url": "https://t.co/dhsFFw4JXx"
+              }
+            ]
+          }
+        },
+        "id": "1631919249068552194",
+        "name": "蕾丝边绯闻",
+        "pinned_tweet_id": "2029397442425430052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039753761137336320/n9d19UTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 125,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/dhsFFw4JXx",
+        "username": "pureb1ue2heart",
+        "verified": false
+      }
+    ]
+  }
+}

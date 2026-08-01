@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2062766422452060630",
+    "created_at": "2026-06-05T11:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062859876976799940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879799070254096386",
+          "start": 0,
+          "username": "SherryJxpbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062859876976799940",
+    "in_reply_to_user_id": "1879799070254096386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062766422452060630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SherryJxpbp 握草"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2062766412956069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBrH6LacAAXaQL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2062766422452060630",
+        "created_at": "2026-06-05T11:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062859876976799940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062859876976799940",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062766422452060630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp 握草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062766412956069888"
+          ]
+        },
+        "author_id": "1879799070254096386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062766422452060630",
+        "created_at": "2026-06-05T05:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062766422452060630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDcfZW59q5",
+              "end": 41,
+              "expanded_url": "https://x.com/SherryJxpbp/status/2062766422452060630/photo/1",
+              "media_key": "3_2062766412956069888",
+              "start": 18,
+              "url": "https://t.co/IDcfZW59q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062766422452060630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1822,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧坤我的爆头率已经来到了惊人的30 https://t.co/IDcfZW59q5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 85,
+          "like_count": 4043,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…喜欢和小女孩互动！请小女孩多找我玩！ 私信只回有意思的——定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 107,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 84,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2050590652447224083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879799374022385664/TVkLtRn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5345,
+          "following_count": 267,
+          "like_count": 3089,
+          "listed_count": 15,
+          "media_count": 236,
+          "tweet_count": 2271
+        },
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

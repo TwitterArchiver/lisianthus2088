@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2080962233946010088",
+    "created_at": "2026-07-26T16:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081418821630623905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978056238861819904",
+          "start": 0,
+          "username": "laphyl1205"
+        },
+        {
+          "end": 23,
+          "id": "1885618607603986432",
+          "start": 12,
+          "username": "enen672150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081418821630623905",
+    "in_reply_to_user_id": "1978056238861819904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081223310030024886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laphyl1205 @enen672150 我特么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2080962233946010088",
+        "created_at": "2026-07-26T16:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081418821630623905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978056238861819904",
+              "start": 0,
+              "username": "laphyl1205"
+            },
+            {
+              "end": 23,
+              "id": "1885618607603986432",
+              "start": 12,
+              "username": "enen672150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081418821630623905",
+        "in_reply_to_user_id": "1978056238861819904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081223310030024886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laphyl1205 @enen672150 我特么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978056238861819904",
+        "conversation_id": "2080962233946010088",
+        "created_at": "2026-07-26T03:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081223310030024886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885618607603986432",
+              "start": 0,
+              "username": "enen672150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081223310030024886",
+        "in_reply_to_user_id": "1885618607603986432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5696,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080962233946010088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enen672150 在我国，18周岁以上人群中约49.14％的人饱受痔疮折磨，意味着剩下的50.86％为痔疮享受者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 88,
+          "like_count": 4463,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T11:12:22.000Z",
+        "description": "",
+        "id": "1978056238861819904",
+        "name": "laphyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978056376237887489/HGM7wZR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 52,
+          "like_count": 790,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "laphyl1205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T09:18:24.000Z",
+        "description": "我是豆，这是我的X账号\n我就口嗨 别管",
+        "id": "1885618607603986432",
+        "location": "意大利",
+        "name": "豆豆王",
+        "pinned_tweet_id": "2057858967485734980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073807781178793984/1uRj639t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 14,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "enen672150",
+        "verified": false
+      }
+    ]
+  }
+}

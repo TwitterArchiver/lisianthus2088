@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035958327612784868",
+    "created_at": "2026-03-23T05:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035958814978232351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032976991495004160",
+          "start": 0,
+          "username": "BuFang67297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035958814978232351",
+    "in_reply_to_user_id": "2032976991495004160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035958642097147911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuFang67297 周末也是这个点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035958327612784868",
+        "created_at": "2026-03-23T05:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035958814978232351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032976991495004160",
+              "start": 0,
+              "username": "BuFang67297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035958814978232351",
+        "in_reply_to_user_id": "2032976991495004160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035958642097147911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuFang67297 周末也是这个点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032976991495004160",
+        "conversation_id": "2035958327612784868",
+        "created_at": "2026-03-23T05:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035958642097147911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035958642097147911",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035958327612784868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 因为大家要上班上学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 我属性可杂可以找我聊天 ᐝ  || 单fo/连赞=我想找你玩但是不好意思 || 看眼缘互fo，小女孩也可以直接找我互！ || 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 62,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 235
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T00:27:56.000Z",
+        "description": "我大号被封了，这是第三次转生",
+        "id": "2032976991495004160",
+        "name": "大音希希2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032978831347183616/sbqP9eAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 252,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 488
+        },
+        "username": "BuFang67297",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2062357318654898564",
+    "created_at": "2026-06-04T02:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062357318654898564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1881799436059152384",
+          "start": 3,
+          "username": "stellaway0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062357318654898564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061873255577956778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @stellaway0o0: 我收到的私信基本上很多都是一样的，首先我不会想要因为单纯“你们想”就开始和你们聊天，我不感兴趣的话我当然可以选择不聊天啊。很多人问我为什么没回，基本上就是d关系我婉拒，就别再追着问了。还有一些很莫名其妙的问题，我的ip在哪我自介也有写，性别显…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2062357318654898564",
+        "created_at": "2026-06-04T02:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062357318654898564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881799436059152384",
+              "start": 3,
+              "username": "stellaway0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062357318654898564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061873255577956778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @stellaway0o0: 我收到的私信基本上很多都是一样的，首先我不会想要因为单纯“你们想”就开始和你们聊天，我不感兴趣的话我当然可以选择不聊天啊。很多人问我为什么没回，基本上就是d关系我婉拒，就别再追着问了。还有一些很莫名其妙的问题，我的ip在哪我自介也有写，性别显…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881799436059152384",
+        "conversation_id": "2061873255577956778",
+        "created_at": "2026-06-02T18:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061873255577956778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061873255577956778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我收到的私信基本上很多都是一样的，首先我不会想要因为单纯“你们想”就开始和你们聊天，我不感兴趣的话我当然可以选择不聊天啊。很多人问我为什么没回，基本上就是d关系我婉拒，就别再追着问了。还有一些很莫名其妙的问题，我的ip在哪我自介也有写，性别显而易见吧。\n最后，不看屌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 84,
+          "like_count": 4077,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T20:22:10.000Z",
+        "description": "特别爱长发男医学生文艺逼…\nentp 但社恐 05\nno one gets my twisted humor😢\nhttps://t.co/2CsjR3g7by",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aupvmhg5wybhk4…",
+                "end": 79,
+                "expanded_url": "https://marshmallow-qa.com/aupvmhg5wybhk4q?t=pSZREh&utm_medium=url_text&utm_source=promotion",
+                "start": 56,
+                "url": "https://t.co/2CsjR3g7by"
+              }
+            ]
+          }
+        },
+        "id": "1881799436059152384",
+        "location": "-17cm",
+        "name": "讨厌面包边",
+        "pinned_tweet_id": "2056062530460717461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055525797641994240/CehhqZtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 65,
+          "like_count": 1679,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 250
+        },
+        "username": "stellaway0o0",
+        "verified": false
+      }
+    ]
+  }
+}

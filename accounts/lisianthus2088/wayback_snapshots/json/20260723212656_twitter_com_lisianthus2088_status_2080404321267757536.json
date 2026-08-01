@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2080195712483303904",
+    "created_at": "2026-07-23T21:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T22:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080404321267757536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1872637594204508160",
+          "start": 0,
+          "username": "Ives497642Ives"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080404321267757536",
+    "in_reply_to_user_id": "1872637594204508160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080310832983089565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ives497642Ives 感觉今年缩招了、不然咋还不到我😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2080195712483303904",
+        "created_at": "2026-07-23T21:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080404321267757536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872637594204508160",
+              "start": 0,
+              "username": "Ives497642Ives"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080404321267757536",
+        "in_reply_to_user_id": "1872637594204508160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080310832983089565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ives497642Ives 感觉今年缩招了、不然咋还不到我😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872637594204508160",
+        "conversation_id": "2080195712483303904",
+        "created_at": "2026-07-23T15:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080310832983089565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080310832983089565",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080195712483303904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 感觉今年缩招了、不然咋还不到我😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 85,
+          "like_count": 4464,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2007
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T13:36:20.000Z",
+        "description": "",
+        "id": "1872637594204508160",
+        "name": "水懂我的鱿鱼💋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075421620009865216/hRTp5TOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 15,
+          "like_count": 2459,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "Ives497642Ives",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2054818074411594071",
+    "created_at": "2026-05-14T06:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054818074411594071"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054818074411594071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起我有一个网上的前妻姐，谈了一个月之后 她给我讲了她的原生家庭 并告诉我每一个听过她原生家庭的前任都在不久后离开了她。我那会很同情她，后来发现其实是因为她说完原生家庭没多久就爆照，没多久我也分掉了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2054818074411594071",
+        "created_at": "2026-05-14T06:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054818074411594071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054818074411594071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起我有一个网上的前妻姐，谈了一个月之后 她给我讲了她的原生家庭 并告诉我每一个听过她原生家庭的前任都在不久后离开了她。我那会很同情她，后来发现其实是因为她说完原生家庭没多久就爆照，没多久我也分掉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 86,
+          "like_count": 3916,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

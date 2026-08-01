@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052720086163886530",
+    "created_at": "2026-05-09T06:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053002185408168055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998097379468423168",
+          "start": 0,
+          "username": "song525350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053002185408168055",
+    "in_reply_to_user_id": "1998097379468423168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052721162225148338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@song525350 狠狠鸭梨自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052720086163886530",
+        "created_at": "2026-05-09T06:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053002185408168055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998097379468423168",
+              "start": 0,
+              "username": "song525350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053002185408168055",
+        "in_reply_to_user_id": "1998097379468423168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721162225148338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@song525350 狠狠鸭梨自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998097379468423168",
+        "conversation_id": "2052720086163886530",
+        "created_at": "2026-05-08T12:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052721162225148338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052721162225148338",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052720086163886530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 双重鸭梨自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 98,
+          "like_count": 3693,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T18:28:56.000Z",
+        "description": "旅行的意义大概就是，看广茂天地，看芸芸众生，观内心自在，让生命的流逝不再惊慌失措，更好的懂得爱和珍惜，接纳自己，也包容众生。good morning、afternoon and evening。",
+        "id": "1998097379468423168",
+        "location": "中国云南",
+        "name": "世界种满折耳根（关必互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039286341507407872/dl_PGy55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 602,
+          "like_count": 4160,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 805
+        },
+        "username": "song525350",
+        "verified": false
+      }
+    ]
+  }
+}

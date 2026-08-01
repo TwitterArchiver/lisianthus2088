@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036452309061013833",
+    "created_at": "2026-03-24T15:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036465642514292910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860764993849024512",
+          "start": 0,
+          "username": "liuyue04140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036465642514292910",
+    "in_reply_to_user_id": "1860764993849024512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036452309061013833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuyue04140 因为中国男足不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036452309061013833",
+        "created_at": "2026-03-24T15:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036465642514292910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860764993849024512",
+              "start": 0,
+              "username": "liuyue04140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036465642514292910",
+        "in_reply_to_user_id": "1860764993849024512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036452309061013833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyue04140 因为中国男足不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860764993849024512",
+        "conversation_id": "2036452309061013833",
+        "created_at": "2026-03-24T14:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036452309061013833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036452309061013833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好奇怪为什么男生那么容易恋足啊？好多男生一聊到女生的脚就眼睛发亮，可女生这边……我身边的朋友包括我自己，都完全对男生的jio没感觉，脚就是脚，洗完涂个护足霜就完事儿了~\n是我信息茧房太严重，只看到男生那边的讨论了？还是恋足这事本来就男女有别？文化影响？还是天生荷尔蒙不一样？\n我自己是真的搞不懂，明明大家都是人，为什么男生能把脚看得那么……神圣？女生里真有恋足的吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8243,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪为什么男生那么容易恋足啊？好多男生一聊到女生的脚就眼睛发亮，可女生这边……我身边的朋友包括我自己，都完全对男生的jio没感觉，脚就是脚，洗完涂个护足霜就完事儿了~\n是我信息茧房太严重，只看到男生那边的讨论了？还是恋足这事本来就男女有别？文化影响？还是天生荷尔蒙不一样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞感兴趣的人 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 74,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 336
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T19:19:00.000Z",
+        "description": "小笨蛋一枚｜大一新生｜闺蜜带我来玩的｜一个喜欢分享和听故事的树洞｜你的喜怒哀乐，我都愿意安静收藏｜无门槛｜私信只回复关注我的好宝",
+        "id": "1860764993849024512",
+        "location": "距离30.3KM",
+        "name": "六月",
+        "pinned_tweet_id": "2032762582847860914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860765381604089856/ln05e0n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6000,
+          "following_count": 135,
+          "like_count": 4269,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 130
+        },
+        "username": "liuyue04140",
+        "verified": true
+      }
+    ]
+  }
+}

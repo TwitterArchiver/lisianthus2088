@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042495911188971625",
+    "created_at": "2026-04-10T08:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042517002804404278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861944400038727680",
+          "start": 0,
+          "username": "betty0059817333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042517002804404278",
+    "in_reply_to_user_id": "1861944400038727680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042508537394532432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@betty0059817333 一般问的是“你咋了”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042495911188971625",
+        "created_at": "2026-04-10T08:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042517002804404278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861944400038727680",
+              "start": 0,
+              "username": "betty0059817333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042517002804404278",
+        "in_reply_to_user_id": "1861944400038727680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042508537394532432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@betty0059817333 一般问的是“你咋了”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861944400038727680",
+        "conversation_id": "2042495911188971625",
+        "created_at": "2026-04-10T07:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042508537394532432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042508537394532432",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042495911188971625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 一边扒拉一边问 真生气啦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 123,
+          "like_count": 2612,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1135
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:25:28.000Z",
+        "description": "花都已经枯萎了 你浇再多的水都是多余的",
+        "id": "1861944400038727680",
+        "name": "露染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042290069508407296/8V7CeOZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 230
+        },
+        "username": "betty0059817333",
+        "verified": false
+      }
+    ]
+  }
+}

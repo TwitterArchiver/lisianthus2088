@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2062150269442613270",
+    "created_at": "2026-06-03T13:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062161065815970204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881799436059152384",
+          "start": 0,
+          "username": "stellaway0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062161065815970204",
+    "in_reply_to_user_id": "1881799436059152384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062158912707768657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellaway0o0 哦不我在搞抽象啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2062150269442613270",
+        "created_at": "2026-06-03T13:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062161065815970204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881799436059152384",
+              "start": 0,
+              "username": "stellaway0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062161065815970204",
+        "in_reply_to_user_id": "1881799436059152384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062158912707768657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellaway0o0 哦不我在搞抽象啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881799436059152384",
+        "conversation_id": "2062150269442613270",
+        "created_at": "2026-06-03T13:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062158912707768657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062158912707768657",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062150269442613270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 补药拉黑我呀宝宝我删掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2981,
+          "following_count": 86,
+          "like_count": 4078,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T20:22:10.000Z",
+        "description": "特别爱长发男医学生文艺逼…\nentp 但社恐 05\nhttps://t.co/2CsjR3g7by",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aupvmhg5wybhk4…",
+                "end": 49,
+                "expanded_url": "https://marshmallow-qa.com/aupvmhg5wybhk4q?t=pSZREh&utm_medium=url_text&utm_source=promotion",
+                "start": 26,
+                "url": "https://t.co/2CsjR3g7by"
+              }
+            ]
+          }
+        },
+        "id": "1881799436059152384",
+        "location": "-17cm",
+        "name": "讨厌面包边",
+        "pinned_tweet_id": "2056062530460717461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055525797641994240/CehhqZtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 65,
+          "like_count": 1652,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 242
+        },
+        "username": "stellaway0o0",
+        "verified": false
+      }
+    ]
+  }
+}

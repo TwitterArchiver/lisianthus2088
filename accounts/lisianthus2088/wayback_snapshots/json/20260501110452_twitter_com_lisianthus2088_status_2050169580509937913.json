@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2049853938883838066",
+    "created_at": "2026-05-01T11:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050169580509937913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388202412977147904",
+          "start": 0,
+          "username": "Ai_Auroveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050169580509937913",
+    "in_reply_to_user_id": "1388202412977147904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050162445805617164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_Auroveil 夸夸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2049853938883838066",
+        "created_at": "2026-05-01T11:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050169580509937913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388202412977147904",
+              "start": 0,
+              "username": "Ai_Auroveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050169580509937913",
+        "in_reply_to_user_id": "1388202412977147904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050162445805617164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_Auroveil 夸夸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388202412977147904",
+        "conversation_id": "2049853938883838066",
+        "created_at": "2026-05-01T10:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050162445805617164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050162445805617164",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049853938883838066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我跟谁都不玩，除了对象\n喊我去打游戏我都会觉得压力大 😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 99,
+          "like_count": 3437,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T18:43:56.000Z",
+        "description": "Exploring all sorts of art before creating my own (CN/EN/DE)",
+        "id": "1388202412977147904",
+        "name": "Auroveil",
+        "pinned_tweet_id": "2046638262899331379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962190135371448320/3MVdTr0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 482,
+          "like_count": 21230,
+          "listed_count": 1,
+          "media_count": 1497,
+          "tweet_count": 5327
+        },
+        "username": "Ai_Auroveil",
+        "verified": true
+      }
+    ]
+  }
+}

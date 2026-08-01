@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2050899660752212327",
+    "created_at": "2026-05-03T19:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051021052424393109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048743225763233793",
+          "start": 0,
+          "username": "Bfhhhxwwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051021052424393109",
+    "in_reply_to_user_id": "2048743225763233793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050949334804676842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bfhhhxwwh ᗜ 𖥦 ᗜ小巧思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2050899660752212327",
+        "created_at": "2026-05-03T19:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051021052424393109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048743225763233793",
+              "start": 0,
+              "username": "Bfhhhxwwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051021052424393109",
+        "in_reply_to_user_id": "2048743225763233793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050949334804676842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bfhhhxwwh ᗜ 𖥦 ᗜ小巧思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048743225763233793",
+        "conversation_id": "2050899660752212327",
+        "created_at": "2026-05-03T14:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050949334804676842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050949334804676842",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050899660752212327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 这个角度好新颖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 100,
+          "like_count": 3493,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T13:00:56.000Z",
+        "description": "",
+        "id": "2048743225763233793",
+        "location": "常德",
+        "name": "Bfhhh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050903549023068160/7g1BESpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 13,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "username": "Bfhhhxwwh",
+        "verified": false
+      }
+    ]
+  }
+}

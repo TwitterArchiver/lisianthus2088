@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035297578200502621",
+    "created_at": "2026-03-21T10:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035297578200502621"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035297578200502621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我又断片了，具体表现为周一上的课写作业一点印象也没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035297578200502621",
+        "created_at": "2026-03-21T10:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035297578200502621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035297578200502621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我又断片了，具体表现为周一上的课写作业一点印象也没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 40,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 115
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

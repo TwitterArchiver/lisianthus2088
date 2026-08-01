@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-20T05:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034859090422505758"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "le"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "les"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "wlw"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034859090422505758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里和热拉最大的共同点就是没有女人鸟我 #le #les #wlw #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-20T05:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034859090422505758"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "le"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "les"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "wlw"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034859090422505758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里和热拉最大的共同点就是没有女人鸟我 #le #les #wlw #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "还不太会用这边，互po聊天请找我",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 18,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

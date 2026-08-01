@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049088904117301248"
+      ],
+      "media_source_tweet_id": [
+        "2049088910828134545"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2049315554335564098",
+    "created_at": "2026-04-29T02:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049315554335564098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1697896214920937472",
+          "start": 3,
+          "username": "LuckyLi06317744"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CrNfbP78X4",
+          "end": 58,
+          "expanded_url": "https://x.com/LuckyLi06317744/status/2049088910828134545/photo/1",
+          "media_key": "3_2049088904117301248",
+          "start": 35,
+          "url": "https://t.co/CrNfbP78X4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049315554335564098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049088910828134545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuckyLi06317744: 从来不主动发消息的原因如下 https://t.co/CrNfbP78X4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2049088904117301248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_TgHMbMAAAZyG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049088904117301248"
+          ],
+          "media_source_tweet_id": [
+            "2049088910828134545"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2049315554335564098",
+        "created_at": "2026-04-29T02:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049315554335564098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1697896214920937472",
+              "start": 3,
+              "username": "LuckyLi06317744"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrNfbP78X4",
+              "end": 58,
+              "expanded_url": "https://x.com/LuckyLi06317744/status/2049088910828134545/photo/1",
+              "media_key": "3_2049088904117301248",
+              "start": 35,
+              "url": "https://t.co/CrNfbP78X4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049315554335564098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049088910828134545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuckyLi06317744: 从来不主动发消息的原因如下 https://t.co/CrNfbP78X4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049088904117301248"
+          ]
+        },
+        "author_id": "1697896214920937472",
+        "conversation_id": "2049088910828134545",
+        "created_at": "2026-04-28T11:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049088910828134545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrNfbP78X4",
+              "end": 37,
+              "expanded_url": "https://x.com/LuckyLi06317744/status/2049088910828134545/photo/1",
+              "media_key": "3_2049088904117301248",
+              "start": 14,
+              "url": "https://t.co/CrNfbP78X4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049088910828134545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1547,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "从来不主动发消息的原因如下 https://t.co/CrNfbP78X4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 99,
+          "like_count": 3399,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T08:56:32.000Z",
+        "description": "",
+        "id": "1697896214920937472",
+        "name": "Evangeline",
+        "pinned_tweet_id": "2047010294963359761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733772896759808/LQJrlplR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 12,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 186
+        },
+        "username": "LuckyLi06317744",
+        "verified": false
+      }
+    ]
+  }
+}

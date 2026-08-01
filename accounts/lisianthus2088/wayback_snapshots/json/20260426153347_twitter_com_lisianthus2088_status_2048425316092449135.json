@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048380955195560026",
+    "created_at": "2026-04-26T15:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048425316092449135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859647099085914119",
+          "start": 0,
+          "username": "stillle4917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048425316092449135",
+    "in_reply_to_user_id": "1859647099085914119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048425099091747147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stillle4917 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048380955195560026",
+        "created_at": "2026-04-26T15:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048425316092449135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859647099085914119",
+              "start": 0,
+              "username": "stillle4917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048425316092449135",
+        "in_reply_to_user_id": "1859647099085914119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048425099091747147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stillle4917 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859647099085914119",
+        "conversation_id": "2048380955195560026",
+        "created_at": "2026-04-26T15:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048425099091747147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048425099091747147",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048380955195560026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 之前学校跳了一个……然后大家都在问什么时候放假，比同学跳楼本身还恐怖……我不敢想他们在想什么，也不敢想她生前在想什么😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 99,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T17:16:41.000Z",
+        "description": "负能量MAX的自言自语中",
+        "id": "1859647099085914119",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "冷雨季.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013977511156383745/FZr_Dcuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 103,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 155
+        },
+        "username": "stillle4917",
+        "verified": false
+      }
+    ]
+  }
+}

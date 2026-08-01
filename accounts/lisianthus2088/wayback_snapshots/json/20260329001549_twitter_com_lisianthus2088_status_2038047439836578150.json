@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037891634009121123",
+    "created_at": "2026-03-29T00:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038047439836578150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014015595537383424",
+          "start": 0,
+          "username": "TAOtianzhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038047439836578150",
+    "in_reply_to_user_id": "2014015595537383424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037971206155157714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAOtianzhen 潜意识只是不喜欢软弱的人包括自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037891634009121123",
+        "created_at": "2026-03-29T00:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038047439836578150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014015595537383424",
+              "start": 0,
+              "username": "TAOtianzhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038047439836578150",
+        "in_reply_to_user_id": "2014015595537383424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037971206155157714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAOtianzhen 潜意识只是不喜欢软弱的人包括自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014015595537383424",
+        "conversation_id": "2037891634009121123",
+        "created_at": "2026-03-28T19:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037971206155157714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037971206155157714",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037891634009121123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 很可怕的一个事情 讨厌依赖和被依赖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 98,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 528
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T16:41:58.000Z",
+        "description": "05 211本科 目前休学 9月回去上学\n互fo跟我说 查成分后会回 无架子之人\n钢筋直男",
+        "id": "2014015595537383424",
+        "location": "有🚪无槛",
+        "name": "天真",
+        "pinned_tweet_id": "2037973338421944559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026928175679496192/NUYkdsNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 9,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 466
+        },
+        "username": "TAOtianzhen",
+        "verified": false
+      }
+    ]
+  }
+}

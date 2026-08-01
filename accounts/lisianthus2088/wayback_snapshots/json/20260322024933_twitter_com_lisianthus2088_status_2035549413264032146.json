@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035424457314160704",
+    "created_at": "2026-03-22T02:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035549413264032146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912137353541636096",
+          "start": 0,
+          "username": "killua431302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035549413264032146",
+    "in_reply_to_user_id": "1912137353541636096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035424457314160704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killua431302 对对对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035424457314160704",
+        "created_at": "2026-03-22T02:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035549413264032146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912137353541636096",
+              "start": 0,
+              "username": "killua431302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035549413264032146",
+        "in_reply_to_user_id": "1912137353541636096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035424457314160704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killua431302 对对对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912137353541636096",
+        "conversation_id": "2035424457314160704",
+        "created_at": "2026-03-21T18:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035424457314160704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035424457314160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5921,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "姐弟骨科跟屎有什么区别，要写骨科就老老实实的给我写兄妹啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 47,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 163
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T13:34:15.000Z",
+        "description": "我的生活：西村力、瓦罗兰特",
+        "id": "1912137353541636096",
+        "location": "天堂",
+        "name": "孙笑川玩推特",
+        "pinned_tweet_id": "2010396741275885689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031468738692997120/TC4H-2iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 70,
+          "like_count": 478,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 603
+        },
+        "username": "killua431302",
+        "verified": false
+      }
+    ]
+  }
+}

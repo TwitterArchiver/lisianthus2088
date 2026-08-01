@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036439808780996979",
+    "created_at": "2026-03-24T22:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T23:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036578474576716100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036578474576716100",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036506130650935355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 我买的还真不是黄金"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036439808780996979",
+        "created_at": "2026-03-24T22:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T23:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036578474576716100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036578474576716100",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036506130650935355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 我买的还真不是黄金"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552602100634251265",
+        "conversation_id": "2036439808780996979",
+        "created_at": "2026-03-24T18:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036506130650935355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036506130650935355",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036439808780996979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 重仓黄金的我就这样:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞感兴趣的人 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 74,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 337
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "认真的每一次呼吸，烟花的绚烂就不算虚拟🎆叫我小弦 小七哩。七哩＝Chili是喜欢的乐队，Yin是弦的粤语读音。我是男的。不涉政。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "永雏弦",
+        "pinned_tweet_id": "1932738224021246228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033568958012596224/o0g9HFiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 839,
+          "like_count": 120352,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 23909
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

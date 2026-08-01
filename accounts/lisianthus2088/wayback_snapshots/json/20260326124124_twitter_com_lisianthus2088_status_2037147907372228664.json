@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036786837826728008",
+    "created_at": "2026-03-26T12:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037147907372228664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1409778199433650181",
+          "start": 0,
+          "username": "Linternal_River"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037147907372228664",
+    "in_reply_to_user_id": "1409778199433650181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037147459525501226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linternal_River ᗜ 𖥦 ᗜ允了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036786837826728008",
+        "created_at": "2026-03-26T12:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037147907372228664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1409778199433650181",
+              "start": 0,
+              "username": "Linternal_River"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037147907372228664",
+        "in_reply_to_user_id": "1409778199433650181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037147459525501226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linternal_River ᗜ 𖥦 ᗜ允了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409778199433650181",
+        "conversation_id": "2036786837826728008",
+        "created_at": "2026-03-26T12:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037147459525501226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037147459525501226",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036786837826728008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我将珍藏此句一百年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 94,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 398
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T07:38:18.000Z",
+        "description": "百无禁忌",
+        "id": "1409778199433650181",
+        "name": "绫川一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927998323363053568/exJFaoaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 295,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 241
+        },
+        "username": "Linternal_River",
+        "verified": false
+      }
+    ]
+  }
+}

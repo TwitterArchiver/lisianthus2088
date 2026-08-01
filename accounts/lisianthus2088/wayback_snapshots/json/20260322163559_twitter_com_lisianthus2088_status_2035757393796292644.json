@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035739756320141476",
+    "created_at": "2026-03-22T16:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035757393796292644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1550350168259629056",
+          "start": 0,
+          "username": "huake95930259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035757393796292644",
+    "in_reply_to_user_id": "1550350168259629056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035757254465790418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huake95930259 女神扇脸我舔手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035739756320141476",
+        "created_at": "2026-03-22T16:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035757393796292644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1550350168259629056",
+              "start": 0,
+              "username": "huake95930259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035757393796292644",
+        "in_reply_to_user_id": "1550350168259629056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035757254465790418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huake95930259 女神扇脸我舔手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550350168259629056",
+        "conversation_id": "2035739756320141476",
+        "created_at": "2026-03-22T16:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035757254465790418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035757254465790418",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035739756320141476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我对女神："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ | 可以找我聊天 ᐝ  | 单fo/连赞=我想找你玩但是不好意思 | 看眼缘互fo，小女孩也可以直接找我互！ | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 59,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 224
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:21:06.000Z",
+        "description": "好想成为きれい爆美女啊！",
+        "id": "1550350168259629056",
+        "name": "Shirley",
+        "pinned_tweet_id": "2027430614983684498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999188312003854336/327Kpk5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 193,
+          "like_count": 1322,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 413
+        },
+        "username": "huake95930259",
+        "verified": false
+      }
+    ]
+  }
+}

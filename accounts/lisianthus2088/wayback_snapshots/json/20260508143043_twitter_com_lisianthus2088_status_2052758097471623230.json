@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052721264637411538",
+    "created_at": "2026-05-08T14:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052758097471623230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645802888864858113",
+          "start": 0,
+          "username": "TmLinhTng425563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052758097471623230",
+    "in_reply_to_user_id": "1645802888864858113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052757551553626243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TmLinhTng425563 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052721264637411538",
+        "created_at": "2026-05-08T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052758097471623230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645802888864858113",
+              "start": 0,
+              "username": "TmLinhTng425563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052758097471623230",
+        "in_reply_to_user_id": "1645802888864858113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052757551553626243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TmLinhTng425563 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645802888864858113",
+        "conversation_id": "2052721264637411538",
+        "created_at": "2026-05-08T14:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052757551553626243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052757551553626243",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721264637411538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 地址是自己编辑的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2052748269496017125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 98,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T14:56:41.000Z",
+        "description": "ACG好きのオタク😝\n世界平和🥰",
+        "id": "1645802888864858113",
+        "location": "home",
+        "name": "高崎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650861650705272834/Tz_q6mpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 288,
+          "like_count": 2999,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1211
+        },
+        "username": "TmLinhTng425563",
+        "verified": false
+      }
+    ]
+  }
+}

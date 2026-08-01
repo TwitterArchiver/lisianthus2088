@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2047525562609197239",
+    "created_at": "2026-04-28T21:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049240767106085130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932484285841485830",
+          "start": 0,
+          "username": "Zyq0723_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049240767106085130",
+    "in_reply_to_user_id": "1932484285841485830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049198349606383911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zyq0723_77 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2047525562609197239",
+        "created_at": "2026-04-28T21:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049240767106085130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932484285841485830",
+              "start": 0,
+              "username": "Zyq0723_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049240767106085130",
+        "in_reply_to_user_id": "1932484285841485830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049198349606383911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zyq0723_77 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932484285841485830",
+        "conversation_id": "2047525562609197239",
+        "created_at": "2026-04-28T18:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049198349606383911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049198349606383911",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047525562609197239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我操 萌！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 99,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T17:05:40.000Z",
+        "description": "le🌈 ｜ 08",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipnana.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://ipnana.com/#/register?code=nrqLBsue",
+                "start": 0,
+                "url": "https://t.co/fRx20EtW6F"
+              }
+            ]
+          }
+        },
+        "id": "1932484285841485830",
+        "location": "我现在是委屈小狗🥺",
+        "name": "黑煤球🐾",
+        "pinned_tweet_id": "2044411069540803017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960052395658067968/lWdi1dlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 37,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/fRx20EtW6F",
+        "username": "Zyq0723_77",
+        "verified": false
+      }
+    ]
+  }
+}

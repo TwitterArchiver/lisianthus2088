@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034872498668675120",
+    "created_at": "2026-03-20T07:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034887843911528795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660510716934361088",
+          "start": 0,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034887843911528795",
+    "in_reply_to_user_id": "1660510716934361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034872498668675120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Studio42 好工作，直接跟dom谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034872498668675120",
+        "created_at": "2026-03-20T07:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034887843911528795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034887843911528795",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034872498668675120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 好工作，直接跟dom谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2034872498668675120",
+        "created_at": "2026-03-20T05:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034872498668675120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034872498668675120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2100,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你已经是一个好dom了\n应该能开工作证明交五险一金吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "还不太会用这边，互po聊天请找我",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 20,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1954839686326935914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78512,
+          "following_count": 91,
+          "like_count": 11304,
+          "listed_count": 126,
+          "media_count": 15,
+          "tweet_count": 2389
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

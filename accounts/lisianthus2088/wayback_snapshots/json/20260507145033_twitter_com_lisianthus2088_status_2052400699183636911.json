@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052391228466159764",
+    "created_at": "2026-05-07T14:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052400699183636911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1549513317248421889",
+          "start": 0,
+          "username": "xiaomukanxi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052400699183636911",
+    "in_reply_to_user_id": "1549513317248421889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052398823536767191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomukanxi1 qf万岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052391228466159764",
+        "created_at": "2026-05-07T14:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052400699183636911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1549513317248421889",
+              "start": 0,
+              "username": "xiaomukanxi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052400699183636911",
+        "in_reply_to_user_id": "1549513317248421889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052398823536767191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomukanxi1 qf万岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549513317248421889",
+        "conversation_id": "2052391228466159764",
+        "created_at": "2026-05-07T14:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052398823536767191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052398823536767191",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052391228466159764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 好喜欢这种风格的装束啊，要不要COS一下精灵旅社里的梅薇斯，那个女主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 97,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T21:55:48.000Z",
+        "description": "My eyesight has dropped to a hopeless level. I can't see the money when I open my wallet. It's terrible.",
+        "id": "1549513317248421889",
+        "location": "0.3km",
+        "name": "悪夢さん",
+        "pinned_tweet_id": "2051592680006730095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834297322681012224/csyjT1Vi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 189
+        },
+        "username": "xiaomukanxi1",
+        "verified": false
+      }
+    ]
+  }
+}

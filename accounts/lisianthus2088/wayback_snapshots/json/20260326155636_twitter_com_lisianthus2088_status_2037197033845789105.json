@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037149768917659740",
+    "created_at": "2026-03-26T15:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037197033845789105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781974567701102592",
+          "start": 0,
+          "username": "getthefkoff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037197033845789105",
+    "in_reply_to_user_id": "1781974567701102592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037163422283149802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@getthefkoff_ 但是我又感觉需要别人是软弱的表现…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037149768917659740",
+        "created_at": "2026-03-26T15:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037197033845789105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781974567701102592",
+              "start": 0,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037197033845789105",
+        "in_reply_to_user_id": "1781974567701102592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037163422283149802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@getthefkoff_ 但是我又感觉需要别人是软弱的表现…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781974567701102592",
+        "conversation_id": "2037149768917659740",
+        "created_at": "2026-03-26T13:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037163422283149802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037163422283149802",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037149768917659740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 找一个同等需要你的人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 90,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 425
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T09:15:03.000Z",
+        "description": "XD",
+        "id": "1781974567701102592",
+        "location": "0.1km",
+        "name": "我的内裤很能装逼",
+        "pinned_tweet_id": "1930531713643598121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036114537087442944/Zi7hFsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 77,
+          "like_count": 5168,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1050
+        },
+        "username": "getthefkoff_",
+        "verified": false
+      }
+    ]
+  }
+}

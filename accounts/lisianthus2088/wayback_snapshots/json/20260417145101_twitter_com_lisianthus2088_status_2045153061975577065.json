@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2045153061975577065",
+    "created_at": "2026-04-17T14:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045153061975577065"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045153061975577065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢通过漫长的相处逐渐变得了解和默契。喜欢从陌生到亲密，从点头之交到形影不离，喜欢仅仅通过文字就可以察觉对方微小的情绪。喜欢在慢节奏的生活中寻找乐趣，喜欢着安稳的一切。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2045153061975577065",
+        "created_at": "2026-04-17T14:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045153061975577065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045153061975577065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢通过漫长的相处逐渐变得了解和默契。喜欢从陌生到亲密，从点头之交到形影不离，喜欢仅仅通过文字就可以察觉对方微小的情绪。喜欢在慢节奏的生活中寻找乐趣，喜欢着安稳的一切。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 失踪就是梯子掉了         提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 120,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

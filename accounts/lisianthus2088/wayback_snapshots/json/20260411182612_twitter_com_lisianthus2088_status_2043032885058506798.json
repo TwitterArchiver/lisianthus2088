@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042969299053359363",
+    "created_at": "2026-04-11T18:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043032885058506798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041124328717291520",
+          "start": 0,
+          "username": "ricepywx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043032885058506798",
+    "in_reply_to_user_id": "2041124328717291520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043024370898211259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ricepywx 哇塞嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042969299053359363",
+        "created_at": "2026-04-11T18:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043032885058506798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041124328717291520",
+              "start": 0,
+              "username": "ricepywx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043032885058506798",
+        "in_reply_to_user_id": "2041124328717291520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043024370898211259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ricepywx 哇塞嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041124328717291520",
+        "conversation_id": "2042969299053359363",
+        "created_at": "2026-04-11T17:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043024370898211259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043024370898211259",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042969299053359363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我赞过主播的帖子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 119,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1239
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T12:03:06.000Z",
+        "description": "性压抑…….随便乱说…别评价我，聊得来的宝宝可以加好友…….发现了我线下也别吭声闲着你了……聊天只和看得顺眼的聊..不会说话就发点好看的…发出来的东西只代表我当时的想法…发私信乱说话默认被我骂",
+        "id": "2041124328717291520",
+        "name": "小米粥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041849198451314688/J4m-H0nQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 25,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 534
+        },
+        "username": "ricepywx",
+        "verified": false
+      }
+    ]
+  }
+}

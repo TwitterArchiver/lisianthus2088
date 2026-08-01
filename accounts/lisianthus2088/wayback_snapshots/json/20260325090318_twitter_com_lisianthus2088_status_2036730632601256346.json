@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036730632601256346",
+    "created_at": "2026-03-25T09:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036730632601256346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036730632601256346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认输了好不好，反正我期待的永远得不到。悲观主义只是我的一场自知之明而已 别再期待任何事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036730632601256346",
+        "created_at": "2026-03-25T09:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036730632601256346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036730632601256346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认输了好不好，反正我期待的永远得不到。悲观主义只是我的一场自知之明而已 别再期待任何事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞感兴趣的人 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 74,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 352
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

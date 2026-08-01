@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037526129020735617",
+    "created_at": "2026-03-27T13:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037526129020735617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840432972711022592",
+          "start": 3,
+          "username": "xiao_tu_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037526129020735617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013851367920594946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiao_tu_gu: 拧巴的妹需要引导型哥，回避的妹需要主动型哥，缺爱的妹需要依恋型哥，暴躁的妹需要讨好型哥……\n\n总之所有妹都需要哥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037526129020735617",
+        "created_at": "2026-03-27T13:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037526129020735617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840432972711022592",
+              "start": 3,
+              "username": "xiao_tu_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037526129020735617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013851367920594946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiao_tu_gu: 拧巴的妹需要引导型哥，回避的妹需要主动型哥，缺爱的妹需要依恋型哥，暴躁的妹需要讨好型哥……\n\n总之所有妹都需要哥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840432972711022592",
+        "conversation_id": "2013851367920594946",
+        "created_at": "2026-01-21T05:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013851367920594946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013851367920594946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 54420,
+          "like_count": 858,
+          "quote_count": 23,
+          "reply_count": 28,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "拧巴的妹需要引导型哥，回避的妹需要主动型哥，缺爱的妹需要依恋型哥，暴躁的妹需要讨好型哥……\n\n总之所有妹都需要哥！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 89,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 450
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T16:46:40.000Z",
+        "description": "纸片人哥妹骨🦴爱好者｜乱七八糟口嗨达人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miss_bunny1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miss_bunny1",
+                "start": 0,
+                "url": "https://t.co/dD9IZUEVxc"
+              }
+            ]
+          }
+        },
+        "id": "1840432972711022592",
+        "location": "留言点梗树洞戳👇👉",
+        "name": "🏥小兔骨科医院",
+        "pinned_tweet_id": "2017543486149734531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840433231935746048/YLiV9Aao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26576,
+          "following_count": 749,
+          "like_count": 977,
+          "listed_count": 20,
+          "media_count": 105,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/dD9IZUEVxc",
+        "username": "xiao_tu_gu",
+        "verified": false
+      }
+    ]
+  }
+}

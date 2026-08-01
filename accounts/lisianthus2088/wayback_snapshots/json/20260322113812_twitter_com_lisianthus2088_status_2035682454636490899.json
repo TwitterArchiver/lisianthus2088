@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035677174443991374",
+    "created_at": "2026-03-22T11:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035682454636490899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035682454636490899",
+    "in_reply_to_user_id": "1992095465559715840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035677174443991374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉这个真的很天才的设计"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035677174443991374",
+        "created_at": "2026-03-22T11:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035682454636490899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035682454636490899",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035677174443991374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉这个真的很天才的设计"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035677174443991374",
+        "created_at": "2026-03-22T11:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035677174443991374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ClothesAesthe/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ClothesAesthe/status/2035448314091503826",
+              "start": 10,
+              "url": "https://t.co/H47iJ1tmcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035677174443991374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035448314091503826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好漂亮有人懂吗 https://t.co/H47iJ1tmcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo/连赞=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 53,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 207
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

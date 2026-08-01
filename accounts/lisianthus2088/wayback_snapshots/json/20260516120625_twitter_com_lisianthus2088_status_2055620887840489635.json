@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2055482871264289006",
+    "created_at": "2026-05-16T12:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055620887840489635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909144821383778304",
+          "start": 0,
+          "username": "LemonDango6226"
+        },
+        {
+          "end": 32,
+          "id": "1845367454178082816",
+          "start": 16,
+          "username": "zhaomeimingsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055620887840489635",
+    "in_reply_to_user_id": "1909144821383778304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055617352801370320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonDango6226 @zhaomeimingsama 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2055482871264289006",
+        "created_at": "2026-05-16T12:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055620887840489635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909144821383778304",
+              "start": 0,
+              "username": "LemonDango6226"
+            },
+            {
+              "end": 32,
+              "id": "1845367454178082816",
+              "start": 16,
+              "username": "zhaomeimingsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055620887840489635",
+        "in_reply_to_user_id": "1909144821383778304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055617352801370320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonDango6226 @zhaomeimingsama 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909144821383778304",
+        "conversation_id": "2055482871264289006",
+        "created_at": "2026-05-16T11:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055617352801370320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845367454178082816",
+              "start": 0,
+              "username": "zhaomeimingsama"
+            },
+            {
+              "end": 32,
+              "id": "1992095465559715840",
+              "start": 17,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055617352801370320",
+        "in_reply_to_user_id": "1845367454178082816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055502605133230360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomeimingsama @lisianthus2088 对啊有些人到底什么时候能懂┏( .-. ┏ ) ┓ 我以前心情不好都是在淘宝上拍的陪聊，因为我不觉得谁有义务去白听我闲扯，更何况是我单方面喜欢的博主。陪聊半个小时都十多块，甚至对面的长相身材声音我都不知道，更别说是身材好长得漂亮的美女了。人家美女凭什么把时间浪费在陪你免费聊天上啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 87,
+          "like_count": 4016,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T07:23:02.000Z",
+        "description": "被肌肉男伤透了心。懒得奢望帅哥肌肉男喜欢自己。单着无所谓。平时顶多只和帅哥和女生聊聊，其他人都不闲聊不闲聊不闲聊，但凡闲聊一句请给我发一次88谢谢。🚪128 只是好友位，随缘回。我谁都不喜欢。憋特么问我线不线下了。普信男早点魂飞魄散吧别逼我砍人。脾气差，厌烦一切不挑食的，所以没情商就闭嘴。单取的阳痿早泄。",
+        "id": "1909144821383778304",
+        "location": "创生之柱 intj",
+        "name": "Lemon Dango",
+        "pinned_tweet_id": "2051778658994679856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013541996795748352/TAC1Yf_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 128,
+          "like_count": 5993,
+          "listed_count": 19,
+          "media_count": 51,
+          "tweet_count": 770
+        },
+        "username": "LemonDango6226",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T07:34:41.000Z",
+        "description": "我只是个时不时爱发疯的小女孩.",
+        "id": "1845367454178082816",
+        "name": "照美冥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055516275355586560/zSHIPMrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 22,
+          "like_count": 79,
+          "listed_count": 10,
+          "media_count": 40,
+          "tweet_count": 326
+        },
+        "username": "zhaomeimingsama",
+        "verified": false
+      }
+    ]
+  }
+}

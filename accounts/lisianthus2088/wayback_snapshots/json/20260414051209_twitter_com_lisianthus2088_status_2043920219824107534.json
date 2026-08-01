@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2043716803441070264",
+    "created_at": "2026-04-14T05:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043920219824107534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893030061848305665",
+          "start": 0,
+          "username": "Xyyyy_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043920219824107534",
+    "in_reply_to_user_id": "1893030061848305665",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043718302812483984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xyyyy_0324 meow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2043716803441070264",
+        "created_at": "2026-04-14T05:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043920219824107534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893030061848305665",
+              "start": 0,
+              "username": "Xyyyy_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043920219824107534",
+        "in_reply_to_user_id": "1893030061848305665",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043718302812483984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyyyy_0324 meow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893030061848305665",
+        "conversation_id": "2043716803441070264",
+        "created_at": "2026-04-13T15:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043718302812483984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043718302812483984",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043716803441070264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 小宝宝这个文案也太…🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 120,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1321
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "可以叫我小氧^^我有恋哥癖。🈚🚪互关➕v 请主动找我要！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 107,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 84,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 273,
+          "like_count": 6070,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2137
+        },
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}

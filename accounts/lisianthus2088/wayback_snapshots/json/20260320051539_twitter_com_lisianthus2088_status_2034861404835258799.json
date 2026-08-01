@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-20T05:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034861404835258799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774161590113497088",
+          "start": 0,
+          "username": "Grapefruit030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034861404835258799",
+    "in_reply_to_user_id": "1774161590113497088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034861162509344861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grapefruit030 看懂的都哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-20T05:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034861404835258799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774161590113497088",
+              "start": 0,
+              "username": "Grapefruit030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034861404835258799",
+        "in_reply_to_user_id": "1774161590113497088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034861162509344861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grapefruit030 看懂的都哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774161590113497088",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-20T05:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034861162509344861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034861162509344861",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859090422505758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 已看哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "还不太会用这边，互po聊天请找我",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 18,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T19:47:51.000Z",
+        "description": "女同女同女同（没有属性",
+        "id": "1774161590113497088",
+        "name": "狂恋人妻综合症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945521334919868427/-BTyLv-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 111,
+          "like_count": 740,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 326
+        },
+        "username": "Grapefruit030",
+        "verified": false
+      }
+    ]
+  }
+}

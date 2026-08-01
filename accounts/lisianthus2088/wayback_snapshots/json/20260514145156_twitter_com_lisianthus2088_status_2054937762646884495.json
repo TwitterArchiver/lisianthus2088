@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054937744531742720"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054937762646884495",
+    "created_at": "2026-05-14T14:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054937762646884495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jo46WcKyWK",
+          "end": 32,
+          "expanded_url": "https://x.com/lisianthus2088/status/2054937762646884495/photo/1",
+          "media_key": "3_2054937744531742720",
+          "start": 9,
+          "url": "https://t.co/jo46WcKyWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054937762646884495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "直接来找我呀宝宝 https://t.co/jo46WcKyWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2054937744531742720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISa_bpbYAAVPWs.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054937744531742720"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054937762646884495",
+        "created_at": "2026-05-14T14:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054937762646884495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo46WcKyWK",
+              "end": 32,
+              "expanded_url": "https://x.com/lisianthus2088/status/2054937762646884495/photo/1",
+              "media_key": "3_2054937744531742720",
+              "start": 9,
+              "url": "https://t.co/jo46WcKyWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054937762646884495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直接来找我呀宝宝 https://t.co/jo46WcKyWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 87,
+          "like_count": 3923,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

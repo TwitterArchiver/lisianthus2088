@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2081421675103686867",
+    "created_at": "2026-07-26T16:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081421675103686867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1883286192575389696",
+          "start": 3,
+          "username": "lovemxyforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081421675103686867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080337914370949487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovemxyforever: 我要是想situationship 其实轮不到你，聊天说话比你有趣的人多了去了。我只想跟你好好过日子走下去不行吗，别拿这个概念搪塞我了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2081421675103686867",
+        "created_at": "2026-07-26T16:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081421675103686867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1883286192575389696",
+              "start": 3,
+              "username": "lovemxyforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081421675103686867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080337914370949487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovemxyforever: 我要是想situationship 其实轮不到你，聊天说话比你有趣的人多了去了。我只想跟你好好过日子走下去不行吗，别拿这个概念搪塞我了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883286192575389696",
+        "conversation_id": "2080337914370949487",
+        "created_at": "2026-07-23T17:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080337914370949487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080337914370949487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 25269,
+          "like_count": 525,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我要是想situationship 其实轮不到你，聊天说话比你有趣的人多了去了。我只想跟你好好过日子走下去不行吗，别拿这个概念搪塞我了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 88,
+          "like_count": 4471,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2014
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T22:50:18.000Z",
+        "description": "世界正数第一善良的人 我的前世@ljjjj101 \n\nhttps://t.co/4FwFGSb86d\n\n命护赵露思",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ljjjj101"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hohni",
+                "end": 50,
+                "expanded_url": "https://ngl.link/hohni",
+                "start": 27,
+                "url": "https://t.co/4FwFGSb86d"
+              }
+            ]
+          }
+        },
+        "id": "1883286192575389696",
+        "location": "🚪188 上不封顶 我爱你们",
+        "name": "ho hni",
+        "pinned_tweet_id": "2072212341782167594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883287727036411904/cLL9pyaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 286,
+          "like_count": 201,
+          "listed_count": 11,
+          "media_count": 111,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "lovemxyforever",
+        "verified": false
+      }
+    ]
+  }
+}

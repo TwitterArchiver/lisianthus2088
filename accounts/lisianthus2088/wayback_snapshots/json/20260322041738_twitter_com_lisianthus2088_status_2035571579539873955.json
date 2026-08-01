@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035571579539873955",
+    "created_at": "2026-03-22T04:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035571579539873955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDaquaforever/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/DDaquaforever/status/2035093122141823032",
+          "start": 6,
+          "url": "https://t.co/BI9grvPCFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035571579539873955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035093122141823032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去不早说 https://t.co/BI9grvPCFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2035093073554968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD4aXjYaEAA9DXc.jpg",
+        "width": 1565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035571579539873955",
+        "created_at": "2026-03-22T04:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035571579539873955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/2035093122141823032",
+              "start": 6,
+              "url": "https://t.co/BI9grvPCFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035571579539873955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035093122141823032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去不早说 https://t.co/BI9grvPCFm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035093073554968576"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2035093122141823032",
+        "created_at": "2026-03-20T20:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035093122141823032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xl3qeSMXHS",
+              "end": 35,
+              "expanded_url": "https://x.com/DDaquaforever/status/2035093122141823032/photo/1",
+              "media_key": "3_2035093073554968576",
+              "start": 12,
+              "url": "https://t.co/xl3qeSMXHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035093122141823032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 38130,
+          "like_count": 722,
+          "quote_count": 27,
+          "reply_count": 24,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "随机吓死一个ddl战士 https://t.co/xl3qeSMXHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo/连赞=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 48,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 171
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885,
+          "following_count": 4417,
+          "like_count": 7425,
+          "listed_count": 11,
+          "media_count": 2584,
+          "tweet_count": 12144
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

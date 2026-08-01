@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038967242029965473",
+    "created_at": "2026-03-31T22:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T23:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039113142605955099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993900521409978368",
+          "start": 0,
+          "username": "ZZZ606606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039113142605955099",
+    "in_reply_to_user_id": "1993900521409978368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039032406989275519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZZ606606 耍酷中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038967242029965473",
+        "created_at": "2026-03-31T22:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039113142605955099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993900521409978368",
+              "start": 0,
+              "username": "ZZZ606606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039113142605955099",
+        "in_reply_to_user_id": "1993900521409978368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039032406989275519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZZ606606 耍酷中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993900521409978368",
+        "conversation_id": "2038967242029965473",
+        "created_at": "2026-03-31T17:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039032406989275519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039032406989275519",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038967242029965473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 帅姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 113,
+          "like_count": 1830,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 753
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T04:31:57.000Z",
+        "description": "线上高P线下查无此人，清水。性别保密，丑男的不要来骚扰我。\n口味杂，什么都吃，什么都看。精神不好，时不时发颠，自闭开朗会切换，欢迎找我聊天。\n时不时发一些cos和oc，没有钱就摆。要是淮安有cos老师没人陪出cos的话可以联系我算是委托不要嫌弃我就好，183/144应该什么都可以出吧。（在减肥目标125-120",
+        "id": "1993900521409978368",
+        "location": "上野宫",
+        "name": "上野 亜",
+        "pinned_tweet_id": "2033987585639649562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993901427476086784/ZHV7-ST7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 140,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 50
+        },
+        "username": "ZZZ606606",
+        "verified": false
+      }
+    ]
+  }
+}

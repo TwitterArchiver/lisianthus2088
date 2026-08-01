@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042604649640005904",
+    "created_at": "2026-04-11T00:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T01:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042754543600189850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "wbsdsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042754543600189850",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042715851699400761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbsdsf 蟹蟹你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042604649640005904",
+        "created_at": "2026-04-11T00:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042754543600189850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "wbsdsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042754543600189850",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042715851699400761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbsdsf 蟹蟹你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593905954575171584",
+        "conversation_id": "2042604649640005904",
+        "created_at": "2026-04-10T21:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042715851699400761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042715851699400761",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042604649640005904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 豪堪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 118,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1188
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个纯粹的性压抑郭楠\n仇男仇女仇异性恋仇同性恋仇顺直仇多元仇年上仇年下仇左仇友仇s仇m仇猫仇狗仇小孩仇老人\n埋胸爱好者\n再也不叫妈了因为没人愿意当\n@shbwbclmg 碎碎念小号只过熟人\nhttps://t.co/kFn7X34Ikl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "shbwbclmg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/198964dsfws",
+                "end": 118,
+                "expanded_url": "https://ngl.link/198964dsfws",
+                "start": 95,
+                "url": "https://t.co/kFn7X34Ikl"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓里",
+        "name": "也许没人认识我",
+        "pinned_tweet_id": "2034683026307961326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978164101701611520/lJ5SMSpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13839,
+          "following_count": 2235,
+          "like_count": 58227,
+          "listed_count": 20,
+          "media_count": 2657,
+          "tweet_count": 26168
+        },
+        "username": "wbsdsf",
+        "verified": false
+      }
+    ]
+  }
+}

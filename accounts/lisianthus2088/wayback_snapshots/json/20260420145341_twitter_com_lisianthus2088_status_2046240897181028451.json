@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2046062410113658949",
+    "created_at": "2026-04-20T14:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046240897181028451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019365364552065024",
+          "start": 0,
+          "username": "nizaiwanli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046240897181028451",
+    "in_reply_to_user_id": "2019365364552065024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046235410679148733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nizaiwanli 挨个操心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2046062410113658949",
+        "created_at": "2026-04-20T14:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046240897181028451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019365364552065024",
+              "start": 0,
+              "username": "nizaiwanli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046240897181028451",
+        "in_reply_to_user_id": "2019365364552065024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046235410679148733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nizaiwanli 挨个操心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019365364552065024",
+        "conversation_id": "2046062410113658949",
+        "created_at": "2026-04-20T14:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046235410679148733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046235410679148733",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046062410113658949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 心爱的人很多怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺ ꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓻𝓼 ໒꒱ ⁺₊   提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 114,
+          "like_count": 3124,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T11:00:26.000Z",
+        "description": "有些关系，不必惊动爱情💓。（常驻沪  ｜  陆家嘴ol   ｜  江浙选择性🚄 ｜ 只🧵⬇️  ｜🈶🚪  ｜ 卡智商）",
+        "id": "2019365364552065024",
+        "location": "021",
+        "name": "Camellia姐姐",
+        "pinned_tweet_id": "2034496683678314811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029035628118364160/urs2vuao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 121,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1208
+        },
+        "username": "nizaiwanli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048380677855539200"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048380689415082425",
+    "created_at": "2026-04-26T12:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048380689415082425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tTQ39ayMlS",
+          "end": 23,
+          "expanded_url": "https://x.com/lisianthus2088/status/2048380689415082425/photo/1",
+          "media_key": "3_2048380677855539200",
+          "start": 0,
+          "url": "https://t.co/tTQ39ayMlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048380689415082425",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/tTQ39ayMlS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1913,
+        "media_key": "3_2048380677855539200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1PX6xacAAZF8j.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048380677855539200"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048380689415082425",
+        "created_at": "2026-04-26T12:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048380689415082425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTQ39ayMlS",
+              "end": 23,
+              "expanded_url": "https://x.com/lisianthus2088/status/2048380689415082425/photo/1",
+              "media_key": "3_2048380677855539200",
+              "start": 0,
+              "url": "https://t.co/tTQ39ayMlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048380689415082425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tTQ39ayMlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 99,
+          "like_count": 3310,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2055107916416602444",
+    "created_at": "2026-05-15T02:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055107916416602444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645454737817444353",
+          "start": 3,
+          "username": "justLustluck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055107916416602444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054845540681371695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justLustluck: 我的手当你的项圈就够了啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2055107916416602444",
+        "created_at": "2026-05-15T02:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055107916416602444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645454737817444353",
+              "start": 3,
+              "username": "justLustluck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055107916416602444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054845540681371695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justLustluck: 我的手当你的项圈就够了啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645454737817444353",
+        "conversation_id": "2054845540681371695",
+        "created_at": "2026-05-14T08:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054845540681371695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sena5jadx/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/sena5jadx/status/2054786241196118342",
+              "start": 14,
+              "url": "https://t.co/zMC0XZPFIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054845540681371695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11513,
+          "like_count": 119,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054786241196118342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的手当你的项圈就够了啊。 https://t.co/zMC0XZPFIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 87,
+          "like_count": 3936,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T15:52:51.000Z",
+        "description": "不更新就在@Lukmiiin只通过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Lukmiiin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justlustluck/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justlustluck/",
+                "start": 0,
+                "url": "https://t.co/1S65eKSLUZ"
+              }
+            ]
+          }
+        },
+        "id": "1645454737817444353",
+        "location": "4i dom&s｜v只给互关",
+        "name": "m8",
+        "pinned_tweet_id": "2031393457391153373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031419504409063430/w1K2WqJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 99,
+          "like_count": 10320,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 4161
+        },
+        "url": "https://t.co/1S65eKSLUZ",
+        "username": "justLustluck",
+        "verified": false
+      }
+    ]
+  }
+}

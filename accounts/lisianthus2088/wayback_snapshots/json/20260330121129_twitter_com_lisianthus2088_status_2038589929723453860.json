@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038539802870763821",
+    "created_at": "2026-03-30T12:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038589929723453860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962445765269471232",
+          "start": 0,
+          "username": "zlyc6112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038589929723453860",
+    "in_reply_to_user_id": "1962445765269471232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038589377371324678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zlyc6112 反耳呢，是吸引了一些数学粉丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T12:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038589929723453860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962445765269471232",
+              "start": 0,
+              "username": "zlyc6112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038589929723453860",
+        "in_reply_to_user_id": "1962445765269471232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038589377371324678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zlyc6112 反耳呢，是吸引了一些数学粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962445765269471232",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T12:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038589377371324678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038589377371324678",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038539802870763821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 真的发吗（！？（师尊可以教我高数吗🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 106,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 683
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T09:22:08.000Z",
+        "description": "也可以叫我三文鱼｜ intp ｜皮下男｜双 性恋｜ oc人｜文明六重度依赖｜一些吐槽、碎碎念或者转发（作息失调（喜欢有意思的东西（偶尔小头控制大头（经常偶尔（全自动安慰机器（请来找我聊天，请不要给我发屌，谢谢",
+        "id": "1962445765269471232",
+        "location": "新加坡",
+        "name": "弓也也也（三文鱼重度依赖",
+        "pinned_tweet_id": "2036998574609977825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035593084176932864/ADHib0o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 284,
+          "like_count": 2006,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1014
+        },
+        "username": "zlyc6112",
+        "verified": false
+      }
+    ]
+  }
+}

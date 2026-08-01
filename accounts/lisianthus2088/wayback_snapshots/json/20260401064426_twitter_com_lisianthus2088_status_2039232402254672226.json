@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2039196318409921013",
+    "created_at": "2026-04-01T06:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039232402254672226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669272923868127232",
+          "start": 0,
+          "username": "UGiclII0ZF49922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039232402254672226",
+    "in_reply_to_user_id": "1669272923868127232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039207010181541962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UGiclII0ZF49922 是的是的ᗜ 𖥦 ᗜ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2039196318409921013",
+        "created_at": "2026-04-01T06:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039232402254672226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669272923868127232",
+              "start": 0,
+              "username": "UGiclII0ZF49922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039232402254672226",
+        "in_reply_to_user_id": "1669272923868127232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039207010181541962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UGiclII0ZF49922 是的是的ᗜ 𖥦 ᗜ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669272923868127232",
+        "conversation_id": "2039196318409921013",
+        "created_at": "2026-04-01T05:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039207010181541962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039207010181541962",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039196318409921013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我也喜欢在熟人面前发癫，他们对我没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 115,
+          "like_count": 1877,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 771
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T09:17:46.000Z",
+        "description": "🚪1，其实我是一个男拉拉，可以给你当舔狗陪你聊天，期待有一天有一个人在大街上认出我来，然后走到我的跟前，瓦大喜喜欢你很久了请你务必和我交往吧（我玩抽象的）",
+        "id": "1669272923868127232",
+        "name": "流离之人追逐幻影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730131047986483200/cu0CqCAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 161
+        },
+        "username": "UGiclII0ZF49922",
+        "verified": false
+      }
+    ]
+  }
+}

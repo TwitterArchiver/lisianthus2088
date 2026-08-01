@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065985179915808826",
+    "created_at": "2026-06-14T02:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065985179915808826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2028446090698407936",
+          "start": 3,
+          "username": "Mi1ou0s_z1usero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065985179915808826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065826720369053853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mi1ou0s_z1usero: 我觉得好多人都只是浅浅的喜欢我，我好难过呀，他们会讲你很可爱呀之类的话，但我和他们讲我难过的事情我繁杂的小事，他们就显得没有那么有兴趣了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065985179915808826",
+        "created_at": "2026-06-14T02:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065985179915808826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2028446090698407936",
+              "start": 3,
+              "username": "Mi1ou0s_z1usero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065985179915808826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065826720369053853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mi1ou0s_z1usero: 我觉得好多人都只是浅浅的喜欢我，我好难过呀，他们会讲你很可爱呀之类的话，但我和他们讲我难过的事情我繁杂的小事，他们就显得没有那么有兴趣了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028446090698407936",
+        "conversation_id": "2065826720369053853",
+        "created_at": "2026-06-13T16:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065826720369053853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065826720369053853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 873,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得好多人都只是浅浅的喜欢我，我好难过呀，他们会讲你很可爱呀之类的话，但我和他们讲我难过的事情我繁杂的小事，他们就显得没有那么有兴趣了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 84,
+          "like_count": 4317,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1953
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T12:25:47.000Z",
+        "description": "倘若埋葬我所有的悲傷和痛苦",
+        "id": "2028446090698407936",
+        "name": "請別再無視我的淚",
+        "pinned_tweet_id": "2029066837292646594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028465708590604288/unthkbHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 43,
+          "like_count": 3112,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1296
+        },
+        "username": "Mi1ou0s_z1usero",
+        "verified": false
+      }
+    ]
+  }
+}

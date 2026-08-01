@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065981683535683940",
+    "created_at": "2026-06-14T06:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066045469231562855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790998755384434688",
+          "start": 0,
+          "username": "zy200106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066045469231562855",
+    "in_reply_to_user_id": "1790998755384434688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065995816494629097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy200106 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T06:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066045469231562855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790998755384434688",
+              "start": 0,
+              "username": "zy200106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066045469231562855",
+        "in_reply_to_user_id": "1790998755384434688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065995816494629097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy200106 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790998755384434688",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T03:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065995816494629097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065995816494629097",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065981683535683940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 知道了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 84,
+          "like_count": 4322,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T06:52:53.000Z",
+        "description": "生命是自己的征程︱大圈微小 无性︱sub︱🚪524",
+        "id": "1790998755384434688",
+        "location": "贵州",
+        "name": "凌晨4点喂鸡撞破老公和男小三私会狠砸鸡屎",
+        "pinned_tweet_id": "2038331613889843330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038324821277495296/WHIiJKCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 570,
+          "like_count": 4234,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2834
+        },
+        "username": "zy200106",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058718798589689989",
+    "created_at": "2026-05-25T01:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058719563685216548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1300841451379503105",
+          "start": 0,
+          "username": "great_gream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058719563685216548",
+    "in_reply_to_user_id": "1300841451379503105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058719301864206817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@great_gream 真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058718798589689989",
+        "created_at": "2026-05-25T01:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058719563685216548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1300841451379503105",
+              "start": 0,
+              "username": "great_gream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058719563685216548",
+        "in_reply_to_user_id": "1300841451379503105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058719301864206817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@great_gream 真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300841451379503105",
+        "conversation_id": "2058718798589689989",
+        "created_at": "2026-05-25T01:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058719301864206817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058719301864206817",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058718798589689989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 十三四岁大概是疫情吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 86,
+          "like_count": 4073,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T17:02:37.000Z",
+        "description": "发泄+观点记录",
+        "id": "1300841451379503105",
+        "name": "Artelus Doghe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992664620377739265/rw-3sOee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 313,
+          "like_count": 51105,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2272
+        },
+        "username": "great_gream",
+        "verified": false
+      }
+    ]
+  }
+}

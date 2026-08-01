@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065070318100914332",
+    "created_at": "2026-06-11T13:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065070318100914332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1938788988590153728",
+          "start": 3,
+          "username": "liiliIIiiliIllI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065070318100914332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064983274552996186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @liiliIIiiliIllI: 我经常收到私信类似于\n“你身材很好我很想认识你”\n“你好有趣我好想认识你”\n这些话的荒谬之处在于你阐述的是我的优点，并且让我为此给你提供情绪价值。\n这很荒谬。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065070318100914332",
+        "created_at": "2026-06-11T13:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065070318100914332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1938788988590153728",
+              "start": 3,
+              "username": "liiliIIiiliIllI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065070318100914332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064983274552996186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @liiliIIiiliIllI: 我经常收到私信类似于\n“你身材很好我很想认识你”\n“你好有趣我好想认识你”\n这些话的荒谬之处在于你阐述的是我的优点，并且让我为此给你提供情绪价值。\n这很荒谬。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938788988590153728",
+        "conversation_id": "2064983274552996186",
+        "created_at": "2026-06-11T08:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064983274552996186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064983274552996186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3973,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "other",
+        "text": "我经常收到私信类似于\n“你身材很好我很想认识你”\n“你好有趣我好想认识你”\n这些话的荒谬之处在于你阐述的是我的优点，并且让我为此给你提供情绪价值。\n这很荒谬。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 85,
+          "like_count": 4190,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T02:38:27.000Z",
+        "description": "隐藏相册@liiliIIiiliIii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "liiliIIiiliIii"
+              }
+            ]
+          }
+        },
+        "id": "1938788988590153728",
+        "name": "咖啡果",
+        "pinned_tweet_id": "2041168174755049593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053472679395803136/JsBrK8_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27792,
+          "following_count": 131,
+          "like_count": 4339,
+          "listed_count": 97,
+          "media_count": 753,
+          "tweet_count": 3266
+        },
+        "username": "liiliIIiiliIllI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2047141497255170544",
+    "created_at": "2026-04-23T02:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047144902732185674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1989967028808290306",
+          "start": 0,
+          "username": "RevoluteJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047144902732185674",
+    "in_reply_to_user_id": "1989967028808290306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047144162815033668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RevoluteJ 新冠打了两针当时，没什么用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2047141497255170544",
+        "created_at": "2026-04-23T02:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047144902732185674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1989967028808290306",
+              "start": 0,
+              "username": "RevoluteJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047144902732185674",
+        "in_reply_to_user_id": "1989967028808290306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047144162815033668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevoluteJ 新冠打了两针当时，没什么用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989967028808290306",
+        "conversation_id": "2047141497255170544",
+        "created_at": "2026-04-23T02:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047144162815033668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047144162815033668",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047141497255170544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 有打疫苗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 104,
+          "like_count": 3202,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T08:01:39.000Z",
+        "description": "06 enfp sw偏s 数学师范 直男 坐标徐州/南京 挚爱：方大同 其余详情在自介条｜欢迎互fo 黄暴人格丢失中",
+        "id": "1989967028808290306",
+        "location": "南京 ",
+        "name": "井上正大",
+        "pinned_tweet_id": "2020357925173375432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037587078209478656/l6wuWqNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 127,
+          "like_count": 3969,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 835
+        },
+        "username": "RevoluteJ",
+        "verified": false
+      }
+    ]
+  }
+}

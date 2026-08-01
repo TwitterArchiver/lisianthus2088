@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2041893775082217684",
+    "created_at": "2026-04-08T15:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041900170556948538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967919757799440384",
+          "start": 0,
+          "username": "Ruizexxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041900170556948538",
+    "in_reply_to_user_id": "1967919757799440384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041899606909579519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruizexxx 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2041893775082217684",
+        "created_at": "2026-04-08T15:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041900170556948538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967919757799440384",
+              "start": 0,
+              "username": "Ruizexxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041900170556948538",
+        "in_reply_to_user_id": "1967919757799440384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041899606909579519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruizexxx 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967919757799440384",
+        "conversation_id": "2041893775082217684",
+        "created_at": "2026-04-08T15:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041899606909579519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041899606909579519",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041893775082217684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 不算很好，姥姥去世了，但去世的时候一直有工作压着，在吊唁的时候还一直给我打电话问这问那，整个事情结束后我马不停蹄的又跑到另一个城市出差，然后这段时间一直忙工作，啥也没顾上，最近又做梦梦到她了，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 115,
+          "like_count": 2348,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 973
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T11:53:41.000Z",
+        "description": "纯逛街闲聊｜PSB大学受害者｜细狗｜喜欢抽烟喝酒吃嘴子｜没有属性，喜欢正常的性爱，也不想被调｜男同滚远点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruize36888",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruize36888",
+                "start": 0,
+                "url": "https://t.co/EMwZCOolLQ"
+              }
+            ]
+          }
+        },
+        "id": "1967919757799440384",
+        "location": "西安",
+        "name": "Ruize",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026635023533981696/8K61dL3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 307,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/EMwZCOolLQ",
+        "username": "Ruizexxx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038267583536013355",
+    "created_at": "2026-03-30T05:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038490179019882790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893879628647075840",
+          "start": 0,
+          "username": "Q_yuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038490179019882790",
+    "in_reply_to_user_id": "1893879628647075840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038489705428255226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q_yuxing 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-30T05:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038490179019882790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893879628647075840",
+              "start": 0,
+              "username": "Q_yuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038490179019882790",
+        "in_reply_to_user_id": "1893879628647075840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038489705428255226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q_yuxing 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893879628647075840",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-30T05:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038489705428255226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038489705428255226",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038267583536013355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 104,
+          "like_count": 1697,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 622
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T04:24:52.000Z",
+        "description": "#旭金 热恋bot\nWWMと逆水寒が好き\nりんさく\n日本語を勉強しています……\n個人日常の記録",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "旭金"
+              }
+            ]
+          }
+        },
+        "id": "1893879628647075840",
+        "location": "SEA",
+        "name": "卜作序",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033576075930832896/4jl3NMZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 66
+        },
+        "username": "Q_yuxing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2066130033228595638",
+    "created_at": "2026-06-15T13:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066518653764542861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879194832553312256",
+          "start": 0,
+          "username": "mmmmm120816"
+        },
+        {
+          "end": 22,
+          "id": "1807129271728775168",
+          "start": 13,
+          "username": "Kokittyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066518653764542861",
+    "in_reply_to_user_id": "1879194832553312256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066198784296603969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmmm120816 @Kokittyi 你解答了我的疑惑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2066130033228595638",
+        "created_at": "2026-06-15T13:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066518653764542861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879194832553312256",
+              "start": 0,
+              "username": "mmmmm120816"
+            },
+            {
+              "end": 22,
+              "id": "1807129271728775168",
+              "start": 13,
+              "username": "Kokittyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066518653764542861",
+        "in_reply_to_user_id": "1879194832553312256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066198784296603969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmmm120816 @Kokittyi 你解答了我的疑惑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879194832553312256",
+        "conversation_id": "2066130033228595638",
+        "created_at": "2026-06-14T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066198784296603969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807129271728775168",
+              "start": 0,
+              "username": "Kokittyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066198784296603969",
+        "in_reply_to_user_id": "1807129271728775168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9311,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066130033228595638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kokittyi 胸是美观方面的，鸡小是功能方面的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 85,
+          "like_count": 4374,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T15:52:28.000Z",
+        "description": "",
+        "id": "1879194832553312256",
+        "name": "mmmmm",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "mmmmm120816",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:09:38.000Z",
+        "description": "",
+        "id": "1807129271728775168",
+        "location": "🚪19",
+        "name": "心",
+        "pinned_tweet_id": "1807131343928905783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051195386539483136/YsAeVDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7199,
+          "following_count": 6,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 189
+        },
+        "username": "Kokittyi",
+        "verified": false
+      }
+    ]
+  }
+}

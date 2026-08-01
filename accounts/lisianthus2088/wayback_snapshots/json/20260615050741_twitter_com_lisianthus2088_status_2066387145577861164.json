@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2066364264777183264",
+    "created_at": "2026-06-15T05:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066387145577861164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998097379468423168",
+          "start": 0,
+          "username": "song525350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066387145577861164",
+    "in_reply_to_user_id": "1998097379468423168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066376951787667508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@song525350 有一种对牛弹琴的感觉。。算了牛至少安静"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2066364264777183264",
+        "created_at": "2026-06-15T05:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066387145577861164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998097379468423168",
+              "start": 0,
+              "username": "song525350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066387145577861164",
+        "in_reply_to_user_id": "1998097379468423168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066376951787667508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@song525350 有一种对牛弹琴的感觉。。算了牛至少安静"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998097379468423168",
+        "conversation_id": "2066364264777183264",
+        "created_at": "2026-06-15T04:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066376951787667508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066376951787667508",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066364264777183264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 该骂就骂死他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 85,
+          "like_count": 4350,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T18:28:56.000Z",
+        "description": "旅行的意义大概就是，看广茂天地，看芸芸众生，观内心自在，让生命的流逝不再惊慌失措，更好的懂得爱和珍惜，接纳自己，也包容众生。good morning、afternoon and evening。",
+        "id": "1998097379468423168",
+        "location": "中国云南",
+        "name": "世界种满折耳根（关必互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039286341507407872/dl_PGy55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 643,
+          "like_count": 4598,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 859
+        },
+        "username": "song525350",
+        "verified": false
+      }
+    ]
+  }
+}

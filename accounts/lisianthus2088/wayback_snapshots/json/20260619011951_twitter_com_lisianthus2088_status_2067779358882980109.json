@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2067779358882980109",
+    "created_at": "2026-06-19T01:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067779358882980109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1969653927231832066",
+          "start": 3,
+          "username": "liya111222333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067779358882980109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067164010391437316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liya111222333: 真的很好奇，会有女孩子喜欢听女喘吗？但我不是同性恋，看片的时候只有看到女孩子的身体和娇喘才有感觉……反而不爱听男人喘，感觉喘的很刻意还不是很好听，我感觉我有点不太对劲这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2067779358882980109",
+        "created_at": "2026-06-19T01:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067779358882980109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1969653927231832066",
+              "start": 3,
+              "username": "liya111222333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067779358882980109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067164010391437316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liya111222333: 真的很好奇，会有女孩子喜欢听女喘吗？但我不是同性恋，看片的时候只有看到女孩子的身体和娇喘才有感觉……反而不爱听男人喘，感觉喘的很刻意还不是很好听，我感觉我有点不太对劲这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969653927231832066",
+        "conversation_id": "2067164010391437316",
+        "created_at": "2026-06-17T08:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067164010391437316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067164010391437316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 192643,
+          "like_count": 2069,
+          "quote_count": 7,
+          "reply_count": 182,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "真的很好奇，会有女孩子喜欢听女喘吗？但我不是同性恋，看片的时候只有看到女孩子的身体和娇喘才有感觉……反而不爱听男人喘，感觉喘的很刻意还不是很好听，我感觉我有点不太对劲这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 86,
+          "like_count": 4383,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T06:44:36.000Z",
+        "description": "yes",
+        "id": "1969653927231832066",
+        "name": "哆哆不爱吃饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067158410177736704/Y6gHPOh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "liya111222333",
+        "verified": false
+      }
+    ]
+  }
+}

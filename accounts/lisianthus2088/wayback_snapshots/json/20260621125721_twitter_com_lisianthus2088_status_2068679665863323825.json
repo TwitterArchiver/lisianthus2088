@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2068679260127289597",
+    "created_at": "2026-06-21T12:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068679665863323825"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068679665863323825",
+    "in_reply_to_user_id": "1992095465559715840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068679260127289597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后来我遇到了一个愿意救我的人，ta不顾我的挣扎狠狠箍住我的身体，把我跟ta紧紧捆在一起，跟着我浮浮沉沉，直到我冷静下来，开始信任ta不再挣扎。于是ta松开箍住我的胳膊，解开捆住我的绳索，拉着我的手准备开始新旅程。但是我依旧是一个怕溺水的人，被推开的感觉让我只想放开ta的手。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2068679260127289597",
+        "created_at": "2026-06-21T12:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068679665863323825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068679665863323825",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068679260127289597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来我遇到了一个愿意救我的人，ta不顾我的挣扎狠狠箍住我的身体，把我跟ta紧紧捆在一起，跟着我浮浮沉沉，直到我冷静下来，开始信任ta不再挣扎。于是ta松开箍住我的胳膊，解开捆住我的绳索，拉着我的手准备开始新旅程。但是我依旧是一个怕溺水的人，被推开的感觉让我只想放开ta的手。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2068679260127289597",
+        "created_at": "2026-06-21T12:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068679260127289597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068679260127289597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就像一个溺水了很久的人 已经溺水到漂浮起来达成了一种微妙的平衡 我不知道我会去哪 一挣扎就会呛水 只是静静的等待死亡 如果有人想把我救上去我会下意识抓住救命稻草一样把ta当做活下去的唯一理由 但只会把救我的人吓跑或者拉进水底。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 89,
+          "like_count": 4406,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

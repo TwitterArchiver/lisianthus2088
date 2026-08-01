@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2040750001773789309",
+    "created_at": "2026-04-06T14:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041158595866509322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015630380335005696",
+          "start": 0,
+          "username": "yong25en"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041158595866509322",
+    "in_reply_to_user_id": "2015630380335005696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040750001773789309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yong25en 你咋这么萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12796,
+        "height": 1280,
+        "media_key": "13_2040749939605880833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040749939605880833/img/ALFy29Tg89JAN-it.jpg",
+        "public_metrics": {
+          "view_count": 1826
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040749939605880833/vid/avc1/320x568/OCLVz8nADN5ZkEDr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040749939605880833/vid/avc1/480x852/as0mvnp_lc-73iSB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040749939605880833/vid/avc1/720x1280/-_b7HhfoSyotccme.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040749939605880833/pl/g125y3lrkOcrU1d2.m3u8?v=529"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2040750001773789309",
+        "created_at": "2026-04-06T14:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041158595866509322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015630380335005696",
+              "start": 0,
+              "username": "yong25en"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041158595866509322",
+        "in_reply_to_user_id": "2015630380335005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040750001773789309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yong25en 你咋这么萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040749939605880833"
+          ]
+        },
+        "author_id": "2015630380335005696",
+        "conversation_id": "2040750001773789309",
+        "created_at": "2026-04-05T11:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040750001773789309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JptTUY2tM1",
+              "end": 30,
+              "expanded_url": "https://x.com/yong25en/status/2040750001773789309/video/1",
+              "media_key": "13_2040749939605880833",
+              "start": 7,
+              "url": "https://t.co/JptTUY2tM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040750001773789309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8166,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我咋这么萌🤓 https://t.co/JptTUY2tM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 随缘互fo，小女孩也可以找我交友 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 114,
+          "like_count": 2179,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 865
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:38:40.000Z",
+        "description": "很乐意做大家的心理委员 可以随时私信我！不聊黄的就会回/最近话变多了忍耐一下/有趣的宝宝们我会和你们互fo🥰",
+        "id": "2015630380335005696",
+        "name": "花生酱饼干",
+        "pinned_tweet_id": "2036796751169171530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017279017544822784/UIKYxa5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 46,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 579
+        },
+        "username": "yong25en",
+        "verified": false
+      }
+    ]
+  }
+}

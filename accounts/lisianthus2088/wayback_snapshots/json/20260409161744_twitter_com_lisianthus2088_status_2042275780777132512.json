@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042238706485281242",
+    "created_at": "2026-04-09T16:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042275780777132512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009289118438813696",
+          "start": 0,
+          "username": "miko_rong14514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042275780777132512",
+    "in_reply_to_user_id": "2009289118438813696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042275432792551782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miko_rong14514 必须知豆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042238706485281242",
+        "created_at": "2026-04-09T16:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042275780777132512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009289118438813696",
+              "start": 0,
+              "username": "miko_rong14514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042275780777132512",
+        "in_reply_to_user_id": "2009289118438813696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042275432792551782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miko_rong14514 必须知豆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009289118438813696",
+        "conversation_id": "2042238706485281242",
+        "created_at": "2026-04-09T16:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042275432792551782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042275432792551782",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042238706485281242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 不知豆！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 120,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1106
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T15:40:47.000Z",
+        "description": "請·多·多·來·電☆ ~!",
+        "id": "2009289118438813696",
+        "name": "˗ˏˋ​曲奇碎 𓌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035208891668275200/U4IoG8eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "miko_rong14514",
+        "verified": false
+      }
+    ]
+  }
+}

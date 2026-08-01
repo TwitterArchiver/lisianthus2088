@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035597825258750290",
+    "created_at": "2026-03-22T06:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T07:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035597825258750290"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "le"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "wlw"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "les"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035597825258750290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额就是我想问一下，单身圈这个圈子怎么退呀？ #le #wlw #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035597825258750290",
+        "created_at": "2026-03-22T06:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035597825258750290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "le"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "wlw"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "les"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035597825258750290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额就是我想问一下，单身圈这个圈子怎么退呀？ #le #wlw #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo/连赞=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 49,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 180
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

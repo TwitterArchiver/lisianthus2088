@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2045696225966473591",
+    "created_at": "2026-04-19T07:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045770139195580543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940872452609093632",
+          "start": 0,
+          "username": "yry8279_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045770139195580543",
+    "in_reply_to_user_id": "1940872452609093632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045696225966473591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yry8279_ 有的时候只有想法没有文笔只能绝望的叙述"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2045696225966473591",
+        "created_at": "2026-04-19T07:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045770139195580543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940872452609093632",
+              "start": 0,
+              "username": "yry8279_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045770139195580543",
+        "in_reply_to_user_id": "1940872452609093632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045696225966473591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yry8279_ 有的时候只有想法没有文笔只能绝望的叙述"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940872452609093632",
+        "conversation_id": "2045696225966473591",
+        "created_at": "2026-04-19T02:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045696225966473591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045696225966473591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得给oc加世界观加背景故事的都好厉害啊，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||  交友随缘                     提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 122,
+          "like_count": 3015,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T20:38:15.000Z",
+        "description": "喜欢钱",
+        "id": "1940872452609093632",
+        "location": "🚪5200000000000000000000000000",
+        "name": "緣",
+        "pinned_tweet_id": "2029511850514387415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014372792498786304/eAZ_7Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 56,
+          "like_count": 7528,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 868
+        },
+        "username": "yry8279_",
+        "verified": false
+      }
+    ]
+  }
+}

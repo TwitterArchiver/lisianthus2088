@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052004006109835292",
+    "created_at": "2026-05-06T13:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052019239842914537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919363955929362432",
+          "start": 0,
+          "username": "xiaomingmumu"
+        },
+        {
+          "end": 28,
+          "id": "1834625166774829056",
+          "start": 14,
+          "username": "Sertraline824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052019239842914537",
+    "in_reply_to_user_id": "1919363955929362432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052016365922632186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomingmumu @Sertraline824 真的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052004006109835292",
+        "created_at": "2026-05-06T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052019239842914537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            },
+            {
+              "end": 28,
+              "id": "1834625166774829056",
+              "start": 14,
+              "username": "Sertraline824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052019239842914537",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052016365922632186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu @Sertraline824 真的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919363955929362432",
+        "conversation_id": "2052004006109835292",
+        "created_at": "2026-05-06T13:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052016365922632186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052016365922632186",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052004006109835292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline824 像shoto。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 97,
+          "like_count": 3620,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 32,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 9,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3095,
+          "following_count": 456,
+          "like_count": 19710,
+          "listed_count": 3,
+          "media_count": 517,
+          "tweet_count": 10943
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i/可能是brat也许是sw/我可能是个恋足癖/88🚪互关除外（穷了  :(  //如果有愿意打赏的朋友请看@Alex_downtown",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Alex_downtown"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sertraline816/…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sertraline816/yourcrush",
+                "start": 0,
+                "url": "https://t.co/P5CcVkUxvm"
+              }
+            ]
+          }
+        },
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 433,
+          "like_count": 16910,
+          "listed_count": 11,
+          "media_count": 1107,
+          "tweet_count": 8712
+        },
+        "url": "https://t.co/P5CcVkUxvm",
+        "username": "Sertraline824",
+        "verified": false
+      }
+    ]
+  }
+}

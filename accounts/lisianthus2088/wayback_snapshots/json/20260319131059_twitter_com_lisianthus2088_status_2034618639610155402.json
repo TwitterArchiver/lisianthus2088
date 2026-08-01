@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034610199705612332",
+    "created_at": "2026-03-19T13:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034618639610155402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2033857643371237382",
+          "start": 0,
+          "username": "Cvv686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034618639610155402",
+    "in_reply_to_user_id": "2033857643371237382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034610199705612332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cvv686 你也刚玩吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034610176112664576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxjLOOXIAAblDD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034610199705612332",
+        "created_at": "2026-03-19T13:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034618639610155402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2033857643371237382",
+              "start": 0,
+              "username": "Cvv686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034618639610155402",
+        "in_reply_to_user_id": "2033857643371237382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034610199705612332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cvv686 你也刚玩吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034610176112664576"
+          ]
+        },
+        "author_id": "2033857643371237382",
+        "conversation_id": "2034610199705612332",
+        "created_at": "2026-03-19T12:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034610199705612332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/migkVjdLVO",
+              "end": 30,
+              "expanded_url": "https://x.com/Cvv686/status/2034610199705612332/photo/1",
+              "media_key": "3_2034610176112664576",
+              "start": 7,
+              "url": "https://t.co/migkVjdLVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034610199705612332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有交友的 https://t.co/migkVjdLVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T10:48:19.000Z",
+        "description": "",
+        "id": "2033857643371237382",
+        "name": "Cvv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033858080585486337/tOJ4t_xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "Cvv686",
+        "verified": false
+      }
+    ]
+  }
+}

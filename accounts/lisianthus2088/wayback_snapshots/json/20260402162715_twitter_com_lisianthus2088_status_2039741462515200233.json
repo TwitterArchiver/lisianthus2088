@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2039734534758174791",
+    "created_at": "2026-04-02T16:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039741462515200233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "chessiaya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039741462515200233",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039739333444550787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiaya1 哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2039734534758174791",
+        "created_at": "2026-04-02T16:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039741462515200233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "chessiaya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039741462515200233",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039739333444550787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiaya1 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007800360057135104",
+        "conversation_id": "2039734534758174791",
+        "created_at": "2026-04-02T16:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039739333444550787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039739333444550787",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039734534758174791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 哦哦哦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫ ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 119,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 797
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "情天情海患情深",
+        "id": "2007800360057135104",
+        "location": "288好友位（口令",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2038100684051235117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 203,
+          "like_count": 8216,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1420
+        },
+        "username": "chessiaya1",
+        "verified": false
+      }
+    ]
+  }
+}

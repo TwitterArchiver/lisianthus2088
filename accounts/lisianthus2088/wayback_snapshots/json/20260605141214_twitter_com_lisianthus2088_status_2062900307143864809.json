@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2062900307143864809",
+    "created_at": "2026-06-05T14:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062900307143864809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "89711792",
+          "start": 3,
+          "username": "isa_isawh"
+        },
+        {
+          "end": 24,
+          "id": "126581934",
+          "start": 15,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062900307143864809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062431522859491643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isa_isawh: @dearemon 举子进京赶考走的是官道，可以免费吃住沿途驿站，地方官有责任要照顾好这群举人老爷。而且在笔墨纸砚书本成本都巨高的古代，能脱产十几二十年请先生读书的都是地方大户人家，家族的宝贝进京都要配奴仆保镖骡马车辆，不是你们想象的穷人光板儿啃馒…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2062900307143864809",
+        "created_at": "2026-06-05T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062900307143864809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "89711792",
+              "start": 3,
+              "username": "isa_isawh"
+            },
+            {
+              "end": 24,
+              "id": "126581934",
+              "start": 15,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062900307143864809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062431522859491643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isa_isawh: @dearemon 举子进京赶考走的是官道，可以免费吃住沿途驿站，地方官有责任要照顾好这群举人老爷。而且在笔墨纸砚书本成本都巨高的古代，能脱产十几二十年请先生读书的都是地方大户人家，家族的宝贝进京都要配奴仆保镖骡马车辆，不是你们想象的穷人光板儿啃馒…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89711792",
+        "conversation_id": "2062312657764626668",
+        "created_at": "2026-06-04T07:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062431522859491643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062431522859491643",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 44833,
+          "like_count": 544,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062312657764626668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 举子进京赶考走的是官道，可以免费吃住沿途驿站，地方官有责任要照顾好这群举人老爷。而且在笔墨纸砚书本成本都巨高的古代，能脱产十几二十年请先生读书的都是地方大户人家，家族的宝贝进京都要配奴仆保镖骡马车辆，不是你们想象的穷人光板儿啃馒头腿儿着进京。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 85,
+          "like_count": 4046,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-13T14:38:41.000Z",
+        "description": "马斯克你个狗东西把推特改回来！",
+        "id": "89711792",
+        "location": "NY",
+        "name": "Isa W.H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910377683424587776/d0jsgR8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 217,
+          "like_count": 1128,
+          "listed_count": 7,
+          "media_count": 65,
+          "tweet_count": 9080
+        },
+        "username": "isa_isawh",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60752,
+          "following_count": 684,
+          "like_count": 5856,
+          "listed_count": 228,
+          "media_count": 31346,
+          "tweet_count": 396733
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

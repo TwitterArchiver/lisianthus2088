@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065075645986836689",
+    "created_at": "2026-06-11T14:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065075645986836689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893727661475930112",
+          "start": 3,
+          "username": "wngmm3454431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065075645986836689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064389702711685266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wngmm3454431: 真的非常非常喜欢肌肉男高壮这种啊，特别是胸肌大的，但是他们的审美根本不会喜欢瘦瘦小小的吧，应该喜欢那种丰满的,想到这我又泪目了........."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065075645986836689",
+        "created_at": "2026-06-11T14:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065075645986836689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893727661475930112",
+              "start": 3,
+              "username": "wngmm3454431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065075645986836689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064389702711685266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wngmm3454431: 真的非常非常喜欢肌肉男高壮这种啊，特别是胸肌大的，但是他们的审美根本不会喜欢瘦瘦小小的吧，应该喜欢那种丰满的,想到这我又泪目了........."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893727661475930112",
+        "conversation_id": "2064389702711685266",
+        "created_at": "2026-06-09T16:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064389702711685266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064389702711685266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 169904,
+          "like_count": 1127,
+          "quote_count": 9,
+          "reply_count": 134,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "真的非常非常喜欢肌肉男高壮这种啊，特别是胸肌大的，但是他们的审美根本不会喜欢瘦瘦小小的吧，应该喜欢那种丰满的,想到这我又泪目了........."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 85,
+          "like_count": 4203,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T18:20:56.000Z",
+        "description": "",
+        "id": "1893727661475930112",
+        "name": "还在睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050589913092087808/0CbAIQOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 114,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 373
+        },
+        "username": "wngmm3454431",
+        "verified": false
+      }
+    ]
+  }
+}

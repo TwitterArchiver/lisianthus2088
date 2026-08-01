@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2064387686018986334",
+    "created_at": "2026-06-10T06:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064598518241906734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064598518241906734",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064387686018986334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 14岁还在法定义务教育的年纪都给我去好好读书啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2064387686018986334",
+        "created_at": "2026-06-10T06:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064598518241906734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064598518241906734",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064387686018986334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 14岁还在法定义务教育的年纪都给我去好好读书啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619021081238732802",
+        "conversation_id": "2064387686018986334",
+        "created_at": "2026-06-09T16:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064387686018986334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064387686018986334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2326,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性同意制度或许应该上调，我也是这样认为的，但是我觉得上调到16岁更合适。性同意制度不仅是性安全的保障，同时也代表了性权利和性自由，16-18岁主动去发生性关系的也有不少，或许我们可以说她们对性的认识是不成熟的，是容易受到伤害的，但是是否一定要用家长主义的立法模式一棒子打死还是有待商榷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 85,
+          "like_count": 4160,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水碎碎念，别骚扰我。恋爱中。法学专业在读。可以喊我小柳，不加联系方式",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks25286",
+                "start": 0,
+                "url": "https://t.co/ooQXOUDEFh"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554787258970112/ahfCxp7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 276,
+          "like_count": 21045,
+          "listed_count": 5,
+          "media_count": 2094,
+          "tweet_count": 14137
+        },
+        "url": "https://t.co/ooQXOUDEFh",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

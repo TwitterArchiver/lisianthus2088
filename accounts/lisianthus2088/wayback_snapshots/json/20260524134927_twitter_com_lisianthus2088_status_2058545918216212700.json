@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058495625365459197",
+    "created_at": "2026-05-24T13:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058545918216212700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058545918216212700",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058495625365459197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 好心酸好像看到了自己抽卡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2058495604687503361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE-2JkaAAE5ihN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2058495604666580992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE-2JfawAAUmbj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058495625365459197",
+        "created_at": "2026-05-24T13:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058545918216212700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058545918216212700",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058495625365459197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 好心酸好像看到了自己抽卡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058495604687503361",
+            "3_2058495604666580992"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058495625365459197",
+        "created_at": "2026-05-24T10:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058495625365459197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCvvhzGxF4",
+              "end": 55,
+              "expanded_url": "https://x.com/TvTbreak/status/2058495625365459197/photo/1",
+              "media_key": "3_2058495604687503361",
+              "start": 32,
+              "url": "https://t.co/TCvvhzGxF4"
+            },
+            {
+              "display_url": "pic.x.com/TCvvhzGxF4",
+              "end": 55,
+              "expanded_url": "https://x.com/TvTbreak/status/2058495625365459197/photo/1",
+              "media_key": "3_2058495604666580992",
+              "start": 32,
+              "url": "https://t.co/TCvvhzGxF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058495625365459197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大黑耗子自己抽了六个十连一个皮肤也没出 最终还是去找代送了😭😭 https://t.co/TCvvhzGxF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 86,
+          "like_count": 4065,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "只是一个爱说废话爱玩游戏的臭屌丝",
+        "id": "1883157644711796736",
+        "location": "无门槛不认识不闲聊不要骚扰我",
+        "name": "怎么了又怪我",
+        "pinned_tweet_id": "2022324932739486012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056961162567454720/b9iCAJXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 93,
+          "like_count": 9281,
+          "listed_count": 19,
+          "media_count": 135,
+          "tweet_count": 4382
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2067168577153855539",
+    "created_at": "2026-06-19T08:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067883031407501759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067883031407501759",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067168577153855539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 想斑点狗哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2067168568572272640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAO3FyaYAAKYy-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2067168577153855539",
+        "created_at": "2026-06-19T08:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067883031407501759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067883031407501759",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067168577153855539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 想斑点狗哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067168568572272640"
+          ]
+        },
+        "author_id": "1878142610805788672",
+        "conversation_id": "2067168577153855539",
+        "created_at": "2026-06-17T08:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067168577153855539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LXF4CfA1z",
+              "end": 23,
+              "expanded_url": "https://x.com/yukinoo_123/status/2067168577153855539/photo/1",
+              "media_key": "3_2067168568572272640",
+              "start": 0,
+              "url": "https://t.co/6LXF4CfA1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067168577153855539",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2610,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6LXF4CfA1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2998,
+          "following_count": 87,
+          "like_count": 4410,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "不与傻瓜论短长。\n我的电子日记本 不约也不聊骚。\n卡颜 我喜欢的会回关 \n🔗 https://t.co/pTsNSyZgkm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7hooi",
+                "end": 62,
+                "expanded_url": "https://ngl.link/7hooi",
+                "start": 39,
+                "url": "https://t.co/pTsNSyZgkm"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "location": "清水推不陪聊不加v 别来管我",
+        "name": "分手后用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "2064916445889220845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051229318081400832/uQwMMOCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 250,
+          "like_count": 1525,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 2294
+        },
+        "url": "",
+        "username": "yukinoo_123",
+        "verified": false
+      }
+    ]
+  }
+}

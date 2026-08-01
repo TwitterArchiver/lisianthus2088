@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2041697240381833578",
+    "created_at": "2026-04-09T07:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042149537356378564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1996154745778741248",
+          "start": 0,
+          "username": "dao_san50527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042149537356378564",
+    "in_reply_to_user_id": "1996154745778741248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042146889605509246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dao_san50527 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2042146884010307584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcpxXCa8AA94Qs.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2041697240381833578",
+        "created_at": "2026-04-09T07:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042149537356378564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1996154745778741248",
+              "start": 0,
+              "username": "dao_san50527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042149537356378564",
+        "in_reply_to_user_id": "1996154745778741248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042146889605509246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dao_san50527 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042146884010307584"
+          ]
+        },
+        "author_id": "1996154745778741248",
+        "conversation_id": "2041697240381833578",
+        "created_at": "2026-04-09T07:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042146889605509246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNMysdUGFQ",
+              "end": 48,
+              "expanded_url": "https://x.com/dao_san50527/status/2042146889605509246/photo/1",
+              "media_key": "3_2042146884010307584",
+              "start": 25,
+              "url": "https://t.co/BNMysdUGFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042146889605509246",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041697240381833578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 用这种的最有钱了 https://t.co/BNMysdUGFQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 117,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1009
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T09:49:24.000Z",
+        "description": "在读男大，喜欢运动、音乐、王者～",
+        "id": "1996154745778741248",
+        "name": "san dao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035422631386910720/tNjhpuHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "dao_san50527",
+        "verified": false
+      }
+    ]
+  }
+}

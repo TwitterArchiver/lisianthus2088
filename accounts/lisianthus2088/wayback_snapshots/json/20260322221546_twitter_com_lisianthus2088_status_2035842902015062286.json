@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035597825258750290",
+    "created_at": "2026-03-22T22:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T23:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035842902015062286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1307969380626477057",
+          "start": 0,
+          "username": "alisa22758986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035842902015062286",
+    "in_reply_to_user_id": "1307969380626477057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035770559741546795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alisa22758986 求教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035597825258750290",
+        "created_at": "2026-03-22T22:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T23:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035842902015062286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1307969380626477057",
+              "start": 0,
+              "username": "alisa22758986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035842902015062286",
+        "in_reply_to_user_id": "1307969380626477057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035770559741546795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alisa22758986 求教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1307969380626477057",
+        "conversation_id": "2035597825258750290",
+        "created_at": "2026-03-22T17:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035770559741546795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035770559741546795",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035597825258750290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ | 我属性可杂可以找我聊天 ᐝ  | 单fo/连赞=我想找你玩但是不好意思 | 看眼缘互fo，小女孩也可以直接找我互！ | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 59,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 227
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-21T09:09:08.000Z",
+        "description": "poppin'party大好き！一生好き!✨\n我他妈到底该往哪个方向磕头才能有人爱我",
+        "id": "1307969380626477057",
+        "location": "あずさのランド",
+        "name": "梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010017712919953408/5ok62q9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 47,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 155
+        },
+        "username": "alisa22758986",
+        "verified": false
+      }
+    ]
+  }
+}

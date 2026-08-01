@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038967242029965473",
+    "created_at": "2026-04-01T23:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T00:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039491577605976174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1256923674063458304",
+          "start": 0,
+          "username": "ys51748982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039491577605976174",
+    "in_reply_to_user_id": "1256923674063458304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039442676932919510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ys51748982 严肃装酷中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038967242029965473",
+        "created_at": "2026-04-01T23:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039491577605976174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1256923674063458304",
+              "start": 0,
+              "username": "ys51748982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039491577605976174",
+        "in_reply_to_user_id": "1256923674063458304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039442676932919510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ys51748982 严肃装酷中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256923674063458304",
+        "conversation_id": "2038967242029965473",
+        "created_at": "2026-04-01T20:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039442676932919510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039442676932919510",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038967242029965473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 酷酷小猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 115,
+          "like_count": 1878,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 787
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T12:29:08.000Z",
+        "description": "一点点过",
+        "id": "1256923674063458304",
+        "name": "阿飘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002069043214495746/-79KQhyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 326,
+          "like_count": 52,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "username": "ys51748982",
+        "verified": false
+      }
+    ]
+  }
+}

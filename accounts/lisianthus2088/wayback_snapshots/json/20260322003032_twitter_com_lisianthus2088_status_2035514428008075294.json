@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035364028432990420",
+    "created_at": "2026-03-22T00:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T01:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035514428008075294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035046962517745664",
+          "start": 0,
+          "username": "june_wifey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035514428008075294",
+    "in_reply_to_user_id": "2035046962517745664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035445845672317070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@june_wifey 唉其实如果真的有人为了我雪绳结我会感动一下子但是质疑也是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035364028432990420",
+        "created_at": "2026-03-22T00:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T01:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035514428008075294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035046962517745664",
+              "start": 0,
+              "username": "june_wifey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035514428008075294",
+        "in_reply_to_user_id": "2035046962517745664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035445845672317070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@june_wifey 唉其实如果真的有人为了我雪绳结我会感动一下子但是质疑也是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035046962517745664",
+        "conversation_id": "2035364028432990420",
+        "created_at": "2026-03-21T19:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T20:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035445845672317070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035445845672317070",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035364028432990420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 还有“我可以学”，我心说算了吧这东西天生的你怎么学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 46,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 153
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T17:33:20.000Z",
+        "description": "人夫cd | 日常 | 紧缚/被缚 | CN✈EU行踪不定",
+        "id": "2035046962517745664",
+        "name": "季夏新娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035165550259621888/FCPDveR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 62,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "june_wifey",
+        "verified": false
+      }
+    ]
+  }
+}

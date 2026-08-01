@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2050199682710974811",
+    "created_at": "2026-05-01T16:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050254357824999907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1163320998529290242",
+          "start": 0,
+          "username": "wager_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050254357824999907",
+    "in_reply_to_user_id": "1163320998529290242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050250008503685197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wager_o 答对了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2050199682710974811",
+        "created_at": "2026-05-01T16:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050254357824999907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1163320998529290242",
+              "start": 0,
+              "username": "wager_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050254357824999907",
+        "in_reply_to_user_id": "1163320998529290242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050250008503685197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wager_o 答对了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163320998529290242",
+        "conversation_id": "2050199682710974811",
+        "created_at": "2026-05-01T16:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050250008503685197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050250008503685197",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050199682710974811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 加湿器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 99,
+          "like_count": 3436,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T05:25:37.000Z",
+        "description": "isfp /没有属性💭",
+        "id": "1163320998529290242",
+        "name": "X",
+        "pinned_tweet_id": "1754942689349665254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048136449342808064/dJ65U81I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 56,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 130
+        },
+        "username": "wager_o",
+        "verified": false
+      }
+    ]
+  }
+}

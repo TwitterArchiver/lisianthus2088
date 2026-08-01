@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065807307326529843",
+    "created_at": "2026-06-14T02:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065981061490942107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464828079512113155",
+          "start": 0,
+          "username": "twdddesme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065981061490942107",
+    "in_reply_to_user_id": "1464828079512113155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065980703213605207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twdddesme 黑魔法全肯定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065807307326529843",
+        "created_at": "2026-06-14T02:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065981061490942107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464828079512113155",
+              "start": 0,
+              "username": "twdddesme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065981061490942107",
+        "in_reply_to_user_id": "1464828079512113155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065980703213605207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twdddesme 黑魔法全肯定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464828079512113155",
+        "conversation_id": "2065807307326529843",
+        "created_at": "2026-06-14T02:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065980703213605207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065980703213605207",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065807307326529843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 黑魔仙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 84,
+          "like_count": 4310,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T05:26:54.000Z",
+        "description": "不社交。",
+        "id": "1464828079512113155",
+        "name": "有栖川彻子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046844510496550912/Q9LwrZFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 340,
+          "like_count": 13045,
+          "listed_count": 9,
+          "media_count": 37,
+          "tweet_count": 3360
+        },
+        "username": "twdddesme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2051159269740024093",
+    "created_at": "2026-05-05T01:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051467366706631111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897385240735240192",
+          "start": 0,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051467366706631111",
+    "in_reply_to_user_id": "1897385240735240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051159269740024093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shen20020210 我靠啥阴啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2051159269740024093",
+        "created_at": "2026-05-05T01:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051467366706631111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897385240735240192",
+              "start": 0,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051467366706631111",
+        "in_reply_to_user_id": "1897385240735240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051159269740024093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shen20020210 我靠啥阴啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "2051159269740024093",
+        "created_at": "2026-05-04T04:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051159269740024093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051159269740024093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 66727,
+          "like_count": 434,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠走进一家衣服店，我和她刚进门就被店主说“你们俩穿不了”给撵出来了…好mean啊震惊我一整年😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 100,
+          "like_count": 3600,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "专心经营自己的脑蚕生活/\n自嬷很爽但你先停一下",
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒子",
+        "pinned_tweet_id": "2041172633161761057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 584,
+          "like_count": 44818,
+          "listed_count": 0,
+          "media_count": 802,
+          "tweet_count": 6299
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

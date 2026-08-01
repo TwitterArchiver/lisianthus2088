@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042229087436189792",
+    "created_at": "2026-04-10T03:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042449208830300644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861944400038727680",
+          "start": 0,
+          "username": "betty0059817333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042449208830300644",
+    "in_reply_to_user_id": "1861944400038727680",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042436357839335612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@betty0059817333 (៸៸᳐⦁⩊⦁៸៸᳐ )੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042229087436189792",
+        "created_at": "2026-04-10T03:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042449208830300644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861944400038727680",
+              "start": 0,
+              "username": "betty0059817333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042449208830300644",
+        "in_reply_to_user_id": "1861944400038727680",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042436357839335612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@betty0059817333 (៸៸᳐⦁⩊⦁៸៸᳐ )੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861944400038727680",
+        "conversation_id": "2042229087436189792",
+        "created_at": "2026-04-10T02:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042436357839335612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042436357839335612",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042229087436189792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 老师你眼睛好大诶 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 120,
+          "like_count": 2555,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1123
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:25:28.000Z",
+        "description": "花都已经枯萎了 你浇再多的水都是多余的",
+        "id": "1861944400038727680",
+        "name": "露染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042290069508407296/8V7CeOZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 229
+        },
+        "username": "betty0059817333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037555283954958400",
+    "created_at": "2026-03-27T21:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037638178304319565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929540270238130176",
+          "start": 0,
+          "username": "8fqyqOxYl975685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037638178304319565",
+    "in_reply_to_user_id": "1929540270238130176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037602120665600336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8fqyqOxYl975685 对对对我也是，我感觉冲明明特别费精力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037555283954958400",
+        "created_at": "2026-03-27T21:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037638178304319565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929540270238130176",
+              "start": 0,
+              "username": "8fqyqOxYl975685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037638178304319565",
+        "in_reply_to_user_id": "1929540270238130176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037602120665600336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8fqyqOxYl975685 对对对我也是，我感觉冲明明特别费精力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929540270238130176",
+        "conversation_id": "2037555283954958400",
+        "created_at": "2026-03-27T18:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037602120665600336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037602120665600336",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037555283954958400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 靠，我也是，一焦虑和忧郁，性欲全无。所以不太理解有些压力大就喜欢冲的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 92,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 481
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T14:07:14.000Z",
+        "description": "一个特别特别淡的人",
+        "id": "1929540270238130176",
+        "name": "不想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037604589437104128/ZxeCQfJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 123,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "8fqyqOxYl975685",
+        "verified": false
+      }
+    ]
+  }
+}

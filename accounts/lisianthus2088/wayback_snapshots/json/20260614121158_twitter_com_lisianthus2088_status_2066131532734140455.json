@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065981683535683940",
+    "created_at": "2026-06-14T12:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066131532734140455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061847756545875968",
+          "start": 0,
+          "username": "Lingyi_0145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066131532734140455",
+    "in_reply_to_user_id": "2061847756545875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066083197235183962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingyi_0145 别把自我要求的道德底线设那么低。不嫖不诱骗只能代表正常或者有贼心没贼胆，而不是洁身自好这种拿出来说的优势"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T12:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131532734140455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061847756545875968",
+              "start": 0,
+              "username": "Lingyi_0145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131532734140455",
+        "in_reply_to_user_id": "2061847756545875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066083197235183962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingyi_0145 别把自我要求的道德底线设那么低。不嫖不诱骗只能代表正常或者有贼心没贼胆，而不是洁身自好这种拿出来说的优势"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061847756545875968",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T08:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066083197235183962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066083197235183962",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在现代社会里，，只需要人品足够败坏，用各种话术和欺骗的手段，总能找到对象，甚至有很多喜猪妹，都是plmm。拥有一个异性作为炮友也不代表着比单身的人更尊贵，所以非自愿单身的情况大概是有各种客观条件相互制约……比如闭门不出 硬性条件一般等因素…，是有一部分人确实洁身自好，不过大部分人没有胆子淫乱无度也没有硬性条件"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065981683535683940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 在现代社会里，，只需要人品足够败坏，用各种话术和欺骗的手段，总能找到对象，甚至有很多喜猪妹，都是plmm。拥有一个异性作为炮友也不代表着比单身的人更尊贵，所以非自愿单身的情况大概是有各种客观条件相互制约……比如闭门不出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 85,
+          "like_count": 4342,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T16:32:42.000Z",
+        "description": "不键政不od不割手，就是有点不开心，感慨，正在饿死的路上，",
+        "id": "2061847756545875968",
+        "name": "泠依",
+        "pinned_tweet_id": "2061855132166607202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061849001692127232/VwXQcoXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "Lingyi_0145",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2051274007245443562",
+    "created_at": "2026-05-04T14:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051306003103371421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1707074946273587200",
+          "start": 0,
+          "username": "kawanarideonyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051306003103371421",
+    "in_reply_to_user_id": "1707074946273587200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051282296364470638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawanarideonyou 嘻嘻老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2051274007245443562",
+        "created_at": "2026-05-04T14:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051306003103371421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1707074946273587200",
+              "start": 0,
+              "username": "kawanarideonyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051306003103371421",
+        "in_reply_to_user_id": "1707074946273587200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051282296364470638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawanarideonyou 嘻嘻老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707074946273587200",
+        "conversation_id": "2051274007245443562",
+        "created_at": "2026-05-04T12:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051282296364470638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051282296364470638",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051274007245443562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 好萌呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 100,
+          "like_count": 3554,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T16:49:35.000Z",
+        "description": "话少了是因为一直在小号玩｜可单取 互关秒过v｜私信随缘回 不聊骚不看鸟不线下不发展亲密关系｜🚪88不过未成年 互关免@edithjoe8511🗑️｜攒钱do脸中｜梦想是所有喜欢的人都幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "edithjoe8511"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/edithjoe8511",
+                "end": 23,
+                "expanded_url": "https://ngl.link/edithjoe8511",
+                "start": 0,
+                "url": "https://t.co/twOhb2xS0v"
+              }
+            ]
+          }
+        },
+        "id": "1707074946273587200",
+        "location": "待我如初",
+        "name": "龙眼山竹泡芙",
+        "pinned_tweet_id": "2047940940124586328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045009873520427008/oNfus7N5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2819,
+          "following_count": 393,
+          "like_count": 42345,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 8868
+        },
+        "url": "https://t.co/twOhb2xS0v",
+        "username": "kawanarideonyou",
+        "verified": false
+      }
+    ]
+  }
+}

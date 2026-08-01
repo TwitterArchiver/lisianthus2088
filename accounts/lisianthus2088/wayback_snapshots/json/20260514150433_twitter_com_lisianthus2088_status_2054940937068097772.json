@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054940928050446336"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2054940937068097772",
+    "created_at": "2026-05-14T15:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054940937068097772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qG51daJegi",
+          "end": 65,
+          "expanded_url": "https://x.com/lisianthus2088/status/2054940937068097772/photo/1",
+          "media_key": "3_2054940928050446336",
+          "start": 42,
+          "url": "https://t.co/qG51daJegi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054940937068097772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们好这是我管理员，话说我居然有毒唯好神奇。我一直觉得大家都是海量刷美女顺便包含我 https://t.co/qG51daJegi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_2054940928050446336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISd4vLbwAAOfIl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054940928050446336"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2054940937068097772",
+        "created_at": "2026-05-14T15:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054940937068097772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qG51daJegi",
+              "end": 65,
+              "expanded_url": "https://x.com/lisianthus2088/status/2054940937068097772/photo/1",
+              "media_key": "3_2054940928050446336",
+              "start": 42,
+              "url": "https://t.co/qG51daJegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054940937068097772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好这是我管理员，话说我居然有毒唯好神奇。我一直觉得大家都是海量刷美女顺便包含我 https://t.co/qG51daJegi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 87,
+          "like_count": 3926,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

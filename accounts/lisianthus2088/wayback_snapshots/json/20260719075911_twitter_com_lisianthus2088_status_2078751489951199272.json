@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2078495884808278498",
+    "created_at": "2026-07-19T07:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078751489951199272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656917093672169473",
+          "start": 0,
+          "username": "yun39704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078751489951199272",
+    "in_reply_to_user_id": "1656917093672169473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078741930352291870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun39704 诶呀小蛋糕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2078495884808278498",
+        "created_at": "2026-07-19T07:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078751489951199272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656917093672169473",
+              "start": 0,
+              "username": "yun39704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078751489951199272",
+        "in_reply_to_user_id": "1656917093672169473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078741930352291870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun39704 诶呀小蛋糕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656917093672169473",
+        "conversation_id": "2078495884808278498",
+        "created_at": "2026-07-19T07:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078741930352291870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078741930352291870",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078495884808278498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 女神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 85,
+          "like_count": 4382,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T07:00:13.000Z",
+        "description": "幸福是拥有苹果的时候只想着苹果\n纯绿，和国内社媒无差，欢迎互fo呀，想和女孩们聊天\n世界上的另一个我@glannon977\n防止这个号被封，转生在@Glannonovo\n小号只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "glannon977"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Glannonovo"
+              }
+            ]
+          }
+        },
+        "id": "1656917093672169473",
+        "location": "没有门槛私信看心情回，男的发裸照祝唧唧断掉",
+        "name": "困成僵尸一觉睡到3026年",
+        "pinned_tweet_id": "2077624549433282683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054947795896070144/QmV-mZjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 354,
+          "like_count": 19774,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "yun39704",
+        "verified": false
+      }
+    ]
+  }
+}

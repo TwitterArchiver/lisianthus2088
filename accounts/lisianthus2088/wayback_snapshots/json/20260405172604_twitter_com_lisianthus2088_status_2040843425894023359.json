@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2040843425894023359",
+    "created_at": "2026-04-05T17:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040843425894023359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987786627545174016",
+          "start": 3,
+          "username": "qyl123938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040843425894023359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040703820192448631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qyl123938: 我在等一个人认认真真的翻完我所有的帖子 然后对我说 你的碎碎念好可爱 我好喜欢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2040843425894023359",
+        "created_at": "2026-04-05T17:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040843425894023359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987786627545174016",
+              "start": 3,
+              "username": "qyl123938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040843425894023359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040703820192448631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qyl123938: 我在等一个人认认真真的翻完我所有的帖子 然后对我说 你的碎碎念好可爱 我好喜欢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987786627545174016",
+        "conversation_id": "2040703820192448631",
+        "created_at": "2026-04-05T08:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040703820192448631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040703820192448631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6877,
+          "like_count": 92,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我在等一个人认认真真的翻完我所有的帖子 然后对我说 你的碎碎念好可爱 我好喜欢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 随缘互fo，小女孩也可以找我交友 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 108,
+          "like_count": 2012,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 855
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T07:37:37.000Z",
+        "description": "叫我依依就好呀｜碎碎念日记ovo｜宝宝们来找我玩！",
+        "id": "1987786627545174016",
+        "location": "不加v（互fo的小宝宝可以呀",
+        "name": "装0和男神砰砰砰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015418449858867200/1VQWO5wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 153,
+          "like_count": 20852,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1072
+        },
+        "username": "qyl123938",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T07:37:37.000Z",
+        "description": "叫我依依就好呀｜碎碎念日记ovo｜宝宝们来找我玩！",
+        "id": "1987786627545174016",
+        "location": "不加v（互fo的小宝宝可以呀",
+        "name": "装0和男神砰砰砰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015418449858867200/1VQWO5wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 153,
+          "like_count": 20852,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "qyl123938",
+        "verified": false
+      }
+    ]
+  }
+}

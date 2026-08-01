@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-20T15:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035008945245630824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1865469050282999808",
+          "start": 0,
+          "username": "ssdtb603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035008945245630824",
+    "in_reply_to_user_id": "1865469050282999808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035008130699207088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssdtb603 没人理我一气之下气了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-20T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035008945245630824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1865469050282999808",
+              "start": 0,
+              "username": "ssdtb603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035008945245630824",
+        "in_reply_to_user_id": "1865469050282999808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035008130699207088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssdtb603 没人理我一气之下气了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865469050282999808",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-20T14:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035008130699207088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035008130699207088",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859090422505758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "还不太会用这边，互po聊天请找我",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 23,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T18:51:06.000Z",
+        "description": "ppl 喜欢长发女生",
+        "id": "1865469050282999808",
+        "location": "广东 安徽 江西 ",
+        "name": "Ssdtb",
+        "pinned_tweet_id": "1949505167511941198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917576980100157440/UWyCbnKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "ssdtb603",
+        "verified": false
+      }
+    ]
+  }
+}

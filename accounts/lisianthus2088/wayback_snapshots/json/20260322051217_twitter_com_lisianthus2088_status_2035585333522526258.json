@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-22T05:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035585333522526258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1742913158531129344",
+          "start": 0,
+          "username": "xyzrecca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035585333522526258",
+    "in_reply_to_user_id": "1742913158531129344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035583629083156723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyzrecca 我已急哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-22T05:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035585333522526258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1742913158531129344",
+              "start": 0,
+              "username": "xyzrecca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035585333522526258",
+        "in_reply_to_user_id": "1742913158531129344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035583629083156723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyzrecca 我已急哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742913158531129344",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-22T05:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035583629083156723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035583629083156723",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859090422505758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 反耳呢是伤害了一个路过的小女孩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo/连赞=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 48,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 177
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T14:17:44.000Z",
+        "description": "🇨🇳🌈 短发p 女大。喜欢女的。偶尔发点碎碎念和照片，总之是反正什么都发。",
+        "id": "1742913158531129344",
+        "location": "皎月之所",
+        "name": "这个世界太坏了",
+        "pinned_tweet_id": "1849302163476164933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035584369545605121/ucblShG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 16,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 111
+        },
+        "username": "xyzrecca",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036052883477827665",
+    "created_at": "2026-03-23T14:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036081993134551093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026323265673912320",
+          "start": 0,
+          "username": "dou_hao62380"
+        },
+        {
+          "end": 28,
+          "id": "1682760650442051587",
+          "start": 14,
+          "username": "senbuyu172144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036081993134551093",
+    "in_reply_to_user_id": "2026323265673912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036081073202057417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dou_hao62380 @senbuyu172144 恶评，恶评！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036052883477827665",
+        "created_at": "2026-03-23T14:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036081993134551093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026323265673912320",
+              "start": 0,
+              "username": "dou_hao62380"
+            },
+            {
+              "end": 28,
+              "id": "1682760650442051587",
+              "start": 14,
+              "username": "senbuyu172144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036081993134551093",
+        "in_reply_to_user_id": "2026323265673912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036081073202057417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dou_hao62380 @senbuyu172144 恶评，恶评！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026323265673912320",
+        "conversation_id": "2036052883477827665",
+        "created_at": "2026-03-23T14:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036081073202057417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682760650442051587",
+              "start": 0,
+              "username": "senbuyu172144"
+            },
+            {
+              "end": 30,
+              "id": "1992095465559715840",
+              "start": 15,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036081073202057417",
+        "in_reply_to_user_id": "1682760650442051587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036062683716305157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senbuyu172144 @lisianthus2088 是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 单fo/连赞=我想找你玩但是不好意思 || 看眼缘互fo，小女孩也可以直接找我互ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "＜100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 71,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 271
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:49:29.000Z",
+        "description": "06 175",
+        "id": "2026323265673912320",
+        "location": "湖北黄石下路区",
+        "name": "不是小林y",
+        "pinned_tweet_id": "2034628558153462272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033223060220977152/Vhx4iuk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 217,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "username": "dou_hao62380",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T14:33:10.000Z",
+        "description": "愿好朋友有情人终成眷属 讨厌的人给我成兄妹然后还要孽恋劈腿 ｜ 一个很温柔很好说话的人（不过温柔只给温柔的人）｜欢迎互fo大部分都会回的",
+        "id": "1682760650442051587",
+        "location": "吾心安处既是吾乡",
+        "name": "sen",
+        "pinned_tweet_id": "1969285791609188393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033955924595843072/pI6qYiV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 95,
+          "like_count": 7146,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2451
+        },
+        "username": "senbuyu172144",
+        "verified": false
+      }
+    ]
+  }
+}

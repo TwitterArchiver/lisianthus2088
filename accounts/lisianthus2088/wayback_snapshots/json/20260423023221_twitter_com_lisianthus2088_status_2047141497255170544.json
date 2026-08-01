@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2047141497255170544",
+    "created_at": "2026-04-23T02:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047141497255170544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047141497255170544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的对新冠PTSD了，这几年陆陆续续阳了六次。现在新一轮又开始了。每阳一次都感觉身体更烂一点，每次一烧烧一周都觉得自己要撑不过去了。现在看到又有人阳了本能的恐惧，甚至熟悉的人生病了也会下意识想远离躲避。好讨厌生病讨厌自己羸弱的身体。我好不容易才过了一个好过一点的冬天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2047141497255170544",
+        "created_at": "2026-04-23T02:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047141497255170544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047141497255170544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的对新冠PTSD了，这几年陆陆续续阳了六次。现在新一轮又开始了。每阳一次都感觉身体更烂一点，每次一烧烧一周都觉得自己要撑不过去了。现在看到又有人阳了本能的恐惧，甚至熟悉的人生病了也会下意识想远离躲避。好讨厌生病讨厌自己羸弱的身体。我好不容易才过了一个好过一点的冬天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 104,
+          "like_count": 3202,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

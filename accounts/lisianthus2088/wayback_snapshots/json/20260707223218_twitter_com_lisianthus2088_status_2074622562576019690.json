@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2074423932258771342",
+    "created_at": "2026-07-07T22:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T23:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074622562576019690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889564491266007044",
+          "start": 0,
+          "username": "SL_Mizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074622562576019690",
+    "in_reply_to_user_id": "1889564491266007044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074547655309762827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SL_Mizuki 索尼十周年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2074423932258771342",
+        "created_at": "2026-07-07T22:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074622562576019690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889564491266007044",
+              "start": 0,
+              "username": "SL_Mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074622562576019690",
+        "in_reply_to_user_id": "1889564491266007044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074547655309762827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SL_Mizuki 索尼十周年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889564491266007044",
+        "conversation_id": "2074423932258771342",
+        "created_at": "2026-07-07T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074547655309762827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074547655309762827",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074423932258771342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 什么牌子的耳机好酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2970,
+          "following_count": 87,
+          "like_count": 4393,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T06:38:46.000Z",
+        "description": "",
+        "id": "1889564491266007044",
+        "location": "-61",
+        "name": "雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061520888441483264/UhcvbevN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 37,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "SL_Mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060987994392477696"
+      ],
+      "media_source_tweet_id": [
+        "2060988001283674419"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2061057807508725798",
+    "created_at": "2026-05-31T12:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061057807508725798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1236510066640965633",
+          "start": 3,
+          "username": "xiejiyun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Ehde2BRbM",
+          "end": 37,
+          "expanded_url": "https://x.com/xiejiyun/status/2060988001283674419/photo/1",
+          "media_key": "3_2060987994392477696",
+          "start": 14,
+          "url": "https://t.co/2Ehde2BRbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061057807508725798",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060988001283674419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiejiyun: https://t.co/2Ehde2BRbM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060987994392477696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoZqUwbwAAd4g3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060987994392477696"
+          ],
+          "media_source_tweet_id": [
+            "2060988001283674419"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2061057807508725798",
+        "created_at": "2026-05-31T12:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061057807508725798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236510066640965633",
+              "start": 3,
+              "username": "xiejiyun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ehde2BRbM",
+              "end": 37,
+              "expanded_url": "https://x.com/xiejiyun/status/2060988001283674419/photo/1",
+              "media_key": "3_2060987994392477696",
+              "start": 14,
+              "url": "https://t.co/2Ehde2BRbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061057807508725798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060988001283674419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiejiyun: https://t.co/2Ehde2BRbM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060987994392477696"
+          ]
+        },
+        "author_id": "1236510066640965633",
+        "conversation_id": "2060988001283674419",
+        "created_at": "2026-05-31T07:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060988001283674419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ehde2BRbM",
+              "end": 23,
+              "expanded_url": "https://x.com/xiejiyun/status/2060988001283674419/photo/1",
+              "media_key": "3_2060987994392477696",
+              "start": 0,
+              "url": "https://t.co/2Ehde2BRbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060988001283674419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 10898,
+          "like_count": 1162,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Ehde2BRbM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2982,
+          "following_count": 84,
+          "like_count": 4105,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T04:32:38.000Z",
+        "description": "中文｜ 插画师｜ 🚫AI",
+        "id": "1236510066640965633",
+        "name": "嵇韫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944570570726932480/-2b2CfXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4703,
+          "following_count": 15,
+          "like_count": 42,
+          "listed_count": 17,
+          "media_count": 79,
+          "tweet_count": 95
+        },
+        "username": "xiejiyun",
+        "verified": false
+      }
+    ]
+  }
+}

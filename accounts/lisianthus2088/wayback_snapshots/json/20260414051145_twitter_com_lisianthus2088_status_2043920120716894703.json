@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2043906387290505575",
+    "created_at": "2026-04-14T05:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043920120716894703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1445021239341424643",
+          "start": 0,
+          "username": "AS1903504409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043920120716894703",
+    "in_reply_to_user_id": "1445021239341424643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043917506595995785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AS1903504409 不讲不讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2043906387290505575",
+        "created_at": "2026-04-14T05:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043920120716894703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1445021239341424643",
+              "start": 0,
+              "username": "AS1903504409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043920120716894703",
+        "in_reply_to_user_id": "1445021239341424643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043917506595995785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AS1903504409 不讲不讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445021239341424643",
+        "conversation_id": "2043906387290505575",
+        "created_at": "2026-04-14T05:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043917506595995785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043917506595995785",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043906387290505575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 要是有题目可以提前看看就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 || 提问箱https://t.co/7HxnVsWe36 ||失踪就是梯子掉了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 31,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 120,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1321
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T13:41:38.000Z",
+        "description": "性别男取向女 专心经营自己的唐氏生活 谢谢你来看我 泛爱好 ig⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yareth_ovo?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yareth_ovo?igsh=OTk4b3EwNDk2Z2Iz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/fsC1oGmzyH"
+              }
+            ]
+          }
+        },
+        "id": "1445021239341424643",
+        "name": "花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042130533275332608/bekIxBL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 185,
+          "like_count": 4149,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/fsC1oGmzyH",
+        "username": "AS1903504409",
+        "verified": false
+      }
+    ]
+  }
+}

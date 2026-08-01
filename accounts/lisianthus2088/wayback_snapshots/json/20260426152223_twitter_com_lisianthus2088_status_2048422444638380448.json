@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048380689415082425",
+    "created_at": "2026-04-26T15:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048422444638380448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707825450532352000",
+          "start": 0,
+          "username": "xiayezileaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048422444638380448",
+    "in_reply_to_user_id": "1707825450532352000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048412159617749450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiayezileaf 其实不自残是因为还想露肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2048412156081983489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1sAMTb0AETD-k.jpg",
+        "width": 449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048380689415082425",
+        "created_at": "2026-04-26T15:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048422444638380448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707825450532352000",
+              "start": 0,
+              "username": "xiayezileaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048422444638380448",
+        "in_reply_to_user_id": "1707825450532352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412159617749450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiayezileaf 其实不自残是因为还想露肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048412156081983489"
+          ]
+        },
+        "author_id": "1707825450532352000",
+        "conversation_id": "2048380689415082425",
+        "created_at": "2026-04-26T14:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048412159617749450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXNmL1S4oq",
+              "end": 73,
+              "expanded_url": "https://x.com/xiayezileaf/status/2048412159617749450/photo/1",
+              "media_key": "3_2048412156081983489",
+              "start": 50,
+              "url": "https://t.co/fXNmL1S4oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048412159617749450",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048380689415082425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 老大可爱捏，脑补自毁还好，但不要真的做了就好，自残什么的，好疼的吧 https://t.co/fXNmL1S4oq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 99,
+          "like_count": 3312,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T18:31:53.000Z",
+        "description": "欢迎任何人加我qq或vx来打游戏，私聊可以看看，要不要一起打游戏\n单纯无聊刷推，感觉有意思，主国内平台\n翻墙是为了看h，还有好看的cos，等等\n还有，我只是个打游戏，看动漫的普通宅男，不要骂我，说不定我人还不错呢",
+        "id": "1707825450532352000",
+        "name": "夏叶子57",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044382125240303616/ZrFTl34t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 156,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 694
+        },
+        "username": "xiayezileaf",
+        "verified": false
+      }
+    ]
+  }
+}

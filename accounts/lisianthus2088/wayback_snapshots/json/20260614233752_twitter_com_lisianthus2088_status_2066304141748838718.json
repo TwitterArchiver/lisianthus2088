@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065981683535683940",
+    "created_at": "2026-06-14T23:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T00:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066304141748838718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061847756545875968",
+          "start": 0,
+          "username": "Lingyi_0145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066304141748838718",
+    "in_reply_to_user_id": "2061847756545875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066242640484659307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingyi_0145 谢谢你们这种道德标准低的人作比较"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T23:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066304141748838718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061847756545875968",
+              "start": 0,
+              "username": "Lingyi_0145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066304141748838718",
+        "in_reply_to_user_id": "2061847756545875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066242640484659307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingyi_0145 谢谢你们这种道德标准低的人作比较"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061847756545875968",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T19:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066242640484659307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066242640484659307",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哦顺便还有一点想法，正常人想要一个正常的结果是很难的，社会上大部分人都比较差劲的情况下，正常反而算是一种优势了，但是很可惜，正常人还是被嘲弄的对象，最后推波助澜一步步走向坑蒙拐骗，到达这个结果之后也同样可以说 装了那么多年 果然就是有贼心没贼胆，就像体感上男人大部分都是渣男一样，但凡有个正常的男的都觉得谢天谢地了，当然正常人本该是理所应当的，但是它远超平均值，所以会被当作“优势”，所谓比烂就是这样，如果大家不肯定正常人的话，更多人会变得越来越不正常，这样大家的生活就都难过了，当然如果说社会上大部分人都是正常人的话，你的说法就是正确的，但是很可惜是相反的，我还是比较期待做一个好人才值得被当作优势宣传的社会的☺️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066131532734140455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 哦顺便还有一点想法，正常人想要一个正常的结果是很难的，社会上大部分人都比较差劲的情况下，正常反而算是一种优势了，但是很可惜，正常人还是被嘲弄的对象，最后推波助澜一步步走向坑蒙拐骗，到达这个结果之后也同样可以说 装了那么多年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3006,
+          "following_count": 85,
+          "like_count": 4347,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T16:32:42.000Z",
+        "description": "不键政不od不割手，就是有点不开心，感慨，正在饿死的路上，",
+        "id": "2061847756545875968",
+        "name": "泠依",
+        "pinned_tweet_id": "2061855132166607202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061849001692127232/VwXQcoXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 78
+        },
+        "username": "Lingyi_0145",
+        "verified": true
+      }
+    ]
+  }
+}

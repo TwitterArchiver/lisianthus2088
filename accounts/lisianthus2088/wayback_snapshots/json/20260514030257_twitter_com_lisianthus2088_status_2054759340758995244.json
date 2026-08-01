@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054759140720001024",
+        "3_2054759141185552385",
+        "3_2054759198496575489"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2054759340758995244",
+    "created_at": "2026-05-14T03:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054759340758995244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOOaCuRf0A",
+          "end": 27,
+          "expanded_url": "https://x.com/lisianthus2088/status/2054759340758995244/photo/1",
+          "media_key": "3_2054759140720001024",
+          "start": 4,
+          "url": "https://t.co/eOOaCuRf0A"
+        },
+        {
+          "display_url": "pic.x.com/eOOaCuRf0A",
+          "end": 27,
+          "expanded_url": "https://x.com/lisianthus2088/status/2054759340758995244/photo/1",
+          "media_key": "3_2054759141185552385",
+          "start": 4,
+          "url": "https://t.co/eOOaCuRf0A"
+        },
+        {
+          "display_url": "pic.x.com/eOOaCuRf0A",
+          "end": 27,
+          "expanded_url": "https://x.com/lisianthus2088/status/2054759340758995244/photo/1",
+          "media_key": "3_2054759198496575489",
+          "start": 4,
+          "url": "https://t.co/eOOaCuRf0A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054759340758995244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回完了 https://t.co/eOOaCuRf0A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054759140720001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIP4jUmaQAA88Ok.jpg",
+        "width": 1131
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054759141185552385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIP4jWVaAAE2IEV.jpg",
+        "width": 1027
+      },
+      {
+        "height": 2218,
+        "media_key": "3_2054759198496575489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIP4mr1a0AEXkSI.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054759140720001024",
+            "3_2054759141185552385",
+            "3_2054759198496575489"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2054759340758995244",
+        "created_at": "2026-05-14T03:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054759340758995244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOOaCuRf0A",
+              "end": 27,
+              "expanded_url": "https://x.com/lisianthus2088/status/2054759340758995244/photo/1",
+              "media_key": "3_2054759140720001024",
+              "start": 4,
+              "url": "https://t.co/eOOaCuRf0A"
+            },
+            {
+              "display_url": "pic.x.com/eOOaCuRf0A",
+              "end": 27,
+              "expanded_url": "https://x.com/lisianthus2088/status/2054759340758995244/photo/1",
+              "media_key": "3_2054759141185552385",
+              "start": 4,
+              "url": "https://t.co/eOOaCuRf0A"
+            },
+            {
+              "display_url": "pic.x.com/eOOaCuRf0A",
+              "end": 27,
+              "expanded_url": "https://x.com/lisianthus2088/status/2054759340758995244/photo/1",
+              "media_key": "3_2054759198496575489",
+              "start": 4,
+              "url": "https://t.co/eOOaCuRf0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054759340758995244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回完了 https://t.co/eOOaCuRf0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 86,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

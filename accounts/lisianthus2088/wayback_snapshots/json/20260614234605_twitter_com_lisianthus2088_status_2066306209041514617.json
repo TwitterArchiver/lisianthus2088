@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2066306209041514617",
+    "created_at": "2026-06-14T23:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T00:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066306209041514617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lisianthus2088…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/lisianthus2088/status/2065981683535683940",
+          "start": 79,
+          "url": "https://t.co/M3ZCVQhcSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066306209041514617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065981683535683940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本身想表达的意思是“拒绝跟不喜欢的人恋爱和发生关系”才叫洁身自好，没想到有人觉得“不嫖”就算洁身自好还来我评论区发癫，我真的对男的道德标准有再一次的认识。 https://t.co/M3ZCVQhcSp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2066306209041514617",
+        "created_at": "2026-06-14T23:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066306209041514617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lisianthus2088…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/lisianthus2088/status/2065981683535683940",
+              "start": 79,
+              "url": "https://t.co/M3ZCVQhcSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066306209041514617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065981683535683940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本身想表达的意思是“拒绝跟不喜欢的人恋爱和发生关系”才叫洁身自好，没想到有人觉得“不嫖”就算洁身自好还来我评论区发癫，我真的对男的道德标准有再一次的认识。 https://t.co/M3ZCVQhcSp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065981683535683940",
+        "created_at": "2026-06-14T02:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065981683535683940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065981683535683940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14998,
+          "like_count": 412,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "非自愿单身不叫洁身自好  到底还要我说多少遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3006,
+          "following_count": 85,
+          "like_count": 4347,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

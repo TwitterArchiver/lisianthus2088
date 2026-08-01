@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042495911188971625",
+    "created_at": "2026-04-10T07:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042498925501038740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781974567701102592",
+          "start": 0,
+          "username": "getthefkoff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042498925501038740",
+    "in_reply_to_user_id": "1781974567701102592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042498684253061476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@getthefkoff_ 其实没有那么可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042495911188971625",
+        "created_at": "2026-04-10T07:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042498925501038740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781974567701102592",
+              "start": 0,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042498925501038740",
+        "in_reply_to_user_id": "1781974567701102592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042498684253061476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@getthefkoff_ 其实没有那么可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781974567701102592",
+        "conversation_id": "2042495911188971625",
+        "created_at": "2026-04-10T07:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042498684253061476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042498684253061476",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042495911188971625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 所以你是小茂密"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 123,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1133
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T09:15:03.000Z",
+        "description": "XD",
+        "id": "1781974567701102592",
+        "location": "0.1km",
+        "name": "她也咬妳舌尖嗎",
+        "pinned_tweet_id": "2038823977037287923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459174538526720/d915gp7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 78,
+          "like_count": 5741,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1309
+        },
+        "username": "getthefkoff_",
+        "verified": false
+      }
+    ]
+  }
+}

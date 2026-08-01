@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058431587587649536"
+      ],
+      "media_source_tweet_id": [
+        "2058431594902548849"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058709414492905887",
+    "created_at": "2026-05-25T00:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058709414492905887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "340107534",
+          "start": 3,
+          "username": "duanhjlt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KLnhEqgQlt",
+          "end": 55,
+          "expanded_url": "https://x.com/duanhjlt/status/2058431594902548849/photo/1",
+          "media_key": "3_2058431587587649536",
+          "start": 32,
+          "url": "https://t.co/KLnhEqgQlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058709414492905887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058431594902548849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duanhjlt: 为什么童年创伤会在25-30大爆发 https://t.co/KLnhEqgQlt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1567,
+        "media_key": "3_2058431587587649536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEEn3Sa8AAPK4U.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058431587587649536"
+          ],
+          "media_source_tweet_id": [
+            "2058431594902548849"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058709414492905887",
+        "created_at": "2026-05-25T00:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058709414492905887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "340107534",
+              "start": 3,
+              "username": "duanhjlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLnhEqgQlt",
+              "end": 55,
+              "expanded_url": "https://x.com/duanhjlt/status/2058431594902548849/photo/1",
+              "media_key": "3_2058431587587649536",
+              "start": 32,
+              "url": "https://t.co/KLnhEqgQlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058709414492905887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058431594902548849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duanhjlt: 为什么童年创伤会在25-30大爆发 https://t.co/KLnhEqgQlt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058431587587649536"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2058431594902548849",
+        "created_at": "2026-05-24T06:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058431594902548849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLnhEqgQlt",
+              "end": 41,
+              "expanded_url": "https://x.com/duanhjlt/status/2058431594902548849/photo/1",
+              "media_key": "3_2058431587587649536",
+              "start": 18,
+              "url": "https://t.co/KLnhEqgQlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058431594902548849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 187736,
+          "like_count": 3409,
+          "quote_count": 9,
+          "reply_count": 73,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "为什么童年创伤会在25-30大爆发 https://t.co/KLnhEqgQlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 86,
+          "like_count": 4070,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "让好奇心永远在线｜每天分享好玩儿的东西^_^ 搞笑娱乐 + 泛互联网 + AI + 学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "domer.io",
+                "end": 23,
+                "expanded_url": "https://domer.io",
+                "start": 0,
+                "url": "https://t.co/4pSyFxcmSE"
+              }
+            ]
+          }
+        },
+        "id": "340107534",
+        "location": "Beijing👉",
+        "name": "Alexander",
+        "pinned_tweet_id": "2057828285338599575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24202,
+          "following_count": 896,
+          "like_count": 690,
+          "listed_count": 98,
+          "media_count": 7257,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/4pSyFxcmSE",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

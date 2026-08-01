@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2037133335609434355",
+    "created_at": "2026-03-26T12:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037138437296582792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694961655812079616",
+          "start": 0,
+          "username": "77reaishenghuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037138437296582792",
+    "in_reply_to_user_id": "1694961655812079616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037135069635371392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77reaishenghuo 已破防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2037133335609434355",
+        "created_at": "2026-03-26T12:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037138437296582792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694961655812079616",
+              "start": 0,
+              "username": "77reaishenghuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037138437296582792",
+        "in_reply_to_user_id": "1694961655812079616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037135069635371392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77reaishenghuo 已破防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694961655812079616",
+        "conversation_id": "2037133335609434355",
+        "created_at": "2026-03-26T11:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037135069635371392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037135069635371392",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037133335609434355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我去不早说！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 92,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 393
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T06:36:03.000Z",
+        "description": "",
+        "id": "1694961655812079616",
+        "name": "seven",
+        "pinned_tweet_id": "1931004317173199036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972458766990966784/1xre7tSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 641,
+          "like_count": 9347,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 2651
+        },
+        "username": "77reaishenghuo",
+        "verified": false
+      }
+    ]
+  }
+}

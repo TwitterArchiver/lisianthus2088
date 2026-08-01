@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042599863599403302",
+    "created_at": "2026-04-11T05:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042844860156383258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036346188061089792",
+          "start": 0,
+          "username": "Res1st_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042844860156383258",
+    "in_reply_to_user_id": "2036346188061089792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042599863599403302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Res1st_4 这完全阐述了我之前为什么想谈恋爱。纯想装逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2042599856494252033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjFv1CakAE0GZF.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042599863599403302",
+        "created_at": "2026-04-11T05:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042844860156383258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036346188061089792",
+              "start": 0,
+              "username": "Res1st_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042844860156383258",
+        "in_reply_to_user_id": "2036346188061089792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042599863599403302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Res1st_4 这完全阐述了我之前为什么想谈恋爱。纯想装逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042599856494252033"
+          ]
+        },
+        "author_id": "2036346188061089792",
+        "conversation_id": "2042599863599403302",
+        "created_at": "2026-04-10T13:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042599863599403302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aM6SrErmwh",
+              "end": 96,
+              "expanded_url": "https://x.com/Res1st_4/status/2042599863599403302/photo/1",
+              "media_key": "3_2042599856494252033",
+              "start": 73,
+              "url": "https://t.co/aM6SrErmwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042599863599403302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 78662,
+          "like_count": 770,
+          "quote_count": 19,
+          "reply_count": 221,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "其实我玩所有社交平台的初心都非常淳朴，发点照片，找个势均力敌的建模然后谈恋爱大做特做，然后双方都觉得自己吃的特别好，然后拍一堆合照发出去装逼。。 https://t.co/aM6SrErmwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 119,
+          "like_count": 2658,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1204
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:36:39.000Z",
+        "description": "186/82 我是直男，就上来发发照片，本人挺装的，但是不卖，谢谢大家",
+        "id": "2036346188061089792",
+        "location": "杭州",
+        "name": "年轻的丈夫",
+        "pinned_tweet_id": "2038958114691825920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036350278639960064/59nN_f4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14692,
+          "following_count": 17,
+          "like_count": 216,
+          "listed_count": 24,
+          "media_count": 65,
+          "tweet_count": 353
+        },
+        "username": "Res1st_4",
+        "verified": false
+      }
+    ]
+  }
+}

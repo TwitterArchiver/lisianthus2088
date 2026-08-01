@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052721264637411538",
+    "created_at": "2026-05-08T12:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052722358847414604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052722358847414604",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052721922316837049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052721264637411538",
+        "created_at": "2026-05-08T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052722358847414604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052722358847414604",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721922316837049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637070779975352320",
+        "conversation_id": "2052721264637411538",
+        "created_at": "2026-05-08T12:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052721922316837049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052721922316837049",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721264637411538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 那我这 500m 的怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 97,
+          "like_count": 3659,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0Knj  a native iOS app for Claude Code / ex @TencentGames / ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "TencentGames"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 23,
+                "expanded_url": "https://seedex.app",
+                "start": 0,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "location": "距离你 500 m",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049078848978145704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4843,
+          "following_count": 952,
+          "like_count": 4952,
+          "listed_count": 26,
+          "media_count": 510,
+          "tweet_count": 7182
+        },
+        "url": "https://t.co/m270kq0Knj",
+        "username": "arkuy99",
+        "verified": true
+      }
+    ]
+  }
+}

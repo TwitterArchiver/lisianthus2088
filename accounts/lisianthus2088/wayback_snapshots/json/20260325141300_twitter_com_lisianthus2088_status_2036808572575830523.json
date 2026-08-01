@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036808551935713280"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2036808572575830523",
+    "created_at": "2026-03-25T14:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036808572575830523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bzTuNqogO",
+          "end": 40,
+          "expanded_url": "https://x.com/lisianthus2088/status/2036808572575830523/photo/1",
+          "media_key": "3_2036808551935713280",
+          "start": 17,
+          "url": "https://t.co/4bzTuNqogO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036808572575830523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "臭推特删不了评论我就这样恳求别人 https://t.co/4bzTuNqogO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036808551935713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQyliWbIAAWpeH.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036808551935713280"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2036808572575830523",
+        "created_at": "2026-03-25T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036808572575830523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bzTuNqogO",
+              "end": 40,
+              "expanded_url": "https://x.com/lisianthus2088/status/2036808572575830523/photo/1",
+              "media_key": "3_2036808551935713280",
+              "start": 17,
+              "url": "https://t.co/4bzTuNqogO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036808572575830523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭推特删不了评论我就这样恳求别人 https://t.co/4bzTuNqogO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728459658579968/nyEApONz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 89,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 377
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

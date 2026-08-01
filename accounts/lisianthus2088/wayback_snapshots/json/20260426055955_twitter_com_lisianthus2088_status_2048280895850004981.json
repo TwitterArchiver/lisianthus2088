@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048042171182588227",
+    "created_at": "2026-04-26T05:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048280895850004981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048280895850004981",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048042171182588227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 特别无语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2048042159191044097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwbfiebMAEPMFK.jpg",
+        "width": 854
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2048042159274909696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwbfiya4AAW9Jf.jpg",
+        "width": 857
+      },
+      {
+        "height": 1895,
+        "media_key": "3_2048042159216242688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwbfikbsAAvZ5C.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048042171182588227",
+        "created_at": "2026-04-26T05:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048280895850004981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048280895850004981",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048042171182588227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 特别无语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048042159191044097",
+            "3_2048042159274909696",
+            "3_2048042159216242688"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2048042171182588227",
+        "created_at": "2026-04-25T14:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048042171182588227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcafnIg3zt",
+              "end": 130,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2048042171182588227/photo/1",
+              "media_key": "3_2048042159191044097",
+              "start": 107,
+              "url": "https://t.co/YcafnIg3zt"
+            },
+            {
+              "display_url": "pic.x.com/YcafnIg3zt",
+              "end": 130,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2048042171182588227/photo/1",
+              "media_key": "3_2048042159274909696",
+              "start": 107,
+              "url": "https://t.co/YcafnIg3zt"
+            },
+            {
+              "display_url": "pic.x.com/YcafnIg3zt",
+              "end": 130,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2048042171182588227/photo/1",
+              "media_key": "3_2048042159216242688",
+              "start": 107,
+              "url": "https://t.co/YcafnIg3zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048042171182588227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1494,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "os学到了好想说自己是s然后急头白脸在小圈找妹子一边法一边打。\n前情提要是这个人说自己也对bdsm感兴趣然后加了我还说想发展..在明确拒绝情况下对方依旧坚持说多聊聊相处一下就了解了。想操笔直说别这样不懂装懂吧。！ https://t.co/YcafnIg3zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 99,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 233,
+          "like_count": 18851,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 2849
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

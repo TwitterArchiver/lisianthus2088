@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042224928792121500",
+    "created_at": "2026-04-09T13:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042228713081979210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016817355968638976",
+          "start": 0,
+          "username": "yueming937134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042228713081979210",
+    "in_reply_to_user_id": "2016817355968638976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042224928792121500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueming937134 又练！又炫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2042224895573327873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdwuOwbgAEn_7o.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4905,
+        "height": 720,
+        "media_key": "7_2042224895971704832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042224895971704832/pu/img/c8l95drjc2HqFmPC.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042224895971704832/pu/vid/avc1/480x270/BH4VPwW2HvPCVc0q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042224895971704832/pu/vid/avc1/640x360/lbEmXlqoN7oI09sl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042224895971704832/pu/vid/avc1/1280x720/OMVQGHXejNUfNN0z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042224895971704832/pu/pl/zIo5KGULRAppyrO6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042224928792121500",
+        "created_at": "2026-04-09T13:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042228713081979210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016817355968638976",
+              "start": 0,
+              "username": "yueming937134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042228713081979210",
+        "in_reply_to_user_id": "2016817355968638976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042224928792121500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueming937134 又练！又炫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042224895573327873",
+            "7_2042224895971704832"
+          ]
+        },
+        "author_id": "2016817355968638976",
+        "conversation_id": "2042224928792121500",
+        "created_at": "2026-04-09T12:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042224928792121500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tK0dwRqVZk",
+              "end": 28,
+              "expanded_url": "https://x.com/yueming937134/status/2042224928792121500/video/1",
+              "media_key": "3_2042224895573327873",
+              "start": 5,
+              "url": "https://t.co/tK0dwRqVZk"
+            },
+            {
+              "display_url": "pic.x.com/tK0dwRqVZk",
+              "end": 28,
+              "expanded_url": "https://x.com/yueming937134/status/2042224928792121500/video/1",
+              "media_key": "7_2042224895971704832",
+              "start": 5,
+              "url": "https://t.co/tK0dwRqVZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042224928792121500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发期库存 https://t.co/tK0dwRqVZk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 || 跟我互动触发随机连赞 || 我一直在等待萌萌小女孩跟我互关 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 118,
+          "like_count": 2463,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1013
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T10:15:13.000Z",
+        "description": "哈基米（因为不想发朋友圈，就用这个发了）\n｜直男｜喜欢小猫小狗｜不聊骚不约",
+        "id": "2016817355968638976",
+        "location": "不+v",
+        "name": "曾有风眠于雪",
+        "pinned_tweet_id": "2037484988573298946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040847308431224832/5x680Xvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 44,
+          "like_count": 1243,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 625
+        },
+        "username": "yueming937134",
+        "verified": false
+      }
+    ]
+  }
+}

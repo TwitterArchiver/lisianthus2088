@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2047313991979126792",
+    "created_at": "2026-04-23T14:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047317597222555671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1203867585256669185",
+          "start": 0,
+          "username": "ModeIronman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047317597222555671",
+    "in_reply_to_user_id": "1203867585256669185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047316872950067409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ModeIronman 我跟你对话感觉特别无力，毕业快乐我说真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2047313991979126792",
+        "created_at": "2026-04-23T14:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047317597222555671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1203867585256669185",
+              "start": 0,
+              "username": "ModeIronman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047317597222555671",
+        "in_reply_to_user_id": "1203867585256669185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047316872950067409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ModeIronman 我跟你对话感觉特别无力，毕业快乐我说真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203867585256669185",
+        "conversation_id": "2047313991979126792",
+        "created_at": "2026-04-23T14:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047316872950067409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047316872950067409",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047315973112463508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我又不是女的，无法站在女生的角度去思考。而且这也并不意外着这样的男性就是妈宝男啊，毕竟年纪大了母亲多少都得依靠儿子的，尤其是父亲靠不住的情况。或许我这里的看法仅适用于一小部分人吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 104,
+          "like_count": 3221,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-09T02:42:59.000Z",
+        "description": "。",
+        "id": "1203867585256669185",
+        "location": "Sea of ignorance",
+        "name": "♂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510035816935919620/Dw5DZUfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 2573,
+          "like_count": 235567,
+          "listed_count": 13,
+          "media_count": 473,
+          "tweet_count": 31543
+        },
+        "username": "ModeIronman",
+        "verified": false
+      }
+    ]
+  }
+}

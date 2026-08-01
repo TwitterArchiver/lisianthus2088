@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2068897228685816076",
+    "created_at": "2026-06-22T11:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069015996820783463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660074464321888257",
+          "start": 0,
+          "username": "hzcjhqgc"
+        },
+        {
+          "end": 21,
+          "id": "1756909109788753920",
+          "start": 10,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069015996820783463",
+    "in_reply_to_user_id": "1660074464321888257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068962762613768233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzcjhqgc @__fanqie__ 正确的，差三五岁就想吃软饭很诡异啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2068897228685816076",
+        "created_at": "2026-06-22T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069015996820783463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660074464321888257",
+              "start": 0,
+              "username": "hzcjhqgc"
+            },
+            {
+              "end": 21,
+              "id": "1756909109788753920",
+              "start": 10,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069015996820783463",
+        "in_reply_to_user_id": "1660074464321888257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068962762613768233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzcjhqgc @__fanqie__ 正确的，差三五岁就想吃软饭很诡异啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660074464321888257",
+        "conversation_id": "2068897228685816076",
+        "created_at": "2026-06-22T07:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068962762613768233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068962762613768233",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1448,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068897228685816076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 因为姐弟恋差距太小了，享福的女孩子都是找比自己爸爸还大的叔叔，小奶狗想享福就得找比自己妈妈还大的阿姨。这个世界很公平的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "看我不爽很正常，让你看爽了还得了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 88,
+          "like_count": 4421,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T00:06:19.000Z",
+        "description": "欢迎来到杭州～\n  @hzcjhqgc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "hzcjhqgc"
+              }
+            ]
+          }
+        },
+        "id": "1660074464321888257",
+        "location": "杭州市",
+        "name": "杭州上课行情观察",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660074777514754049/aYh-uudq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 31,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "hzcjhqgc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8781,
+          "following_count": 2769,
+          "like_count": 1598,
+          "listed_count": 18,
+          "media_count": 1869,
+          "tweet_count": 10338
+        },
+        "url": "",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

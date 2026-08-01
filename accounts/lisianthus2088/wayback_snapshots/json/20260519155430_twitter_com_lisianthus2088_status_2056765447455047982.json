@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2056759925142147308",
+    "created_at": "2026-05-19T15:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056765447455047982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967919757799440384",
+          "start": 0,
+          "username": "Ruizexxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056765447455047982",
+    "in_reply_to_user_id": "1967919757799440384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056765059486101560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruizexxx 给我发条私信需要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2056759925142147308",
+        "created_at": "2026-05-19T15:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056765447455047982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967919757799440384",
+              "start": 0,
+              "username": "Ruizexxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056765447455047982",
+        "in_reply_to_user_id": "1967919757799440384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056765059486101560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruizexxx 给我发条私信需要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967919757799440384",
+        "conversation_id": "2056759925142147308",
+        "created_at": "2026-05-19T15:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056765059486101560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056765059486101560",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056759925142147308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 拉我，我也想当老资历"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 86,
+          "like_count": 4045,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T11:53:41.000Z",
+        "description": "纯逛街闲聊｜PSB大学受害者｜细狗｜喜欢抽烟喝酒吃嘴子｜没有属性，喜欢正常的性爱，也不想被调｜男同滚远点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruize36888",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruize36888",
+                "start": 0,
+                "url": "https://t.co/EMwZCOolLQ"
+              }
+            ]
+          }
+        },
+        "id": "1967919757799440384",
+        "location": "西安",
+        "name": "Ruize",
+        "pinned_tweet_id": "2052280393307701497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055646523279679488/shzTVwjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 368,
+          "like_count": 2350,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/EMwZCOolLQ",
+        "username": "Ruizexxx",
+        "verified": false
+      }
+    ]
+  }
+}

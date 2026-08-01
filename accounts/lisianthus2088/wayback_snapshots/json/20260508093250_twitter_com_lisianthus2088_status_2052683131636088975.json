@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052683131636088975",
+    "created_at": "2026-05-08T09:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052683131636088975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049408000977485824",
+          "start": 3,
+          "username": "DaisyKim0gwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052683131636088975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052546483535462537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaisyKim0gwm: 不收🚪的好处就是可以已读不回&amp;甩脸子。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052683131636088975",
+        "created_at": "2026-05-08T09:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052683131636088975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049408000977485824",
+              "start": 3,
+              "username": "DaisyKim0gwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052683131636088975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052546483535462537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaisyKim0gwm: 不收🚪的好处就是可以已读不回&amp;甩脸子。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049408000977485824",
+        "conversation_id": "2052546483535462537",
+        "created_at": "2026-05-08T00:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052546483535462537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052546483535462537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16126,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 117,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "不收🚪的好处就是可以已读不回&amp;甩脸子。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 97,
+          "like_count": 3635,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T08:39:47.000Z",
+        "description": "我发疯来的，所以不要打探我的年龄，长相，声音，地址，我会很下头\n没有🚪也不发也不聊\nbrat，🙅4i，晕血，如果私信说有大胸肌我会回你的😋\n不跟段位比我的男生打瓦，小妹妹可以，本人目前段位神话二",
+        "id": "2049408000977485824",
+        "name": "Daisy Kim",
+        "pinned_tweet_id": "2052424660911091927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049408493170630656/M75qCGLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 11,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "DaisyKim0gwm",
+        "verified": false
+      }
+    ]
+  }
+}

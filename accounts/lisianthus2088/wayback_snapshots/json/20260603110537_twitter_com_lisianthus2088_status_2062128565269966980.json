@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2062019975989309719",
+    "created_at": "2026-06-03T11:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062128565269966980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2702565277",
+          "start": 0,
+          "username": "______05___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062128565269966980",
+    "in_reply_to_user_id": "2702565277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062073725869047934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@______05___ 我现在就是情感博主不好意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2062019975989309719",
+        "created_at": "2026-06-03T11:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062128565269966980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2702565277",
+              "start": 0,
+              "username": "______05___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062128565269966980",
+        "in_reply_to_user_id": "2702565277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062073725869047934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@______05___ 我现在就是情感博主不好意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2702565277",
+        "conversation_id": "2062019975989309719",
+        "created_at": "2026-06-03T07:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062073725869047934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062073725869047934",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062019975989309719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 这文笔，建议直接投胎去当个情感博主，别来糟蹋行情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 86,
+          "like_count": 4078,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-03T02:02:09.000Z",
+        "description": "🌍 稳定出海变现项目，自营项目\n🔥 签合同，包落地，有保障，有实力！\n➡️ 剧财官方账号：@OhhFrizz\n6️⃣ 流量变现：@C0lTG0OvrwauepQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "OhhFrizz"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "C0lTG0OvrwauepQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ai.feishu.cn/docx/AGLWd4Dkf…",
+                "end": 23,
+                "expanded_url": "https://ai.feishu.cn/docx/AGLWd4DkfoVZL9xH2eHcL2Z3n0b",
+                "start": 0,
+                "url": "https://t.co/gcIRw98xgm"
+              }
+            ]
+          }
+        },
+        "id": "2702565277",
+        "location": "义乌市【微信：OLDAN2026】",
+        "name": "暗网推手【专注出海项目】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/819759347223777280/Y4Jv3Y3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 399,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/gcIRw98xgm",
+        "username": "______05___",
+        "verified": false
+      }
+    ]
+  }
+}

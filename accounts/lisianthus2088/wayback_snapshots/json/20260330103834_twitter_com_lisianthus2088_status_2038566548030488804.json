@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038539802870763821",
+    "created_at": "2026-03-30T10:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038566548030488804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926286386342100992",
+          "start": 0,
+          "username": "NinanH45074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038566548030488804",
+    "in_reply_to_user_id": "1926286386342100992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038565689217163419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NinanH45074 收一个关门弟子只教关门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T10:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038566548030488804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926286386342100992",
+              "start": 0,
+              "username": "NinanH45074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038566548030488804",
+        "in_reply_to_user_id": "1926286386342100992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038565689217163419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NinanH45074 收一个关门弟子只教关门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926286386342100992",
+        "conversation_id": "2038539802870763821",
+        "created_at": "2026-03-30T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038565689217163419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038565689217163419",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038563620175663418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 就是发不出来才需要拜师口牙！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 107,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 670
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T14:38:19.000Z",
+        "description": "本人是超级恶臭下头男。此外，本账号发的推文全是负能量。",
+        "id": "1926286386342100992",
+        "name": "ninan hh",
+        "pinned_tweet_id": "2037936835209408515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926286646527262720/T-cNNFsB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "NinanH45074",
+        "verified": false
+      }
+    ]
+  }
+}

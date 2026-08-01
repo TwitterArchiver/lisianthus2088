@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038763720760021362",
+    "created_at": "2026-03-31T01:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038786024407724304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1057668616408064001",
+          "start": 0,
+          "username": "HK416ABC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038786024407724304",
+    "in_reply_to_user_id": "1057668616408064001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038782804360880380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HK416ABC 我好像收不到真人消息，好奇怪等我再研究研究"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038763720760021362",
+        "created_at": "2026-03-31T01:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038786024407724304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1057668616408064001",
+              "start": 0,
+              "username": "HK416ABC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038786024407724304",
+        "in_reply_to_user_id": "1057668616408064001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038782804360880380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HK416ABC 我好像收不到真人消息，好奇怪等我再研究研究"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057668616408064001",
+        "conversation_id": "2038763720760021362",
+        "created_at": "2026-03-31T00:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038782804360880380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038782804360880380",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038763720760021362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我来我来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 110,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 710
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 659,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 977
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

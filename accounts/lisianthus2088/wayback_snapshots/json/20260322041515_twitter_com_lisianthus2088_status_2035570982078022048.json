@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2035364028432990420",
+    "created_at": "2026-03-22T04:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035570982078022048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998411269679042560",
+          "start": 0,
+          "username": "NiZhang91942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035570982078022048",
+    "in_reply_to_user_id": "1998411269679042560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035568786229907596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiZhang91942 好可惜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2035364028432990420",
+        "created_at": "2026-03-22T04:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035570982078022048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998411269679042560",
+              "start": 0,
+              "username": "NiZhang91942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035570982078022048",
+        "in_reply_to_user_id": "1998411269679042560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035568786229907596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiZhang91942 好可惜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998411269679042560",
+        "conversation_id": "2035364028432990420",
+        "created_at": "2026-03-22T04:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035568786229907596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035568786229907596",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035364028432990420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 是这样的感觉。。。不过我倒是成功让我前男友会讲dt凶我打我让我爽一下了😋可惜的是好不容易调好了后来分手了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo/连赞=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 48,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 169
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T15:16:51.000Z",
+        "description": "",
+        "id": "1998411269679042560",
+        "name": "急急吉吉娃娃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998615204335386624/aQV4xoah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 21,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "NiZhang91942",
+        "verified": false
+      }
+    ]
+  }
+}

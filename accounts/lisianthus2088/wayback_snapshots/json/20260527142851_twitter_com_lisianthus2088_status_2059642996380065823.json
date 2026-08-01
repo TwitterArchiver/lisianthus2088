@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059209827201794048"
+      ],
+      "media_source_tweet_id": [
+        "2059209836659896489"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2059642996380065823",
+    "created_at": "2026-05-27T14:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059642996380065823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029257641579720704",
+          "start": 3,
+          "username": "cangshu_king"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZ9SWVXH8k",
+          "end": 41,
+          "expanded_url": "https://x.com/cangshu_king/status/2059209836659896489/photo/1",
+          "media_key": "3_2059209827201794048",
+          "start": 18,
+          "url": "https://t.co/EZ9SWVXH8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059642996380065823",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059209836659896489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cangshu_king: https://t.co/EZ9SWVXH8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2059209827201794048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPIbXxbQAAlXaw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059209827201794048"
+          ],
+          "media_source_tweet_id": [
+            "2059209836659896489"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2059642996380065823",
+        "created_at": "2026-05-27T14:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059642996380065823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029257641579720704",
+              "start": 3,
+              "username": "cangshu_king"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZ9SWVXH8k",
+              "end": 41,
+              "expanded_url": "https://x.com/cangshu_king/status/2059209836659896489/photo/1",
+              "media_key": "3_2059209827201794048",
+              "start": 18,
+              "url": "https://t.co/EZ9SWVXH8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059642996380065823",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059209836659896489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cangshu_king: https://t.co/EZ9SWVXH8k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059209827201794048"
+          ]
+        },
+        "author_id": "2029257641579720704",
+        "conversation_id": "2059209836659896489",
+        "created_at": "2026-05-26T09:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059209836659896489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZ9SWVXH8k",
+              "end": 23,
+              "expanded_url": "https://x.com/cangshu_king/status/2059209836659896489/photo/1",
+              "media_key": "3_2059209827201794048",
+              "start": 0,
+              "url": "https://t.co/EZ9SWVXH8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059209836659896489",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19158,
+          "like_count": 1188,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EZ9SWVXH8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2988,
+          "following_count": 87,
+          "like_count": 4103,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T18:08:29.000Z",
+        "description": "1i=3i=4i switch\n千千万万 明心见己\n别给我发私信想加我微信就给我转五千",
+        "id": "2029257641579720704",
+        "name": "无敌仓鼠大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043307335834337280/ppulwC98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 13,
+          "like_count": 1697,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 662
+        },
+        "username": "cangshu_king",
+        "verified": false
+      }
+    ]
+  }
+}

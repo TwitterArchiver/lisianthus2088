@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058807153255956717",
+    "created_at": "2026-05-25T07:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058807153255956717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640845387077664768",
+          "start": 3,
+          "username": "MMACBJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058807153255956717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058534715154649427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MMACBJL: 真正性进步不应该是小玩具的普及、性需求的公开讨论 而是要把性与心轮连接上 性应该是很神圣的一场真正的做爱是有关两性神圣合一的探讨与并不亲密的人进行如此亲密又神圣的仪式 就像人们用酒精香烟掩盖真实的灵性空虚一样 空泛的性行为带来的生理的刺激只会拖慢这颗星…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058807153255956717",
+        "created_at": "2026-05-25T07:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058807153255956717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640845387077664768",
+              "start": 3,
+              "username": "MMACBJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058807153255956717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058534715154649427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MMACBJL: 真正性进步不应该是小玩具的普及、性需求的公开讨论 而是要把性与心轮连接上 性应该是很神圣的一场真正的做爱是有关两性神圣合一的探讨与并不亲密的人进行如此亲密又神圣的仪式 就像人们用酒精香烟掩盖真实的灵性空虚一样 空泛的性行为带来的生理的刺激只会拖慢这颗星…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640845387077664768",
+        "conversation_id": "2058534715154649427",
+        "created_at": "2026-05-24T13:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058534715154649427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058534715154649427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4757,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真正性进步不应该是小玩具的普及、性需求的公开讨论 而是要把性与心轮连接上 性应该是很神圣的一场真正的做爱是有关两性神圣合一的探讨与并不亲密的人进行如此亲密又神圣的仪式 就像人们用酒精香烟掩盖真实的灵性空虚一样 空泛的性行为带来的生理的刺激只会拖慢这颗星球男女真正开始相爱的进程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 87,
+          "like_count": 4085,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T22:36:51.000Z",
+        "description": "我开心就好",
+        "id": "1640845387077664768",
+        "name": "RubyM",
+        "pinned_tweet_id": "2009168791100633243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999454619311964162/UXM6x45p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6239,
+          "following_count": 7,
+          "like_count": 348,
+          "listed_count": 23,
+          "media_count": 131,
+          "tweet_count": 331
+        },
+        "username": "MMACBJL",
+        "verified": false
+      }
+    ]
+  }
+}

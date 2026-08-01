@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2064154701508280431",
+    "created_at": "2026-06-09T01:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064154701508280431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807484227212218368",
+          "start": 3,
+          "username": "zhujin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064154701508280431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064070977001230835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhujin2333: 我真的遇到了很多刚认识我就说喜欢我说得天花乱坠的人，觉得自己早就不信这些了，但是每次有人说喜欢我的时候我还是会当真，很快发现是假喜欢以后又要开始安慰自己半天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2064154701508280431",
+        "created_at": "2026-06-09T01:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064154701508280431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807484227212218368",
+              "start": 3,
+              "username": "zhujin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064154701508280431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064070977001230835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhujin2333: 我真的遇到了很多刚认识我就说喜欢我说得天花乱坠的人，觉得自己早就不信这些了，但是每次有人说喜欢我的时候我还是会当真，很快发现是假喜欢以后又要开始安慰自己半天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807484227212218368",
+        "conversation_id": "2064070977001230835",
+        "created_at": "2026-06-08T19:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064070977001230835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064070977001230835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的遇到了很多刚认识我就说喜欢我说得天花乱坠的人，觉得自己早就不信这些了，但是每次有人说喜欢我的时候我还是会当真，很快发现是假喜欢以后又要开始安慰自己半天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2040057979488366718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 84,
+          "like_count": 4106,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T18:40:45.000Z",
+        "description": "没有🚪，投喂加v金额不限。",
+        "id": "1807484227212218368",
+        "location": "福建",
+        "name": "锦锦（相亲版）",
+        "pinned_tweet_id": "1899112786489454942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043636600178106368/036Xqo9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16346,
+          "following_count": 34,
+          "like_count": 188,
+          "listed_count": 37,
+          "media_count": 50,
+          "tweet_count": 4684
+        },
+        "username": "zhujin2333",
+        "verified": false
+      }
+    ]
+  }
+}

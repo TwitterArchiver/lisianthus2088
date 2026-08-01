@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065807307326529843",
+    "created_at": "2026-06-19T15:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067988237977821551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1649366393278586881",
+          "start": 0,
+          "username": "marx_dontcare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067988237977821551",
+    "in_reply_to_user_id": "1649366393278586881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067930822724751468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marx_dontcare 嘿嘿有新衣服就更"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065807307326529843",
+        "created_at": "2026-06-19T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067988237977821551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1649366393278586881",
+              "start": 0,
+              "username": "marx_dontcare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067988237977821551",
+        "in_reply_to_user_id": "1649366393278586881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067930822724751468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marx_dontcare 嘿嘿有新衣服就更"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649366393278586881",
+        "conversation_id": "2065807307326529843",
+        "created_at": "2026-06-19T11:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067930822724751468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930822724751468",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065807307326529843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 多更喜欢看主播穿漂亮小裙子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 88,
+          "like_count": 4405,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:56:15.000Z",
+        "description": "人人生而平等\n@PKU1898 装货把我offer发来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1649366393278586881",
+        "name": "NicoNavier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984131358717886464/68MdkDWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 407,
+          "like_count": 37807,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 2319
+        },
+        "url": "",
+        "username": "marx_dontcare",
+        "verified": false
+      }
+    ]
+  }
+}

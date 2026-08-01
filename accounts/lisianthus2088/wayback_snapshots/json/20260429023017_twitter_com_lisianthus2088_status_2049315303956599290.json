@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048979856999010655",
+    "created_at": "2026-04-29T02:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049315303956599290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1954709144428261376",
+          "start": 0,
+          "username": "ds2504706314800"
+        },
+        {
+          "end": 31,
+          "id": "1610289819053330432",
+          "start": 17,
+          "username": "water_life147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049315303956599290",
+    "in_reply_to_user_id": "1954709144428261376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049189914810470774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ds2504706314800 @water_life147 我要笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048979856999010655",
+        "created_at": "2026-04-29T02:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049315303956599290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1954709144428261376",
+              "start": 0,
+              "username": "ds2504706314800"
+            },
+            {
+              "end": 31,
+              "id": "1610289819053330432",
+              "start": 17,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049315303956599290",
+        "in_reply_to_user_id": "1954709144428261376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049189914810470774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ds2504706314800 @water_life147 我要笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954709144428261376",
+        "conversation_id": "2048979856999010655",
+        "created_at": "2026-04-28T18:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049189914810470774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049189914810470774",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1920,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048979856999010655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_life147 纸包鸡这个词到底是谁发明的 可给某些馋逼找到好词了 吭哧吭哧给自己肚子吃成个牛蛋大 体脂率爆表肌肉含量为0硬说自己是纸包鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 99,
+          "like_count": 3397,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T00:59:25.000Z",
+        "description": "",
+        "id": "1954709144428261376",
+        "location": "Japantown, San Francisco",
+        "name": "打死恶心货",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037765902280912896/_0e_GP3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 41,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "ds2504706314800",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "每天发表一些暴论希望能通通实现，🚪520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=FH9bwaSK",
+                "start": 0,
+                "url": "https://t.co/b8VVSKDH85"
+              }
+            ]
+          }
+        },
+        "id": "1610289819053330432",
+        "location": "自用梯 ",
+        "name": "陨石坑",
+        "pinned_tweet_id": "2010789039281225885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020514563524079616/NBsFX9jw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7854,
+          "following_count": 157,
+          "like_count": 10282,
+          "listed_count": 19,
+          "media_count": 1701,
+          "tweet_count": 18834
+        },
+        "url": "https://t.co/b8VVSKDH85",
+        "username": "water_life147",
+        "verified": false
+      }
+    ]
+  }
+}

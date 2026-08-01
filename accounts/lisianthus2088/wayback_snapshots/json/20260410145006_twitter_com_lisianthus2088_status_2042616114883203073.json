@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2042596594814718394",
+    "created_at": "2026-04-10T14:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042616114883203073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707825450532352000",
+          "start": 0,
+          "username": "xiayezileaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042616114883203073",
+    "in_reply_to_user_id": "1707825450532352000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042616022205886632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiayezileaf 并非首发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2042596594814718394",
+        "created_at": "2026-04-10T14:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042616114883203073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707825450532352000",
+              "start": 0,
+              "username": "xiayezileaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042616114883203073",
+        "in_reply_to_user_id": "1707825450532352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042616022205886632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiayezileaf 并非首发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707825450532352000",
+        "conversation_id": "2042596594814718394",
+        "created_at": "2026-04-10T14:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042616022205886632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042616022205886632",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596594814718394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我去，震撼首发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女|| 碎碎念很多 移步媒体＝纯享版 ||失踪就是梯子掉了",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 117,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1165
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T18:31:53.000Z",
+        "description": "可以一起打游戏吗（ps:玩电脑）\n单纯无聊刷推，感觉有意思，主国内平台\n翻墙是为了看h，还有好看的cos，等等\n还有，我只是个打游戏，看动漫的普通宅男，不要骂我，说不定我人还不错呢",
+        "id": "1707825450532352000",
+        "name": "夏叶子57",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002347393354747904/60GCFV6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 140,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 508
+        },
+        "username": "xiayezileaf",
+        "verified": false
+      }
+    ]
+  }
+}

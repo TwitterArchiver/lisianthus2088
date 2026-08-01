@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058839742083690721",
+    "created_at": "2026-05-25T10:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058855152518660366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016817355968638976",
+          "start": 0,
+          "username": "yueming937134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058855152518660366",
+    "in_reply_to_user_id": "2016817355968638976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058839742083690721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueming937134 抡死我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058839726531194880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ30rVasAAVLRt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058839742083690721",
+        "created_at": "2026-05-25T10:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058855152518660366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016817355968638976",
+              "start": 0,
+              "username": "yueming937134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058855152518660366",
+        "in_reply_to_user_id": "2016817355968638976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058839742083690721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueming937134 抡死我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058839726531194880"
+          ]
+        },
+        "author_id": "2016817355968638976",
+        "conversation_id": "2058839742083690721",
+        "created_at": "2026-05-25T09:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058839742083690721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ7KJ6qESX",
+              "end": 52,
+              "expanded_url": "https://x.com/yueming937134/status/2058839742083690721/photo/1",
+              "media_key": "3_2058839726531194880",
+              "start": 29,
+              "url": "https://t.co/yJ7KJ6qESX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058839742083690721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1080,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不练手臂的话，肩膀看起来就会很大。几乎没有单独练过手臂😋 https://t.co/yJ7KJ6qESX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 87,
+          "like_count": 4088,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T10:15:13.000Z",
+        "description": "直男，纯直男｜因为不想发朋友圈，就用这个发了｜喜欢小猫小狗｜匿名提问↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yueming937134",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yueming937134",
+                "start": 0,
+                "url": "https://t.co/rAy7MfPZLo"
+              }
+            ]
+          }
+        },
+        "id": "2016817355968638976",
+        "location": "不+v",
+        "name": "曾有风眠于雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040847308431224832/5x680Xvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 53,
+          "like_count": 2123,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 934
+        },
+        "url": "https://t.co/rAy7MfPZLo",
+        "username": "yueming937134",
+        "verified": false
+      }
+    ]
+  }
+}

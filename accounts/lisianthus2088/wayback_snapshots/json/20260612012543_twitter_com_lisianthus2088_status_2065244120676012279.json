@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2064730396689055998",
+    "created_at": "2026-06-12T01:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065244120676012279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2062567003819274240",
+          "start": 0,
+          "username": "f0203wsm"
+        },
+        {
+          "end": 21,
+          "id": "2009298197106315266",
+          "start": 10,
+          "username": "smallJBovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065244120676012279",
+    "in_reply_to_user_id": "2062567003819274240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065108206620233946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f0203wsm @smallJBovo 这个我更是看都不敢看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2064730396689055998",
+        "created_at": "2026-06-12T01:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065244120676012279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2062567003819274240",
+              "start": 0,
+              "username": "f0203wsm"
+            },
+            {
+              "end": 21,
+              "id": "2009298197106315266",
+              "start": 10,
+              "username": "smallJBovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065244120676012279",
+        "in_reply_to_user_id": "2062567003819274240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065108206620233946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f0203wsm @smallJBovo 这个我更是看都不敢看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062567003819274240",
+        "conversation_id": "2064730396689055998",
+        "created_at": "2026-06-11T16:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065108206620233946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            },
+            {
+              "end": 27,
+              "id": "2009298197106315266",
+              "start": 16,
+              "username": "smallJBovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065108206620233946",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064908934667026924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 @smallJBovo 还有vx视频号，里面恶臭蝻更多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 85,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T16:08:22.000Z",
+        "description": "🈚",
+        "id": "2062567003819274240",
+        "name": "pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062570815971868672/ldnqERcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "f0203wsm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T16:16:47.000Z",
+        "description": "᳐₌ᗜ ֊ ᗜ₌ ᳐",
+        "id": "2009298197106315266",
+        "location": "🚪520",
+        "name": "小叽",
+        "pinned_tweet_id": "2053838665059819791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054528010783772673/PFblWfih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 7,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 331
+        },
+        "username": "smallJBovo",
+        "verified": false
+      }
+    ]
+  }
+}

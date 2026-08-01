@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065762556653027433",
+    "created_at": "2026-06-13T14:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065807060105839066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065807060105839066",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065762556653027433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 赔钱。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26167,
+        "height": 720,
+        "media_key": "13_2062867562233536512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062867562233536512/img/IQQvjIpY-GS2WnVV.jpg",
+        "public_metrics": {
+          "view_count": 1806
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867562233536512/vid/avc1/480x270/DsmtLkIMPuZTycDt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867562233536512/vid/avc1/640x360/Bpfg2mOSLo_G_UpC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867562233536512/vid/avc1/1280x720/xy6KShstcmjtRYm2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062867562233536512/pl/euSsH0LMgvE5nkvo.m3u8?v=2d4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065762556653027433",
+        "created_at": "2026-06-13T14:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065807060105839066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065807060105839066",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065762556653027433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 赔钱。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062867562233536512"
+          ],
+          "media_source_tweet_id": [
+            "2062867635180904462"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "conversation_id": "2065762556653027433",
+        "created_at": "2026-06-13T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065762556653027433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/36QkWKJmQG",
+              "end": 23,
+              "expanded_url": "https://x.com/ccc05wi/status/2062867635180904462/video/1",
+              "media_key": "13_2062867562233536512",
+              "start": 0,
+              "url": "https://t.co/36QkWKJmQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065762556653027433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 516,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/36QkWKJmQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 84,
+          "like_count": 4261,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东@xxxLim0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "xxxLim0"
+              }
+            ]
+          }
+        },
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059561525682286592/nx12v6TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3272,
+          "following_count": 214,
+          "like_count": 35567,
+          "listed_count": 9,
+          "media_count": 596,
+          "tweet_count": 7462
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

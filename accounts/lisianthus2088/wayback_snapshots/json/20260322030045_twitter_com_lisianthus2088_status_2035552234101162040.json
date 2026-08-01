@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2034859090422505758",
+    "created_at": "2026-03-22T03:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035552234101162040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010956116495384578",
+          "start": 0,
+          "username": "biublenews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035552234101162040",
+    "in_reply_to_user_id": "2010956116495384578",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035549941347889365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biublenews (៸៸᳐⦁⩊⦁៸៸᳐ )੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-22T03:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035552234101162040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010956116495384578",
+              "start": 0,
+              "username": "biublenews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035552234101162040",
+        "in_reply_to_user_id": "2010956116495384578",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035549941347889365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biublenews (៸៸᳐⦁⩊⦁៸៸᳐ )੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010956116495384578",
+        "conversation_id": "2034859090422505758",
+        "created_at": "2026-03-22T02:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035549941347889365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035549941347889365",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859090422505758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 怎么可能宝贝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "互po聊天请找我ᗜ 𖥦 ᗜ |\n纯绿纯绿纯绿 | 单fo=我想找你玩但是不好意思 | 想互fo可以私，其余看眼缘 | 没及时回就是梯子掉了",
+        "id": "1992095465559715840",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2034999537975402578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034612145099616256/Tajh26yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 48,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 165
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T06:04:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "…9pyznc.public.blob.vercel-storage.com/primal%20race.…",
+                "end": 23,
+                "expanded_url": "https://xj2vrrpw4b9pyznc.public.blob.vercel-storage.com/primal%20race.pdf",
+                "start": 0,
+                "url": "https://t.co/qpfUwyZ6wZ"
+              }
+            ]
+          }
+        },
+        "id": "2010956116495384578",
+        "name": "Yang",
+        "pinned_tweet_id": "2032403730985844796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010956157842849792/LvstH83b_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 50,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/qpfUwyZ6wZ",
+        "username": "biublenews",
+        "verified": false
+      }
+    ]
+  }
+}

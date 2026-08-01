@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2038267583536013355",
+    "created_at": "2026-03-30T10:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038562083034616060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1483135624668459015",
+          "start": 0,
+          "username": "DurianOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038562083034616060",
+    "in_reply_to_user_id": "1483135624668459015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038560336543191048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurianOwO 谢谢你！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2038560315949121536",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEprzn1bAAA-y3B.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEprzn1bAAA-y3B.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-30T10:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038562083034616060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1483135624668459015",
+              "start": 0,
+              "username": "DurianOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038562083034616060",
+        "in_reply_to_user_id": "1483135624668459015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038560336543191048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurianOwO 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2038560315949121536"
+          ]
+        },
+        "author_id": "1483135624668459015",
+        "conversation_id": "2038267583536013355",
+        "created_at": "2026-03-30T10:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038560336543191048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmhFII8amc",
+              "end": 45,
+              "expanded_url": "https://x.com/DurianOwO/status/2038560336543191048/photo/1",
+              "media_key": "16_2038560315949121536",
+              "start": 22,
+              "url": "https://t.co/vmhFII8amc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038560336543191048",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038267583536013355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 宝宝好美😭 https://t.co/vmhFII8amc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "二次元理工宅女ᗜ 𖥦 ᗜ || 双相中焦/oc/同人厨 || 碎碎念很多 || 跟我互动会随机连赞 || 查成分看眼缘互fo，小女孩也可以找我交友ꪔ̤̫",
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2036078236795547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059294416494592/lwy7AHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 106,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 662
+        },
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T17:54:33.000Z",
+        "description": "男生♂/ 05/infp/学生/玩x的主要目的是看涩涩和交朋友（虽然没什么人加我就是了）/臭打战争雷霆、CS的/低情商⚠️ 社恐⚠️",
+        "id": "1483135624668459015",
+        "location": "Guangdong",
+        "name": "榴莲",
+        "pinned_tweet_id": "1884277168362111055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991700688137777161/l7fuheYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 2464,
+          "like_count": 9843,
+          "listed_count": 1,
+          "media_count": 642,
+          "tweet_count": 5013
+        },
+        "username": "DurianOwO",
+        "verified": false
+      }
+    ]
+  }
+}

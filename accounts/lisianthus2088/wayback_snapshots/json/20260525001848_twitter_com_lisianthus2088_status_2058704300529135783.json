@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2058704300529135783",
+    "created_at": "2026-05-25T00:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058704300529135783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/firework1209/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/firework1209/status/2058549243342880803",
+          "start": 15,
+          "url": "https://t.co/ichk6U8GII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058704300529135783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058549243342880803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的提问箱堪比暗网你们知道吗 https://t.co/ichk6U8GII"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058704300529135783",
+        "created_at": "2026-05-25T00:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058704300529135783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/firework1209/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/firework1209/status/2058549243342880803",
+              "start": 15,
+              "url": "https://t.co/ichk6U8GII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058704300529135783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058549243342880803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的提问箱堪比暗网你们知道吗 https://t.co/ichk6U8GII"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724382058921807872",
+        "conversation_id": "2058549243342880803",
+        "created_at": "2026-05-24T14:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058549243342880803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058549243342880803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 51526,
+          "like_count": 1655,
+          "quote_count": 23,
+          "reply_count": 119,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "呃可以说吗我每次看到男博主读提问箱都会很嫉妒，因为他们的提问箱很干净没有骚扰信息而且能收到很多提问，好奇是一种珍贵的情绪呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 86,
+          "like_count": 4068,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T11:01:47.000Z",
+        "description": "银鞍白马度春风｜ 想找我请漂流瓶见https://t.co/EiUThAwE4z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ttoast",
+                "end": 40,
+                "expanded_url": "https://ngl.link/ttoast",
+                "start": 17,
+                "url": "https://t.co/EiUThAwE4z"
+              }
+            ]
+          }
+        },
+        "id": "1724382058921807872",
+        "location": "撒辣子 谢谢",
+        "name": "草原龙胆",
+        "pinned_tweet_id": "2023807263056818522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058602073827196928/utSNTfLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 148,
+          "like_count": 8961,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 2815
+        },
+        "username": "firework1209",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2048394882474295433",
+    "created_at": "2026-04-27T11:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048727542446846074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 27,
+          "id": "1963870046708772864",
+          "start": 15,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048727542446846074",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048483737089032627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @Yuriovo_qaq 有男的找你面基你又不乐意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2048394882474295433",
+        "created_at": "2026-04-27T11:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048727542446846074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 27,
+              "id": "1963870046708772864",
+              "start": 15,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048727542446846074",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048483737089032627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @Yuriovo_qaq 有男的找你面基你又不乐意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048394882474295433",
+        "created_at": "2026-04-26T19:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048483737089032627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048483737089032627",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048394882474295433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 为什么这么多人跟你面基？为什么我粉丝比你多但是没人跟我玩？就因为我是男的吗？这不公平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 99,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1545
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 278,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "此恨绵绵无绝期",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjx4ve"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "location": "私信骚扰我的你全家死光",
+        "name": "梦中的玉米五彩斑斓",
+        "pinned_tweet_id": "2031258655442743714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046046910600122368/UWWMZIjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 114,
+          "like_count": 3575,
+          "listed_count": 0,
+          "media_count": 811,
+          "tweet_count": 6261
+        },
+        "url": "https://t.co/2tAedjx4ve",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

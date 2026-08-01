@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2074501691265962308",
+    "created_at": "2026-07-07T14:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074501691265962308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lisianthus2088…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/lisianthus2088/status/2074423932258771342",
+          "start": 11,
+          "url": "https://t.co/BrvXzAJhf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074501691265962308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074423932258771342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有人品鉴我的新耳机 https://t.co/BrvXzAJhf3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2074423929050189824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnVkpybUAA3ed8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2074501691265962308",
+        "created_at": "2026-07-07T14:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074501691265962308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lisianthus2088…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/lisianthus2088/status/2074423932258771342",
+              "start": 11,
+              "url": "https://t.co/BrvXzAJhf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074501691265962308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074423932258771342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人品鉴我的新耳机 https://t.co/BrvXzAJhf3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074423929050189824"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2074423932258771342",
+        "created_at": "2026-07-07T09:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074423932258771342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVPjv2ntfe",
+              "end": 23,
+              "expanded_url": "https://x.com/lisianthus2088/status/2074423932258771342/photo/1",
+              "media_key": "3_2074423929050189824",
+              "start": 0,
+              "url": "https://t.co/GVPjv2ntfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074423932258771342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 659,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GVPjv2ntfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 86,
+          "like_count": 4386,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

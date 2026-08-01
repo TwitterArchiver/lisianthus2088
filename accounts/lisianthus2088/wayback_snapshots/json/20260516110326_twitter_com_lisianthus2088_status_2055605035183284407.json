@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2055605035183284407",
+    "created_at": "2026-05-16T11:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055605035183284407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1985353024244793345",
+          "start": 3,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055605035183284407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055597000624898511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitterpearlbird: 你们5月20号送的蛋糕可以别下药吗去年在垃圾桶里捡到吃完身体热热的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2055605035183284407",
+        "created_at": "2026-05-16T11:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055605035183284407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1985353024244793345",
+              "start": 3,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055605035183284407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055597000624898511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitterpearlbird: 你们5月20号送的蛋糕可以别下药吗去年在垃圾桶里捡到吃完身体热热的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985353024244793345",
+        "conversation_id": "2055597000624898511",
+        "created_at": "2026-05-16T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055597000624898511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055597000624898511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们5月20号送的蛋糕可以别下药吗去年在垃圾桶里捡到吃完身体热热的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 87,
+          "like_count": 4015,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv\n我的匿名信 https://t.co/cVOfxKUUbb\n和我玩好吗？爱你们。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chessiaya",
+                "end": 44,
+                "expanded_url": "https://ngl.link/chessiaya",
+                "start": 21,
+                "url": "https://t.co/cVOfxKUUbb"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "好友位88",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2050634646363189629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 433,
+          "like_count": 25261,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 2505
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

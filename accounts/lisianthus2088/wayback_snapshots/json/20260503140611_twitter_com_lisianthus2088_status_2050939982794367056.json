@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2050899660752212327",
+    "created_at": "2026-05-03T14:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050939982794367056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050134525414457345",
+          "start": 0,
+          "username": "the_raspberry_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050939982794367056",
+    "in_reply_to_user_id": "2050134525414457345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050930994698719644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the_raspberry_t 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2050899660752212327",
+        "created_at": "2026-05-03T14:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050939982794367056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050134525414457345",
+              "start": 0,
+              "username": "the_raspberry_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050939982794367056",
+        "in_reply_to_user_id": "2050134525414457345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050930994698719644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the_raspberry_t 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050134525414457345",
+        "conversation_id": "2050899660752212327",
+        "created_at": "2026-05-03T13:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050930994698719644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050930994698719644",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050899660752212327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我的妈呀宝宝你太漂亮了😭简直是洋娃娃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 101,
+          "like_count": 3487,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T08:54:37.000Z",
+        "description": "*此账号包括：碎碎念、暴论、生活照片等。欢迎礼貌的人聊天，但请做好被我视奸的准备。\n*本账号猫在经营，所有言论与本人无关。检测到有大胸男路过，我埋。再请把训练照发给我鉴赏一下。",
+        "id": "2050134525414457345",
+        "location": "on the moon",
+        "name": "红莓黑加仑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137726092222465/FRCIIYEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "the_raspberry_t",
+        "verified": false
+      }
+    ]
+  }
+}

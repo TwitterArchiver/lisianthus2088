@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2065844683482501171",
+    "created_at": "2026-06-14T02:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065979832975171796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "895650217676034048",
+          "start": 0,
+          "username": "ayashikinoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065979832975171796",
+    "in_reply_to_user_id": "895650217676034048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065844683482501171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayashikinoco 个人感觉如果双方都不找新对象的话怎么样都无所谓啊，如果找了还联系就滚滚滚吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2065844683482501171",
+        "created_at": "2026-06-14T02:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065979832975171796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "895650217676034048",
+              "start": 0,
+              "username": "ayashikinoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065979832975171796",
+        "in_reply_to_user_id": "895650217676034048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065844683482501171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayashikinoco 个人感觉如果双方都不找新对象的话怎么样都无所谓啊，如果找了还联系就滚滚滚吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895650217676034048",
+        "conversation_id": "2065844683482501171",
+        "created_at": "2026-06-13T17:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065844683482501171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065844683482501171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3350,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇 大家和前任的边际是什么样的🤔 我需要评估我对人际关系坐标是不是出现了左或者右的问题？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 84,
+          "like_count": 4309,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-10T14:17:07.000Z",
+        "description": "投资反向标 给我10u我第一时间告诉你我买了哪些股票方便你减仓 这是我cp @N0rthern_Land",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "895650217676034048",
+        "name": "可疑的小蘑菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063220332207751168/lBf8O3DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15031,
+          "following_count": 310,
+          "like_count": 5012,
+          "listed_count": 77,
+          "media_count": 160,
+          "tweet_count": 3573
+        },
+        "username": "ayashikinoco",
+        "verified": false
+      }
+    ]
+  }
+}

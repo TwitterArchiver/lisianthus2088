@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2067783331517993220",
+    "created_at": "2026-06-19T01:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067783331517993220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1897782396994699267",
+          "start": 3,
+          "username": "mahcherrys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067783331517993220",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5529
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063720218048725267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahcherrys: pq ta todo mundo achando que eu odeio homens, gente não é assim eu só odeio alguns:\n\npedófilos\nestupradores\nmachistas\nracis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2067783331517993220",
+        "created_at": "2026-06-19T01:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067783331517993220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1897782396994699267",
+              "start": 3,
+              "username": "mahcherrys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067783331517993220",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5529
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063720218048725267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahcherrys: pq ta todo mundo achando que eu odeio homens, gente não é assim eu só odeio alguns:\n\npedófilos\nestupradores\nmachistas\nracis…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897782396994699267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          }
+        ],
+        "conversation_id": "2063720218048725267",
+        "created_at": "2026-06-07T20:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063720218048725267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063720218048725267",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 465,
+          "impression_count": 195034,
+          "like_count": 24382,
+          "quote_count": 49,
+          "reply_count": 149,
+          "retweet_count": 5529
+        },
+        "reply_settings": "everyone",
+        "text": "pq ta todo mundo achando que eu odeio homens, gente não é assim eu só odeio alguns:\n\npedófilos\nestupradores\nmachistas\nracistas\nhomofóbicos\nque agridem outras pessoas\na favor do bolsonaro (ou o flavio rachadinha)\nNazis\nEtc\n\nse vc n se encaixa nisso eu não te odeio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 87,
+          "like_count": 4397,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T22:52:59.000Z",
+        "description": "𝑫𝒊𝒓𝒆𝒊𝒕𝒐 ─────────────────────────────     𝐟𝐞𝐦𝐢𝐧𝐢𝐬𝐭𝐚 𝐢𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐜𝐢𝐨𝐧𝐚𝐥 𝐧𝐞𝐠𝐫𝐚                        FCK NZS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mahcherrys?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mahcherrys?igsh=MWI3Mzlta2E3ejBmMg==",
+                "start": 0,
+                "url": "https://t.co/aGGKoIBmfQ"
+              }
+            ]
+          }
+        },
+        "id": "1897782396994699267",
+        "location": "ela/dela",
+        "name": "Mah🍒 Ⓐ⋆˚ ⁷",
+        "pinned_tweet_id": "2036550036050313487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042436526252949504/CfgN_ySC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11886,
+          "following_count": 7080,
+          "like_count": 7018,
+          "listed_count": 48,
+          "media_count": 2072,
+          "tweet_count": 25709
+        },
+        "url": "https://t.co/aGGKoIBmfQ",
+        "username": "mahcherrys",
+        "verified": true
+      }
+    ]
+  }
+}

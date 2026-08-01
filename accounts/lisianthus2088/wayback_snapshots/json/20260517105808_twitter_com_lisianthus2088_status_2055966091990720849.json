@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055966088408772608",
+        "3_2055966089306427392"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2055966091990720849",
+    "created_at": "2026-05-17T10:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055966091990720849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k7OPCS0JTT",
+          "end": 48,
+          "expanded_url": "https://x.com/lisianthus2088/status/2055966091990720849/photo/1",
+          "media_key": "3_2055966088408772608",
+          "start": 25,
+          "url": "https://t.co/k7OPCS0JTT"
+        },
+        {
+          "display_url": "pic.x.com/k7OPCS0JTT",
+          "end": 48,
+          "expanded_url": "https://x.com/lisianthus2088/status/2055966091990720849/photo/1",
+          "media_key": "3_2055966089306427392",
+          "start": 25,
+          "url": "https://t.co/k7OPCS0JTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055966091990720849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OK已经帮你宣传了，希望你喜欢我精心挑选的骚扰男 https://t.co/k7OPCS0JTT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2055966088408772608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhCQ7HasAAaRyq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055966089306427392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhCQ-db0AAVQzv.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055966088408772608",
+            "3_2055966089306427392"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2055966091990720849",
+        "created_at": "2026-05-17T10:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055966091990720849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7OPCS0JTT",
+              "end": 48,
+              "expanded_url": "https://x.com/lisianthus2088/status/2055966091990720849/photo/1",
+              "media_key": "3_2055966088408772608",
+              "start": 25,
+              "url": "https://t.co/k7OPCS0JTT"
+            },
+            {
+              "display_url": "pic.x.com/k7OPCS0JTT",
+              "end": 48,
+              "expanded_url": "https://x.com/lisianthus2088/status/2055966091990720849/photo/1",
+              "media_key": "3_2055966089306427392",
+              "start": 25,
+              "url": "https://t.co/k7OPCS0JTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966091990720849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK已经帮你宣传了，希望你喜欢我精心挑选的骚扰男 https://t.co/k7OPCS0JTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 86,
+          "like_count": 4023,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

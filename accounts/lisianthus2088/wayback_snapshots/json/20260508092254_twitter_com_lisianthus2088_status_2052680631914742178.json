@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052375780009853053",
+    "created_at": "2026-05-08T09:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052680631914742178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711977842886782976",
+          "start": 0,
+          "username": "Ryan90398497315"
+        },
+        {
+          "end": 30,
+          "id": "2050870146525466624",
+          "start": 17,
+          "username": "ri__ko__1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052680631914742178",
+    "in_reply_to_user_id": "1711977842886782976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052630997045502151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryan90398497315 @ri__ko__1119 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052375780009853053",
+        "created_at": "2026-05-08T09:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052680631914742178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711977842886782976",
+              "start": 0,
+              "username": "Ryan90398497315"
+            },
+            {
+              "end": 30,
+              "id": "2050870146525466624",
+              "start": 17,
+              "username": "ri__ko__1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052680631914742178",
+        "in_reply_to_user_id": "1711977842886782976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052630997045502151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryan90398497315 @ri__ko__1119 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711977842886782976",
+        "conversation_id": "2052375780009853053",
+        "created_at": "2026-05-08T06:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052630997045502151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050870146525466624",
+              "start": 0,
+              "username": "ri__ko__1119"
+            },
+            {
+              "end": 29,
+              "id": "1992095465559715840",
+              "start": 14,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052630997045502151",
+        "in_reply_to_user_id": "2050870146525466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052630169404538906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri__ko__1119 @lisianthus2088 不会……我就这么可恶😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 97,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T05:31:47.000Z",
+        "description": "",
+        "id": "1711977842886782976",
+        "name": "Lili",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051680091902787584/39f7GbWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "username": "Ryan90398497315",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T09:30:19.000Z",
+        "description": "18歲的人兒",
+        "id": "2050870146525466624",
+        "location": "新北市",
+        "name": "璃栞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052372153123962880/fSAsVdoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 88
+        },
+        "username": "ri__ko__1119",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2052381024508936411",
+    "created_at": "2026-05-07T14:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052393101185139059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893030061848305665",
+          "start": 0,
+          "username": "Xyyyy_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052393101185139059",
+    "in_reply_to_user_id": "1893030061848305665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052381024508936411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xyyyy_0324 好难用真的好难用，我现在每次点开请求退出去就要重进，我已经不想回私信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2052381024508936411",
+        "created_at": "2026-05-07T14:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052393101185139059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893030061848305665",
+              "start": 0,
+              "username": "Xyyyy_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052393101185139059",
+        "in_reply_to_user_id": "1893030061848305665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052381024508936411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyyyy_0324 好难用真的好难用，我现在每次点开请求退出去就要重进，我已经不想回私信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893030061848305665",
+        "conversation_id": "2052381024508936411",
+        "created_at": "2026-05-07T13:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052381024508936411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052381024508936411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 305,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不知道那个私信界面改来改去到底要干什么。呃呃呃呃呃好多私信请求我都看不见 要么就是被挤掉了 可能没办法经常回复了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 97,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "08 🇯🇵本科艺留 可以叫我小氧^^我有恋哥癖。无🚪只加互关！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 87,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4807,
+          "following_count": 291,
+          "like_count": 7235,
+          "listed_count": 8,
+          "media_count": 312,
+          "tweet_count": 2925
+        },
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}
