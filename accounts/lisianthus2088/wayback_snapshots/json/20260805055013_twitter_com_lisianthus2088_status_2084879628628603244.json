@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2084637431752786062",
+    "created_at": "2026-08-05T05:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084879628628603244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvays8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084879628628603244",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084637431752786062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvays8964 感觉请顿贵一点的饭好一点，这种人好难送礼物送了也不一定看得上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2084637431752786062",
+        "created_at": "2026-08-05T05:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084879628628603244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvays8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084879628628603244",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084637431752786062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvays8964 感觉请顿贵一点的饭好一点，这种人好难送礼物送了也不一定看得上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2084637431752786062",
+        "created_at": "2026-08-04T13:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084637431752786062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084637431752786062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 59487,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 178,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友特别有钱，啥也不缺，但是我得给他买个礼物，我买啥啊。预算五百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "喜欢萌物 私信只回宠物/风景/食物照片分享 随缘回关  失踪就是梯子掉了  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 86,
+          "like_count": 4570,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 245,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1164
+        },
+        "url": "",
+        "username": "Alvvays8964",
+        "verified": false
+      }
+    ]
+  }
+}

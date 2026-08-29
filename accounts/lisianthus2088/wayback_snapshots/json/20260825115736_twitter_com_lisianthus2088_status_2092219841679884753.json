@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2091781919742763421",
+    "created_at": "2026-08-25T11:57:36.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092219841679884753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846596847324090368",
+          "start": 0,
+          "username": "ratratonigiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092219841679884753",
+    "in_reply_to_user_id": "1846596847324090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091781919742763421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratratonigiri 好萌好萌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091781919742763421].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091781919742763421",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091781919742763421"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2091781919742763421",
+        "created_at": "2026-08-25T11:57:36.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092219841679884753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846596847324090368",
+              "start": 0,
+              "username": "ratratonigiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092219841679884753",
+        "in_reply_to_user_id": "1846596847324090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091781919742763421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratratonigiri 好萌好萌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "私信只回宠物/风景/食物照片分享 随缘回关  失踪就是梯子掉了  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2092219841679884753",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 78,
+          "like_count": 4707,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2040
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-16T16:59:45.000Z",
+        "description": "拆解 研究 抒发 表达 接纳 探索\n爱与恨 幸福与痛苦\n都一样重要",
+        "id": "1846596847324090368",
+        "is_identity_verified": false,
+        "location": "十二星座决定你的仓鼠",
+        "most_recent_tweet_id": "2092171716642603455",
+        "name": "岸边的小恒星",
+        "pinned_tweet_id": "2049904973312626957",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076232586360446976/lyOMwg_1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 117,
+          "like_count": 7197,
+          "listed_count": 2,
+          "media_count": 1328,
+          "tweet_count": 8574
+        },
+        "url": "",
+        "username": "ratratonigiri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
