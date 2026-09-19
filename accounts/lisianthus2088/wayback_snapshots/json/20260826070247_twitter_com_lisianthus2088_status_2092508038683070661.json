@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2092261888688304458",
+    "created_at": "2026-08-26T07:02:47.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092508038683070661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687683090133778432",
+          "start": 0,
+          "username": "nonsense_778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092508038683070661",
+    "in_reply_to_user_id": "1687683090133778432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092261888688304458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsense_778 我不行了怎么还有调理效果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092261878529679360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk1F97aYAA-eKI.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092261878575824897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk1F-GagAEOlkK.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2092261888688304458",
+        "created_at": "2026-08-26T07:02:47.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092508038683070661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687683090133778432",
+              "start": 0,
+              "username": "nonsense_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092508038683070661",
+        "in_reply_to_user_id": "1687683090133778432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092261888688304458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsense_778 我不行了怎么还有调理效果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092261878529679360",
+            "3_2092261878575824897"
+          ]
+        },
+        "author_id": "1687683090133778432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092261888688304458",
+        "created_at": "2026-08-25T14:44:41.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092261888688304458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76jh4pqW2E",
+              "end": 155,
+              "expanded_url": "https://x.com/nonsense_778/status/2092261888688304458/photo/1",
+              "media_key": "3_2092261878529679360",
+              "start": 132,
+              "url": "https://t.co/76jh4pqW2E"
+            },
+            {
+              "display_url": "pic.x.com/76jh4pqW2E",
+              "end": 155,
+              "expanded_url": "https://x.com/nonsense_778/status/2092261888688304458/photo/1",
+              "media_key": "3_2092261878575824897",
+              "start": 132,
+              "url": "https://t.co/76jh4pqW2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092261888688304458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092261878529679360"
+          },
+          {
+            "media_key": "3_2092261878575824897"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 283209,
+          "like_count": 703,
+          "quote_count": 14,
+          "reply_count": 355,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "柯洁怎么帅成这样了。。我之前想测试自己智性恋程度的时候就会去看柯洁。如果对素颜柯洁我都能产生“也不是不行”的念头，那说明我的智性恋浓度已经高到需要干预了。这个时候就得赶紧刷几个无脑帅哥视频对冲一下，我还是希望自己能颜控一点的\n但现在柯洁真变帅了没法起到这个作用了 https://t.co/76jh4pqW2E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你找到我//我失踪的互关呢！// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2092508038683070661",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 81,
+          "like_count": 4777,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2049
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-05T04:33:43.000Z",
+        "description": "翻开一本名叫小浮的书\n 🫧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a4.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a4.xn--hv1a41u.com/#/register?code=tEHEouWf",
+                "start": 0,
+                "url": "https://t.co/X4NTG2Xs5g"
+              }
+            ]
+          }
+        },
+        "id": "1687683090133778432",
+        "is_identity_verified": false,
+        "location": "自用🪜👉🏻",
+        "most_recent_tweet_id": "2092337220644634835",
+        "name": "floating ice🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687683090133778432/1744452443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910967605361336320/A4fpw_S-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32233,
+          "following_count": 88,
+          "like_count": 25339,
+          "listed_count": 79,
+          "media_count": 267,
+          "tweet_count": 5131
+        },
+        "url": "https://t.co/X4NTG2Xs5g",
+        "username": "nonsense_778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

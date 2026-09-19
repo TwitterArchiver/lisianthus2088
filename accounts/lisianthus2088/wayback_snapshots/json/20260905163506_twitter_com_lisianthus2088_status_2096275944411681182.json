@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2096100105938170017",
+    "created_at": "2026-09-05T16:35:06.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096275944411681182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096275944411681182",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096103896276201503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 哇（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2096100105938170017",
+        "created_at": "2026-09-05T16:35:06.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096275944411681182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096275944411681182",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096103896276201503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 哇（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2096100105938170017",
+        "created_at": "2026-09-05T05:11:27.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096103896276201503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096103896276201503",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096100105938170017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我喜欢你（？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2096275944411681182",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 77,
+          "like_count": 4920,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜自诩为非自愿圣人｜审判我的一个就够｜中正平和｜最尊重零糖饮料之人｜没关系我不在乎｜\n\n置顶里有个码，感兴趣可以扫一下试试（？",
+        "id": "1862933126466666496",
+        "is_identity_verified": false,
+        "location": "上阙",
+        "most_recent_tweet_id": "2096234573416051153",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933126466666496/1733106559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1126,
+          "like_count": 80026,
+          "listed_count": 4,
+          "media_count": 1792,
+          "tweet_count": 40010
+        },
+        "url": "",
+        "username": "moremoreagain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

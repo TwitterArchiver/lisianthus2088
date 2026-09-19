@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2084875654496178504",
+    "created_at": "2026-08-05T05:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084875654496178504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gohome798/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/gohome798/status/2084650230012883070",
+          "start": 7,
+          "url": "https://t.co/uLnTFTKiHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084875654496178504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084650230012883070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好萌完全小猫 https://t.co/uLnTFTKiHy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7244,
+        "height": 1440,
+        "media_key": "13_2084650166217478144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084650166217478144/img/UDiTui5lRBaizZgk.jpg",
+        "public_metrics": {
+          "view_count": 7048
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084650166217478144/vid/avc1/480x270/y9FFxp_6EE2ecGq4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084650166217478144/vid/avc1/640x360/Y1-sH9kdYvMNzKzL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084650166217478144/vid/avc1/1280x720/6AuhTzWwr5o4isQ1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084650166217478144/pl/mNbrGurtmF5ppV0G.m3u8?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2084875654496178504",
+        "created_at": "2026-08-05T05:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084875654496178504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gohome798/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/gohome798/status/2084650230012883070",
+              "start": 7,
+              "url": "https://t.co/uLnTFTKiHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084875654496178504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084650230012883070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌完全小猫 https://t.co/uLnTFTKiHy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084650166217478144"
+          ]
+        },
+        "author_id": "1807059000783261696",
+        "conversation_id": "2084650230012883070",
+        "created_at": "2026-08-04T14:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084650230012883070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjC3AnOnQP",
+              "end": 29,
+              "expanded_url": "https://x.com/gohome798/status/2084650230012883070/video/1",
+              "media_key": "13_2084650166217478144",
+              "start": 6,
+              "url": "https://t.co/HjC3AnOnQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084650230012883070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 19664,
+          "like_count": 792,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "好不好嘛~ https://t.co/HjC3AnOnQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "喜欢萌物 私信只回宠物/风景/食物照片分享 随缘回关  失踪就是梯子掉了  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 86,
+          "like_count": 4568,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:30:26.000Z",
+        "description": "",
+        "id": "1807059000783261696",
+        "name": "糯米",
+        "pinned_tweet_id": "2062538290495213901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873337099652677632/U0WgSQ5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24427,
+          "following_count": 295,
+          "like_count": 25810,
+          "listed_count": 33,
+          "media_count": 270,
+          "tweet_count": 7662
+        },
+        "url": "",
+        "username": "gohome798",
+        "verified": false
+      }
+    ]
+  }
+}

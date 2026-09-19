@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2094350895496745137",
+    "created_at": "2026-08-31T12:15:13.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094398604438036483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2088451002622255104",
+          "start": 0,
+          "username": "Kushiii0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094398604438036483",
+    "in_reply_to_user_id": "2088451002622255104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094386591506874453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kushiii0 我糙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2094350895496745137",
+        "created_at": "2026-08-31T12:15:13.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094398604438036483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088451002622255104",
+              "start": 0,
+              "username": "Kushiii0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094398604438036483",
+        "in_reply_to_user_id": "2088451002622255104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094386591506874453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kushiii0 我糙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088451002622255104",
+        "conversation_id": "2094350895496745137",
+        "created_at": "2026-08-31T11:27:29.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094386591506874453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094386591506874453",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094350895496745137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 我操"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2094398604438036483",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2962,
+          "following_count": 79,
+          "like_count": 4882,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T02:27:17.000Z",
+        "description": "随便喘喘/switch",
+        "id": "2088451002622255104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094394581521694901",
+        "name": "Kushii",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088451002622255104/1787635027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994912721362944/e5_WGdz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "Kushiii0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

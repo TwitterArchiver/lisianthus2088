@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099845815544270848",
+        "3_2099845824461303808"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2099845834053738913",
+    "created_at": "2026-09-15T13:00:34.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099845834053738913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/75aE0PYqM4",
+          "end": 34,
+          "expanded_url": "https://x.com/lisianthus2088/status/2099845834053738913/photo/1",
+          "media_key": "3_2099845815544270848",
+          "start": 11,
+          "url": "https://t.co/75aE0PYqM4"
+        },
+        {
+          "display_url": "pic.x.com/75aE0PYqM4",
+          "end": 34,
+          "expanded_url": "https://x.com/lisianthus2088/status/2099845834053738913/photo/1",
+          "media_key": "3_2099845824461303808",
+          "start": 11,
+          "url": "https://t.co/75aE0PYqM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099845834053738913",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099845815544270848"
+      },
+      {
+        "media_key": "3_2099845824461303808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去太负面了被制裁了 https://t.co/75aE0PYqM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2099845815544270848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQmpM6bUAAZFb4.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2533,
+        "media_key": "3_2099845824461303808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQmpuIacAAYt7Y.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099845815544270848",
+            "3_2099845824461303808"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2099845834053738913",
+        "created_at": "2026-09-15T13:00:34.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099845834053738913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75aE0PYqM4",
+              "end": 34,
+              "expanded_url": "https://x.com/lisianthus2088/status/2099845834053738913/photo/1",
+              "media_key": "3_2099845815544270848",
+              "start": 11,
+              "url": "https://t.co/75aE0PYqM4"
+            },
+            {
+              "display_url": "pic.x.com/75aE0PYqM4",
+              "end": 34,
+              "expanded_url": "https://x.com/lisianthus2088/status/2099845834053738913/photo/1",
+              "media_key": "3_2099845824461303808",
+              "start": 11,
+              "url": "https://t.co/75aE0PYqM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099845834053738913",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099845815544270848"
+          },
+          {
+            "media_key": "3_2099845824461303808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去太负面了被制裁了 https://t.co/75aE0PYqM4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2099845834053738913",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 82,
+          "like_count": 5045,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2147
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

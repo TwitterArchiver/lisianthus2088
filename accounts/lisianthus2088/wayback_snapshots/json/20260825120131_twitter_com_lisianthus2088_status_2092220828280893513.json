@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2092116695825740193",
+    "created_at": "2026-08-25T12:01:31.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092220828280893513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2090485992373497856",
+          "start": 0,
+          "username": "Demonnn77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092220828280893513",
+    "in_reply_to_user_id": "2090485992373497856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092116695825740193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Demonnn77 好犀利笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2092116695825740193",
+        "created_at": "2026-08-25T12:01:31.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092220828280893513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090485992373497856",
+              "start": 0,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092220828280893513",
+        "in_reply_to_user_id": "2090485992373497856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092116695825740193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Demonnn77 好犀利笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2092116695825740193",
+        "created_at": "2026-08-25T05:07:44.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092116695825740193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092116695825740193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16093,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3cm？干脆割了当我女朋友吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "私信只回宠物/风景/食物照片分享 随缘回关  失踪就是梯子掉了  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2092220828280893513",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 78,
+          "like_count": 4714,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈♀双相 老公奴 pr80梦女 阴间引路人\n通过我的邀请链接下载https://t.co/EsemuDCOeK 即可获得24小时免费高速vpn哦↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "iPoW.ai",
+                "end": 55,
+                "expanded_url": "http://iPoW.ai",
+                "start": 32,
+                "url": "https://t.co/EsemuDCOeK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipow.ai/invite?ref=5ea…",
+                "end": 23,
+                "expanded_url": "http://ipow.ai/invite?ref=5eae52",
+                "start": 0,
+                "url": "https://t.co/hxPGdHTAuo"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": ":3",
+        "most_recent_tweet_id": "2092219554177139057",
+        "name": "三清剑",
+        "pinned_tweet_id": "2092189933910081543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091955819143462913/4omDxaX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 133,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/hxPGdHTAuo",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

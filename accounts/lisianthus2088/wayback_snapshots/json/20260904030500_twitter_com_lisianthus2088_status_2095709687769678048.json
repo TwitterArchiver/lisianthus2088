@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2095067519984050540",
+    "created_at": "2026-09-04T03:05:00.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095709687769678048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2089243163873693696",
+          "start": 0,
+          "username": "e1viore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095709687769678048",
+    "in_reply_to_user_id": "2089243163873693696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095067519984050540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e1viore 妈咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2095067514791399425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMszfeaEAEzdd3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2095067519984050540",
+        "created_at": "2026-09-04T03:05:00.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095709687769678048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2089243163873693696",
+              "start": 0,
+              "username": "e1viore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095709687769678048",
+        "in_reply_to_user_id": "2089243163873693696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095067519984050540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e1viore 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095067514791399425"
+          ]
+        },
+        "author_id": "2089243163873693696",
+        "conversation_id": "2095067519984050540",
+        "created_at": "2026-09-02T08:33:15.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095067519984050540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMD72Yo1gH",
+              "end": 36,
+              "expanded_url": "https://x.com/e1viore/status/2095067519984050540/photo/1",
+              "media_key": "3_2095067514791399425",
+              "start": 13,
+              "url": "https://t.co/NMD72Yo1gH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095067519984050540",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2095067514791399425"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 16711,
+          "like_count": 1137,
+          "quote_count": 9,
+          "reply_count": 59,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "정장의 계절이 오고있다 https://t.co/NMD72Yo1gH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2095709687769678048",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 77,
+          "like_count": 4926,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T06:51:03.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/e1viore",
+                "end": 23,
+                "expanded_url": "https://asked.kr/e1viore",
+                "start": 0,
+                "url": "https://t.co/nYfkW7vCPj"
+              }
+            ]
+          }
+        },
+        "id": "2089243163873693696",
+        "is_identity_verified": false,
+        "location": "사심❌",
+        "most_recent_tweet_id": "2095585351998034239",
+        "name": "EL",
+        "pinned_tweet_id": "2095067519984050540",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089243788321632256/TPut6Ttf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 140,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/nYfkW7vCPj",
+        "username": "e1viore",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2098380893220135345",
+    "created_at": "2026-09-12T06:31:54.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098660860059430972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989935347317575681",
+          "start": 0,
+          "username": "realhkprincess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098660860059430972",
+    "in_reply_to_user_id": "1989935347317575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098380893220135345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realhkprincess 装纯会不会太涩情了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2098380893220135345",
+        "created_at": "2026-09-12T06:31:54.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098660860059430972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989935347317575681",
+              "start": 0,
+              "username": "realhkprincess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098660860059430972",
+        "in_reply_to_user_id": "1989935347317575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098380893220135345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realhkprincess 装纯会不会太涩情了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989935347317575681",
+        "conversation_id": "2098380893220135345",
+        "created_at": "2026-09-11T11:59:25.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098380893220135345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098380893220135345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 27354,
+          "like_count": 850,
+          "quote_count": 14,
+          "reply_count": 66,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂一下处男感但是经验丰富很会玩的男生，白天在外面的时候和小处男一样，调戏他偶尔摸一下会脸红手足无措，很害羞地跟你说不要在外面这样，回家关上门就把你按在墙上亲，另一只手熟练脱掉内裤把小穴揉出水，一边说白天怎么玩他现在都找回来，一边操到腿发抖哭不出声，还要让你听自己被操出来的水声"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2098660860059430972",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 82,
+          "like_count": 5016,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T05:55:48.000Z",
+        "description": "estp 双/每天能不能涨两个粉/是废话很多的一个女大/会发照片+吐槽+日常碎碎念+写文/文科在读/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realhkprincess",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realhkprincess",
+                "start": 0,
+                "url": "https://t.co/7NCyR9hgzW"
+              }
+            ]
+          }
+        },
+        "id": "1989935347317575681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098461780708401451",
+        "name": "kk小猫派",
+        "pinned_tweet_id": "2077393706316173658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989935347317575681/1764301187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989937055665983490/yOqLlTmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9625,
+          "following_count": 110,
+          "like_count": 5881,
+          "listed_count": 7,
+          "media_count": 163,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/7NCyR9hgzW",
+        "username": "realhkprincess",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2099344825065898061",
+    "created_at": "2026-09-14T03:49:44.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099344825065898061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2089319216205942784",
+          "start": 3,
+          "username": "Blue68mx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099344825065898061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098796529654128782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue68mx: 我喜欢玩手指 拥抱 摸头 靠肩膀 戳一戳 捏捏脸 揪揪耳朵 刮刮鼻子 抓着手腕等这些动作 让我感觉到既暧昧又甜蜜 两个人没有太过火的亲密行为 可是仅仅这样就已经够有氛围了 并且会记住很长时间…很青涩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2099344825065898061",
+        "created_at": "2026-09-14T03:49:44.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099344825065898061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089319216205942784",
+              "start": 3,
+              "username": "Blue68mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099344825065898061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098796529654128782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue68mx: 我喜欢玩手指 拥抱 摸头 靠肩膀 戳一戳 捏捏脸 揪揪耳朵 刮刮鼻子 抓着手腕等这些动作 让我感觉到既暧昧又甜蜜 两个人没有太过火的亲密行为 可是仅仅这样就已经够有氛围了 并且会记住很长时间…很青涩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089319216205942784",
+        "conversation_id": "2098796529654128782",
+        "created_at": "2026-09-12T15:31:01.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098796529654128782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098796529654128782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 20702,
+          "like_count": 454,
+          "quote_count": 11,
+          "reply_count": 30,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢玩手指 拥抱 摸头 靠肩膀 戳一戳 捏捏脸 揪揪耳朵 刮刮鼻子 抓着手腕等这些动作 让我感觉到既暧昧又甜蜜 两个人没有太过火的亲密行为 可是仅仅这样就已经够有氛围了 并且会记住很长时间…很青涩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2099344825065898061",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 82,
+          "like_count": 5048,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T11:53:34.000Z",
+        "description": "不闲聊 把这里当日记",
+        "id": "2089319216205942784",
+        "is_identity_verified": false,
+        "location": "赫尔辛根.莫斯肯",
+        "most_recent_tweet_id": "2099145966284910953",
+        "name": "Blue",
+        "pinned_tweet_id": "2091150723375562836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089319216205942784/1788240755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089319897750970369/Me2x88RN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 6,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "Blue68mx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

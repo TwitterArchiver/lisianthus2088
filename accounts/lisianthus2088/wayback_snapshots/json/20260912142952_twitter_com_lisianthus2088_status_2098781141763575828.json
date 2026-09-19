@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2098770294462898560",
+    "created_at": "2026-09-12T14:29:52.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098781141763575828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098781141763575828",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098770294462898560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama 我去我需要这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_2098770289698148352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBUdW6aEAAOoUK.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2098770294462898560",
+        "created_at": "2026-09-12T14:29:52.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098781141763575828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098781141763575828",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098770294462898560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama 我去我需要这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098770289698148352"
+          ]
+        },
+        "author_id": "1584061393543626752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098770294462898560",
+        "created_at": "2026-09-12T13:46:46.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098770294462898560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8ApJI8JdL",
+              "end": 31,
+              "expanded_url": "https://x.com/borzoisama/status/2098770294462898560/photo/1",
+              "media_key": "3_2098770289698148352",
+              "start": 8,
+              "url": "https://t.co/m8ApJI8JdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098770294462898560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098770289698148352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家晚上好👋🏻 https://t.co/m8ApJI8JdL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2098781141763575828",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 82,
+          "like_count": 5032,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "超绝低精力抽象乐子狗狗人",
+        "id": "1584061393543626752",
+        "is_identity_verified": false,
+        "location": "被子里",
+        "most_recent_tweet_id": "2098775150418440450",
+        "name": "波索尔",
+        "pinned_tweet_id": "2000158324877398121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584061393543626752/1734435901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 177,
+          "like_count": 35148,
+          "listed_count": 2,
+          "media_count": 847,
+          "tweet_count": 10624
+        },
+        "url": "",
+        "username": "borzoisama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

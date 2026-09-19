@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2096557061752361075",
+    "created_at": "2026-09-07T14:52:19.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096974852578283732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096974852578283732",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096557061752361075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 诶兄弟你怎么拉上手了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2096557050343931904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh3h30XQAACRKq.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2096557050486718464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh3h4WaAAABe-9.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2096557061752361075",
+        "created_at": "2026-09-07T14:52:19.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096974852578283732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096974852578283732",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096557061752361075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 诶兄弟你怎么拉上手了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096557050343931904",
+            "3_2096557050486718464"
+          ]
+        },
+        "author_id": "1878142610805788672",
+        "conversation_id": "2096557061752361075",
+        "created_at": "2026-09-06T11:12:10.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096557061752361075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrmHrTh9TK",
+              "end": 33,
+              "expanded_url": "https://x.com/yukinoo_123/status/2096557061752361075/photo/1",
+              "media_key": "3_2096557050343931904",
+              "start": 10,
+              "url": "https://t.co/jrmHrTh9TK"
+            },
+            {
+              "display_url": "pic.x.com/jrmHrTh9TK",
+              "end": 33,
+              "expanded_url": "https://x.com/yukinoo_123/status/2096557061752361075/photo/1",
+              "media_key": "3_2096557050486718464",
+              "start": 10,
+              "url": "https://t.co/jrmHrTh9TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096557061752361075",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096557050343931904"
+          },
+          {
+            "media_key": "3_2096557050486718464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19432,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 183,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唉兄弟你为啥拉我手 https://t.co/jrmHrTh9TK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2096974852578283732",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3033,
+          "following_count": 81,
+          "like_count": 4924,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "我很爱我男朋友。希望你有礼貌\n把我内容发墙内的全家替我挡灾😇\n匿名提问🔗 https://t.co/pTsNSyYIuO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7hooi",
+                "end": 60,
+                "expanded_url": "https://ngl.link/7hooi",
+                "start": 37,
+                "url": "https://t.co/pTsNSyYIuO"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "is_identity_verified": false,
+        "location": "不与傻瓜论短长。问我约不约的你全家死完了",
+        "most_recent_tweet_id": "2096933490642030648",
+        "name": "分手后用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "2043662068956471786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878142610805788672/1770780779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051229318081400832/uQwMMOCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 346,
+          "like_count": 2899,
+          "listed_count": 10,
+          "media_count": 266,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "yukinoo_123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

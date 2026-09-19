@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2085680099635192248",
+    "created_at": "2026-08-07T14:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085738458530947168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529654419213541376",
+          "start": 0,
+          "username": "3LifeStrongWine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085738458530947168",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085680099635192248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3LifeStrongWine 66又不是你买的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2085680089233346560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHS_aHb0AA5Bf8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2085680099635192248",
+        "created_at": "2026-08-07T14:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085738458530947168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085738458530947168",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085680099635192248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 66又不是你买的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085680089233346560"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2085680099635192248",
+        "created_at": "2026-08-07T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085680099635192248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GA8rh6m1iI",
+              "end": 32,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2085680099635192248/photo/1",
+              "media_key": "3_2085680089233346560",
+              "start": 9,
+              "url": "https://t.co/GA8rh6m1iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085680099635192248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是说好不买的吗 https://t.co/GA8rh6m1iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "喜欢萌物 私信只回宠物/风景/食物照片分享 随缘回关  失踪就是梯子掉了  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 86,
+          "like_count": 4634,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 96,
+          "like_count": 6811,
+          "listed_count": 14,
+          "media_count": 3746,
+          "tweet_count": 14571
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

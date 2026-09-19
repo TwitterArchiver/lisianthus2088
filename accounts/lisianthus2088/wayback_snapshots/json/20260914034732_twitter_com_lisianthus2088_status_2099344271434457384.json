@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2099117419231170934",
+    "created_at": "2026-09-14T03:47:32.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099344271434457384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740971205824516096",
+          "start": 0,
+          "username": "Trouble_Marker_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099344271434457384",
+    "in_reply_to_user_id": "1740971205824516096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099187975431049617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trouble_Marker_ 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2099117419231170934",
+        "created_at": "2026-09-14T03:47:32.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099344271434457384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740971205824516096",
+              "start": 0,
+              "username": "Trouble_Marker_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099344271434457384",
+        "in_reply_to_user_id": "1740971205824516096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099187975431049617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trouble_Marker_ 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740971205824516096",
+        "conversation_id": "2099117419231170934",
+        "created_at": "2026-09-13T17:26:29.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099187975431049617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099187975431049617",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099117419231170934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 懂你意思，这太容易发展成自由搏击了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2099344271434457384",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 82,
+          "like_count": 5046,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-30T05:41:08.000Z",
+        "description": "我给你脸了是吧",
+        "id": "1740971205824516096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099188229882741208",
+        "name": "螳螂妈",
+        "pinned_tweet_id": "2027442826787881444",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099185645570699267/eUfzP5Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 46,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "Trouble_Marker_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

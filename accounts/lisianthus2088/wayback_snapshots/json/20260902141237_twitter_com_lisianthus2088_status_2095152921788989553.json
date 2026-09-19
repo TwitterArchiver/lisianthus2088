@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095152915430391810"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095152921788989553",
+    "created_at": "2026-09-02T14:12:37.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095152921788989553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O6x1zkSUxE",
+          "end": 33,
+          "expanded_url": "https://x.com/lisianthus2088/status/2095152921788989553/photo/1",
+          "media_key": "3_2095152915430391810",
+          "start": 10,
+          "url": "https://t.co/O6x1zkSUxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095152921788989553",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095152915430391810"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "e一定要这么幼稚吗 https://t.co/O6x1zkSUxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2095152915430391810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN6edpaQAIZtTQ.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095152915430391810"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095152921788989553",
+        "created_at": "2026-09-02T14:12:37.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095152921788989553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6x1zkSUxE",
+              "end": 33,
+              "expanded_url": "https://x.com/lisianthus2088/status/2095152921788989553/photo/1",
+              "media_key": "3_2095152915430391810",
+              "start": 10,
+              "url": "https://t.co/O6x1zkSUxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095152921788989553",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095152915430391810"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "e一定要这么幼稚吗 https://t.co/O6x1zkSUxE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2095152921788989553",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 76,
+          "like_count": 4919,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

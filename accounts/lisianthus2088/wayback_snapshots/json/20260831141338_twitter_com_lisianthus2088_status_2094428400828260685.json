@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2094405137242747014",
+    "created_at": "2026-08-31T14:13:38.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094428400828260685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        },
+        {
+          "end": 24,
+          "id": "1922650331454058496",
+          "start": 11,
+          "username": "xiaoshu_yy33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094428400828260685",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094426552930799619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 @xiaoshu_yy33 哇谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2094405137242747014",
+        "created_at": "2026-08-31T14:13:38.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094428400828260685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            },
+            {
+              "end": 24,
+              "id": "1922650331454058496",
+              "start": 11,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094428400828260685",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094426552930799619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 @xiaoshu_yy33 哇谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944679199358570496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2094405137242747014",
+        "created_at": "2026-08-31T14:06:17.000Z",
+        "display_text_range": [
+          30,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094426552930799619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            },
+            {
+              "end": 29,
+              "id": "1922650331454058496",
+              "start": 16,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094426552930799619",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094425218337120299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 @xiaoshu_yy33 threads"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2094428400828260685",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 80,
+          "like_count": 4901,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094426552930799619",
+        "name": "miovo",
+        "pinned_tweet_id": "2082239946614784158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944679199358570496/1752484102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 237,
+          "like_count": 21037,
+          "listed_count": 7,
+          "media_count": 249,
+          "tweet_count": 3825
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️｜喜欢我就打钱",
+        "id": "1922650331454058496",
+        "is_identity_verified": false,
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "most_recent_tweet_id": "2094428146355606000",
+        "name": "解树",
+        "pinned_tweet_id": "2088915276603809855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922650331454058496/1784066572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092683222652252161/fANVVr7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 51,
+          "like_count": 1672,
+          "listed_count": 18,
+          "media_count": 312,
+          "tweet_count": 3178
+        },
+        "url": "",
+        "username": "xiaoshu_yy33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

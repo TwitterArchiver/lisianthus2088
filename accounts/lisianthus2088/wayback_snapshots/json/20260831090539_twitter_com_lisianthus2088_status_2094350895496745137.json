@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094350822171918336"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2094350895496745137",
+    "created_at": "2026-08-31T09:05:39.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094350895496745137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FxUEpFPyJ",
+          "end": 23,
+          "expanded_url": "https://x.com/lisianthus2088/status/2094350895496745137/photo/1",
+          "media_key": "3_2094350822171918336",
+          "start": 0,
+          "url": "https://t.co/8FxUEpFPyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094350895496745137",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094350822171918336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/8FxUEpFPyJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4017,
+        "media_key": "3_2094350822171918336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCg-faawAATEpH.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094350822171918336"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2094350895496745137",
+        "created_at": "2026-08-31T09:05:39.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094350895496745137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FxUEpFPyJ",
+              "end": 23,
+              "expanded_url": "https://x.com/lisianthus2088/status/2094350895496745137/photo/1",
+              "media_key": "3_2094350822171918336",
+              "start": 0,
+              "url": "https://t.co/8FxUEpFPyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094350895496745137",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094350822171918336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8FxUEpFPyJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你找到我//我失踪的互关呢！// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2094350895496745137",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 79,
+          "like_count": 4882,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

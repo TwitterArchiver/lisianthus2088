@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2099117419231170934",
+    "created_at": "2026-09-13T13:49:23.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099133341194957171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598129227034857473",
+          "start": 0,
+          "username": "Hi558575331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099133341194957171",
+    "in_reply_to_user_id": "1598129227034857473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099127210288574743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hi558575331 只会更angry吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2099117419231170934",
+        "created_at": "2026-09-13T13:49:23.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099133341194957171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598129227034857473",
+              "start": 0,
+              "username": "Hi558575331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099133341194957171",
+        "in_reply_to_user_id": "1598129227034857473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099127210288574743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hi558575331 只会更angry吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598129227034857473",
+        "conversation_id": "2099117419231170934",
+        "created_at": "2026-09-13T13:25:01.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099127210288574743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099127210288574743",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099117419231170934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 只会更angry吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2099133341194957171",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 83,
+          "like_count": 5047,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-01T01:38:08.000Z",
+        "description": "修仙日记 | 传递正能量\n善良是一种美德\n美德是一种智慧\n智慧是一种天赋\n天赋是最强王者十一星",
+        "id": "1598129227034857473",
+        "is_identity_verified": false,
+        "location": "Earth ",
+        "most_recent_tweet_id": "2099133272601268229",
+        "name": "你不要胡说",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598129227034857473/1784962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090854770429108224/dDKKouCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12782,
+          "following_count": 308,
+          "like_count": 52647,
+          "listed_count": 53,
+          "media_count": 3852,
+          "tweet_count": 43575
+        },
+        "url": "",
+        "username": "Hi558575331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2092634430770929795",
+    "created_at": "2026-08-26T15:25:02.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092634430770929795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Heartfe1tear7/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Heartfe1tear7/status/2092593500194054367",
+          "start": 19,
+          "url": "https://t.co/pmQ8AZdQc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092634430770929795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092593500194054367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈的全世界都在谈恋爱是怎么回事呢。 https://t.co/pmQ8AZdQc8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2092634430770929795",
+        "created_at": "2026-08-26T15:25:02.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092634430770929795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Heartfe1tear7/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Heartfe1tear7/status/2092593500194054367",
+              "start": 19,
+              "url": "https://t.co/pmQ8AZdQc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092634430770929795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092593500194054367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的全世界都在谈恋爱是怎么回事呢。 https://t.co/pmQ8AZdQc8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051990529483927552",
+        "conversation_id": "2092593500194054367",
+        "created_at": "2026-08-26T12:42:23.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092593500194054367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanoyoruuu/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/wanoyoruuu/status/2092564301068574919",
+              "start": 19,
+              "url": "https://t.co/9TS9qKzj2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092593500194054367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092564301068574919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的全世界都在谈恋爱是怎么回事呢。 https://t.co/9TS9qKzj2F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你找到我//我失踪的互关呢！// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2092634430770929795",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2951,
+          "following_count": 80,
+          "like_count": 4792,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T11:45:51.000Z",
+        "description": "i was only temporary 2 u\nswitch 双 @Na1vetear7\n不约不线下不聊骚不回私信\n只加互关 骂我先给我打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Na1vetear7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/die4u87718",
+                "end": 23,
+                "expanded_url": "https://ngl.link/die4u87718",
+                "start": 0,
+                "url": "https://t.co/obGCOEHWJU"
+              }
+            ]
+          }
+        },
+        "id": "2051990529483927552",
+        "is_identity_verified": false,
+        "location": "🚪52/88",
+        "most_recent_tweet_id": "2092595207649005938",
+        "name": "4747",
+        "pinned_tweet_id": "2068291018815152149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051990529483927552/1782992244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082457550386278400/e5DwgJ2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 247,
+          "like_count": 4975,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/obGCOEHWJU",
+        "username": "Heartfe1tear7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

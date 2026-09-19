@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084299940894015489"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "conversation_id": "2084299952277373191",
+    "created_at": "2026-08-03T15:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084299952277373191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEt49DJ0kd",
+          "end": 41,
+          "expanded_url": "https://x.com/lisianthus2088/status/2084299952277373191/photo/1",
+          "media_key": "3_2084299940894015489",
+          "start": 18,
+          "url": "https://t.co/wEt49DJ0kd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084299952277373191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嫌垃圾信息不够多的可以来我粉丝群玩 https://t.co/wEt49DJ0kd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2586,
+        "media_key": "3_2084299940894015489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzrwM5bAAEfY4p.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084299940894015489"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "conversation_id": "2084299952277373191",
+        "created_at": "2026-08-03T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084299952277373191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEt49DJ0kd",
+              "end": 41,
+              "expanded_url": "https://x.com/lisianthus2088/status/2084299952277373191/photo/1",
+              "media_key": "3_2084299940894015489",
+              "start": 18,
+              "url": "https://t.co/wEt49DJ0kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084299952277373191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嫌垃圾信息不够多的可以来我粉丝群玩 https://t.co/wEt49DJ0kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "媒体页=纯享版   提问箱↓  不定时失踪人口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2978,
+          "following_count": 83,
+          "like_count": 4488,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

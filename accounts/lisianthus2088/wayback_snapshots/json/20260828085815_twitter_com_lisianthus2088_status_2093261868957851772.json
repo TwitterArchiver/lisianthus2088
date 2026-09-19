@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2093162007822262501",
+    "created_at": "2026-08-28T08:58:15.000Z",
+    "display_text_range": [
+      15,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093261868957851772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999161935875428352",
+          "start": 0,
+          "username": "PlzNoFare8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093261868957851772",
+    "in_reply_to_user_id": "1999161935875428352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093162007822262501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlzNoFare8964 怎么在做爱之前确认对方的属性啊 我真怕以后有了对象第一次做的时候他来一句妈妈踩我 那我真要屁滚尿流跑路了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2093162007822262501",
+        "created_at": "2026-08-28T08:58:15.000Z",
+        "display_text_range": [
+          15,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093261868957851772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999161935875428352",
+              "start": 0,
+              "username": "PlzNoFare8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093261868957851772",
+        "in_reply_to_user_id": "1999161935875428352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093162007822262501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlzNoFare8964 怎么在做爱之前确认对方的属性啊 我真怕以后有了对象第一次做的时候他来一句妈妈踩我 那我真要屁滚尿流跑路了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999161935875428352",
+        "conversation_id": "2093162007822262501",
+        "created_at": "2026-08-28T02:21:26.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093162007822262501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093162007822262501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26765,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么在做爱之前确认对方的属性啊 我真怕以后有了对象第一次做的时候他来一句妈妈踩我 那我真要屁滚尿流跑路了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你找到我//我失踪的互关呢！// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2093261868957851772",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 80,
+          "like_count": 4878,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T17:00:56.000Z",
+        "description": "谢谢你喜欢我 虽然这是你应该做的\n防丢小号@jinzhifare\n搬运4️⃣全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "jinzhifare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plznofare",
+                "end": 23,
+                "expanded_url": "https://ngl.link/plznofare",
+                "start": 0,
+                "url": "https://t.co/ggtDqaWFC6"
+              }
+            ]
+          }
+        },
+        "id": "1999161935875428352",
+        "is_identity_verified": false,
+        "location": "🇬🇧",
+        "most_recent_tweet_id": "2093254750313623956",
+        "name": "禁止发热",
+        "pinned_tweet_id": "2057276967653638149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999161935875428352/1765477967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999164161431896064/JyH2A1uS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 109,
+          "like_count": 6799,
+          "listed_count": 8,
+          "media_count": 295,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/ggtDqaWFC6",
+        "username": "PlzNoFare8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2094796107306148179",
+    "created_at": "2026-09-01T17:29:50.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094840164686368883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921228454504333312",
+          "start": 0,
+          "username": "starovoxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094840164686368883",
+    "in_reply_to_user_id": "1921228454504333312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094836064594870543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starovoxx 删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2094796107306148179",
+        "created_at": "2026-09-01T17:29:50.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094840164686368883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921228454504333312",
+              "start": 0,
+              "username": "starovoxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094840164686368883",
+        "in_reply_to_user_id": "1921228454504333312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094836064594870543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starovoxx 删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921228454504333312",
+        "conversation_id": "2094796107306148179",
+        "created_at": "2026-09-01T17:13:32.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094836064594870543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094836064594870543",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094796107306148179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 学妹我看到你领了抖音9.9团购券进了瑞幸！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2094840164686368883",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 76,
+          "like_count": 4918,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T15:39:14.000Z",
+        "description": "X不更新了 但是会看 接陪🥣\n喜欢我找我过门 🚪288 只回口令 其余私信不回复",
+        "id": "1921228454504333312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094836064594870543",
+        "name": "૮₍ ˶•⤙•˶ ₎ა",
+        "pinned_tweet_id": "2047074876968837512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921228454504333312/1776889787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047326774779072512/6DCAISMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3533,
+          "following_count": 20,
+          "like_count": 320,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "starovoxx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

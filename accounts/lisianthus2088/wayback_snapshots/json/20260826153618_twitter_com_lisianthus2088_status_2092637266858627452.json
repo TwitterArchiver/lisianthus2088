@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2092549348169257319",
+    "created_at": "2026-08-26T15:36:18.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092637266858627452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "969389763760291840",
+          "start": 0,
+          "username": "hishark777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092637266858627452",
+    "in_reply_to_user_id": "969389763760291840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092549348169257319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hishark777 这个我真想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092549340103589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo6ibvaQAAOv_i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092549340124626945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo6ib0bQAEPkSN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092549340179189760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo6icBb0AADyv_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092549340195856384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo6icFaIAA68w6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2092549348169257319",
+        "created_at": "2026-08-26T15:36:18.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092637266858627452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "969389763760291840",
+              "start": 0,
+              "username": "hishark777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092637266858627452",
+        "in_reply_to_user_id": "969389763760291840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092549348169257319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hishark777 这个我真想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092549340103589888",
+            "3_2092549340124626945",
+            "3_2092549340179189760",
+            "3_2092549340195856384"
+          ]
+        },
+        "author_id": "969389763760291840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092549348169257319",
+        "created_at": "2026-08-26T09:46:56.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092549348169257319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLAq8V6OdV",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092549348169257319/photo/1",
+              "media_key": "3_2092549340103589888",
+              "start": 29,
+              "url": "https://t.co/wLAq8V6OdV"
+            },
+            {
+              "display_url": "pic.x.com/wLAq8V6OdV",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092549348169257319/photo/1",
+              "media_key": "3_2092549340124626945",
+              "start": 29,
+              "url": "https://t.co/wLAq8V6OdV"
+            },
+            {
+              "display_url": "pic.x.com/wLAq8V6OdV",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092549348169257319/photo/1",
+              "media_key": "3_2092549340179189760",
+              "start": 29,
+              "url": "https://t.co/wLAq8V6OdV"
+            },
+            {
+              "display_url": "pic.x.com/wLAq8V6OdV",
+              "end": 52,
+              "expanded_url": "https://x.com/hishark777/status/2092549348169257319/photo/1",
+              "media_key": "3_2092549340195856384",
+              "start": 29,
+              "url": "https://t.co/wLAq8V6OdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092549348169257319",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092549340103589888"
+          },
+          {
+            "media_key": "3_2092549340124626945"
+          },
+          {
+            "media_key": "3_2092549340179189760"
+          },
+          {
+            "media_key": "3_2092549340195856384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8570,
+          "like_count": 342,
+          "quote_count": 2,
+          "reply_count": 70,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我上条推特怎么突然爆了谢谢大家我又炖了一份咖喱牛肉！ https://t.co/wLAq8V6OdV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你找到我//我失踪的互关呢！// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2092637266858627452",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2951,
+          "following_count": 80,
+          "like_count": 4805,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2057
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-02T01:51:44.000Z",
+        "description": "屁话很多 只爱发碎碎念 ENFJ \n是全世界中很小的一只 NPC",
+        "id": "969389763760291840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092612079442383087",
+        "name": "喂鯊魚",
+        "pinned_tweet_id": "1454258962677653504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969389763760291840/1774847799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083020844507578368/uH6R6ZqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 522,
+          "like_count": 269,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "hishark777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

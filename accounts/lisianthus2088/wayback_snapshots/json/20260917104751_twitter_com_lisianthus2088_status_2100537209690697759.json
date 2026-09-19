@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100040466666577920"
+      ],
+      "media_source_tweet_id": [
+        "2100055572272013670"
+      ]
+    },
+    "author_id": "1992095465559715840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      }
+    ],
+    "conversation_id": "2100537209690697759",
+    "created_at": "2026-09-17T10:47:51.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100537209690697759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993885825243992070",
+          "start": 3,
+          "username": "Mrsnowyycat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6b100ZMiam",
+          "end": 64,
+          "expanded_url": "https://x.com/Mrsnowyycat/status/2100055572272013670/video/1",
+          "media_key": "13_2100040466666577920",
+          "start": 41,
+          "url": "https://t.co/6b100ZMiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100537209690697759",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2100040466666577920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100055572272013670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mrsnowyycat: When You Annoy Your Cat https://t.co/6b100ZMiam"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62733,
+        "height": 608,
+        "media_key": "13_2100040466666577920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100040466666577920/img/YDOGkYWzy7RzAJQU.jpg",
+        "public_metrics": {
+          "view_count": 356152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100040466666577920/vid/avc1/320x424/4-zaPcciwlezRCbe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100040466666577920/vid/avc1/458x608/pbm5enxhEGF-SG4n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100040466666577920/pl/2gYKl_XRAxm6mvV_.m3u8?v=952"
+          }
+        ],
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100040466666577920"
+          ],
+          "media_source_tweet_id": [
+            "2100055572272013670"
+          ]
+        },
+        "author_id": "1992095465559715840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          }
+        ],
+        "conversation_id": "2100537209690697759",
+        "created_at": "2026-09-17T10:47:51.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100537209690697759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993885825243992070",
+              "start": 3,
+              "username": "Mrsnowyycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6b100ZMiam",
+              "end": 64,
+              "expanded_url": "https://x.com/Mrsnowyycat/status/2100055572272013670/video/1",
+              "media_key": "13_2100040466666577920",
+              "start": 41,
+              "url": "https://t.co/6b100ZMiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100537209690697759",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100040466666577920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100055572272013670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mrsnowyycat: When You Annoy Your Cat https://t.co/6b100ZMiam"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100040466666577920"
+          ]
+        },
+        "author_id": "1993885825243992070",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          }
+        ],
+        "conversation_id": "2100055572272013670",
+        "created_at": "2026-09-16T02:54:00.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100055572272013670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6b100ZMiam",
+              "end": 47,
+              "expanded_url": "https://x.com/Mrsnowyycat/status/2100055572272013670/video/1",
+              "media_key": "13_2100040466666577920",
+              "start": 24,
+              "url": "https://t.co/6b100ZMiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100055572272013670",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100040466666577920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2130,
+          "impression_count": 500891,
+          "like_count": 18894,
+          "quote_count": 15,
+          "reply_count": 18,
+          "retweet_count": 1377
+        },
+        "reply_settings": "everyone",
+        "text": "When You Annoy Your Cat https://t.co/6b100ZMiam"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2100537209690697759",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2094350895496745137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 82,
+          "like_count": 5102,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-27T03:33:44.000Z",
+        "description": "Name: Snowy ❄️ \nGender: Handsome\n🤍 \nEyes: Don’t match\nand neither does my attitude 😺",
+        "id": "1993885825243992070",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100494268158931434",
+        "name": "Snowy ❄️ Eyes That Steal Hearts 💙",
+        "pinned_tweet_id": "2099472122582290733",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993885825243992070/1784972694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080952414417649664/MMbuOyD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26499,
+          "following_count": 2,
+          "like_count": 132,
+          "listed_count": 25,
+          "media_count": 8055,
+          "tweet_count": 9799
+        },
+        "url": "",
+        "username": "Mrsnowyycat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

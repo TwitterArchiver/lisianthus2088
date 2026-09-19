@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2098002696418869491",
+    "created_at": "2026-09-11T13:33:38.000Z",
+    "display_text_range": [
+      22,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098404602433749315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2087183074970963968",
+          "start": 0,
+          "username": "Wewtyrxx"
+        },
+        {
+          "end": 21,
+          "id": "1905566526595629060",
+          "start": 10,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098404602433749315",
+    "in_reply_to_user_id": "2087183074970963968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098106358587641866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wewtyrxx @Apipleeeee 就是胡乱跟人聊天（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2098002696418869491",
+        "created_at": "2026-09-11T13:33:38.000Z",
+        "display_text_range": [
+          22,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098404602433749315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2087183074970963968",
+              "start": 0,
+              "username": "Wewtyrxx"
+            },
+            {
+              "end": 21,
+              "id": "1905566526595629060",
+              "start": 10,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098404602433749315",
+        "in_reply_to_user_id": "2087183074970963968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098106358587641866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wewtyrxx @Apipleeeee 就是胡乱跟人聊天（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087183074970963968",
+        "conversation_id": "2098002696418869491",
+        "created_at": "2026-09-10T17:48:31.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098106358587641866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992095465559715840",
+              "start": 0,
+              "username": "lisianthus2088"
+            },
+            {
+              "end": 27,
+              "id": "1905566526595629060",
+              "start": 16,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098106358587641866",
+        "in_reply_to_user_id": "1992095465559715840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098057514793239021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisianthus2088 @Apipleeeee 什么是乱聊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你听我的絮絮叨叨// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2098404602433749315",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 82,
+          "like_count": 4971,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T14:23:55.000Z",
+        "description": "",
+        "id": "2087183074970963968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098106358587641866",
+        "name": "Wewtyr",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096328869745999872/owiIC2NO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Wewtyrxx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "work-fengniao.com",
+                "end": 23,
+                "expanded_url": "https://www.work-fengniao.com",
+                "start": 0,
+                "url": "https://t.co/Dsq2OLMIWP"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098367552061947968",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905566526595629060/1770901033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14010,
+          "following_count": 1,
+          "like_count": 5031,
+          "listed_count": 35,
+          "media_count": 616,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/Dsq2OLMIWP",
+        "username": "Apipleeeee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

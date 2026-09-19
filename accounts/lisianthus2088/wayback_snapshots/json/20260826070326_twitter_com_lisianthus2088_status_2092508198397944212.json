@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992095465559715840",
+    "conversation_id": "2092248032985374934",
+    "created_at": "2026-08-26T07:03:26.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092508198397944212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496882698119368704",
+          "start": 0,
+          "username": "cyloveziyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092508198397944212",
+    "in_reply_to_user_id": "1496882698119368704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092248032985374934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyloveziyou 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092248018292789248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkofMhbUAAO7a7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2092248032985374934",
+        "created_at": "2026-08-26T07:03:26.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092508198397944212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496882698119368704",
+              "start": 0,
+              "username": "cyloveziyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092508198397944212",
+        "in_reply_to_user_id": "1496882698119368704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092248032985374934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyloveziyou 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092248018292789248"
+          ]
+        },
+        "author_id": "1496882698119368704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092248032985374934",
+        "created_at": "2026-08-25T13:49:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092248032985374934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlRL9eYvwJ",
+              "end": 35,
+              "expanded_url": "https://x.com/cyloveziyou/status/2092248032985374934/photo/1",
+              "media_key": "3_2092248018292789248",
+              "start": 12,
+              "url": "https://t.co/hlRL9eYvwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092248032985374934",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092248018292789248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4429,
+          "like_count": 264,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的18岁，要一直明媚 https://t.co/hlRL9eYvwJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "谢谢你找到我//我失踪的互关呢！// 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsVGdy"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "is_identity_verified": false,
+        "location": "≤0m",
+        "most_recent_tweet_id": "2092508198397944212",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992095465559715840/1775797426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 81,
+          "like_count": 4780,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/7HxnVsVGdy",
+        "username": "lisianthus2088",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-24T16:20:50.000Z",
+        "description": "alf大好き！！！！！！！！！！\n08年の（＾ω＾）",
+        "id": "1496882698119368704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092483726886441364",
+        "name": "kawaiiii小熠",
+        "pinned_tweet_id": "2053134802224914523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1496882698119368704/1777820380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053150556278124544/amWsL0Xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 225,
+          "like_count": 9043,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "cyloveziyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
